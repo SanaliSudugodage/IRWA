@@ -1,0 +1,43 @@
+# API
+fastapi
+uvicorn[standard]
+pydantic
+httpx
+
+# LLM / RAG
+openai
+tiktoken
+sentence-transformers
+faiss-cpu
+transformers
+
+# NLP
+nltk
+spacy
+
+# Utils
+python-dotenv
+loguru
+rich
+
+# Security
+slowapi
+bleach
+
+# Tests / Quality
+pytest
+pytest-asyncio
+black
+isort
+pre-commit
+
+
+pydantic-settings
+
+
+requests
+
+pypdf
+
+multipart
+accelerate

@@ -1,0 +1,1408 @@
+Nutrition support for 
+adults: oral nutrition 
+support, enteral tube 
+feeding and parenteral 
+nutrition 
+Clinical guideline 
+Published: 22 February 2006 
+Last updated: 4 August 2017 
+www.nice.org.uk/guidance/cg32 
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Your responsibility 
+The recommendations in this guideline represent the view of NICE, arrived at after careful 
+consideration of the evidence available. When exercising their judgement, professionals 
+and practitioners are expected to take this guideline fully into account, alongside the 
+individual needs, preferences and values of their patients or the people using their service. 
+It is not mandatory to apply the recommendations, and the guideline does not override the 
+responsibility to make decisions appropriate to the circumstances of the individual, in 
+consultation with them and their families and carers or guardian. 
+All problems (adverse events) related to a medicine or medical device used for treatment 
+or in a procedure should be reported to the Medicines and Healthcare products Regulatory 
+Agency using the Yellow Card Scheme. 
+Local commissioners and providers of healthcare have a responsibility to enable the 
+guideline to be applied when individual professionals and people using services wish to 
+use it. They should do so in the context of local and national priorities for funding and 
+developing services, and in light of their duties to have due regard to the need to eliminate 
+unlawful discrimination, to advance equality of opportunity and to reduce health 
+inequalities. Nothing in this guideline should be interpreted in a way that would be 
+inconsistent with complying with those duties. 
+Commissioners and providers have a responsibility to promote an environmentally 
+sustainable health and care system and should assess and reduce the environmental 
+impact of implementing NICE recommendations wherever possible. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 2 of
+39
+Contents 
+Overview ...................................................................................................................................... 4 
+Who is it for? ........................................................................................................................................... 4 
+Introduction .................................................................................................................................. 5 
+Key priorities for implementation ............................................................................................... 6 
+Key clinical priorities .............................................................................................................................. 6 
+Key organisational priorities .................................................................................................................. 7 
+Recommendations ....................................................................................................................... 8 
+1.1 Organisation of nutrition support in hospital and the community ................................................ 8 
+1.2 Screening for malnutrition and the risk of malnutrition in hospital and the community ............ 9 
+1.3 Indications for nutrition support in hospital and the community ................................................. 10 
+1.4 What to give in hospital and the community ................................................................................. 11 
+1.5 Monitoring of nutrition support in hospital and the community .................................................. 15 
+1.6 Oral nutrition support in hospital and the community .................................................................. 23 
+1.7 Enteral tube feeding in hospital and the community .................................................................... 27 
+1.8 Parenteral nutrition in hospital and the community ...................................................................... 30 
+1.9 Supporting patients in the community ........................................................................................... 32 
+Recommendations for research .................................................................................................35 
+1 Educational intervention for all healthcare professionals ................................................................ 35 
+2 Nutritional screening programmes .................................................................................................... 35 
+3 Clinical and cost effectiveness of nutritional monitoring ................................................................ 36 
+4 Oral nutritional supplements for those at high risk of malnutrition identified by a screening 
+tool ........................................................................................................................................................... 36 
+5 Enteral tube feeding for dysphagia and early- to mid-stage dementia ........................................ 37 
+Finding more information and committee details .....................................................................38 
+Update information .....................................................................................................................39 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 3 of
+39
+This guideline is the basis of QS24. 
+Overview 
+This guideline covers identifying and caring for adults who are malnourished or at risk of 
+malnutrition in hospital or in their own home or a care home. It offers advice on how oral, 
+enteral tube feeding and parenteral nutrition support should be started, administered and 
+stopped. It aims to support healthcare professionals identify malnourished people and help 
+them to choose the most appropriate form of support. 
+Who is it for? 
+• All healthcare workers in hospital and the community who are directly involved in 
+patient care 
+• People who are malnourished or at risk of malnutrition in hospital or in their own home 
+or a care home and their families and carers 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 4 of
+39
+Introduction 
+Malnutrition is a state in which a deficiency of nutrients such as energy, protein, vitamins 
+and minerals causes measurable adverse effects on body composition, function or clinical 
+outcome. In this guideline, we do not use the term to cover excess nutrient provision. 
+Malnutrition is both a cause and a consequence of ill health. It is common and increases a 
+patient's vulnerability to disease. Methods to improve or maintain nutritional intake are 
+known as nutrition support. These include: 
+• oral nutrition support – for example, fortified food, additional snacks and/or sip feeds 
+• enteral tube feeding – the delivery of a nutritionally complete feed directly into the gut 
+via a tube 
+• parenteral nutrition – the delivery of nutrition intravenously. 
+These methods can improve outcomes, but decisions on the most effective and safe 
+methods are complex. 
+Currently, knowledge of the causes, effects and treatment of malnutrition among 
+healthcare professionals in the UK is poor. This guideline aims to help healthcare 
+professionals correctly identify people in hospital and the community who need nutrition 
+support, and enable them to choose and deliver the most appropriate nutrition support at 
+the most appropriate time. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 5 of
+39
+Key priorities for implementation 
+Key clinical priorities 
+• Screening for malnutrition and the risk of malnutrition should be carried out by 
+healthcare professionals with appropriate skills and training. 
+• All hospital inpatients on admission and all outpatients at their first clinic appointment 
+should be screened. Screening should be repeated weekly for inpatients and when 
+there is clinical concern for outpatients. People in care homes should be screened on 
+admission and when there is clinical concern. 
+• Hospital departments who identify groups of patients with low risk of malnutrition may 
+opt out of screening these groups. Opt-out decisions should follow an explicit process 
+via the local clinical governance structure involving experts in nutrition support. 
+• Nutrition support should be considered in people who are malnourished, as defined by 
+any of the following: 
+－ a body mass index (BMI) of less than 18.5 kg/m2 
+－ unintentional weight loss greater than 10% within the last 3 to 6 months 
+－ a BMI of less than 20 kg/m2
+ and unintentional weight loss greater than 5% within 
+the last 3 to 6 months. 
+• Nutrition support should be considered in people at risk of malnutrition, defined as 
+those who have: 
+－ eaten little or nothing for more than 5 days and/or are likely to eat little or nothing 
+for 5 days or longer 
+－ a poor absorptive capacity and/or high nutrient losses and/or increased nutritional 
+needs from causes such as catabolism. 
+• Healthcare professionals should consider using oral, enteral or parenteral nutrition 
+support, alone or in combination, for people who are either malnourished or at risk of 
+malnutrition, as defined above. Potential swallowing problems should be taken into 
+account. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 6 of
+39
+Key organisational priorities 
+• All healthcare professionals who are directly involved in patient care should receive 
+education and training, relevant to their post, on the importance of providing adequate 
+nutrition. 
+• Healthcare professionals should ensure that all people who need nutrition support 
+receive coordinated care from a multidisciplinary team. The composition of this team 
+may differ according to setting and local arrangements. 
+• All acute hospital trusts should employ at least 1 specialist nutrition support nurse. 
+• All hospital trusts should have a nutrition steering committee working within the 
+clinical governance framework. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 7 of
+39
+Recommendations 
+1.1 Organisation of nutrition support in hospital and 
+the community 
+1.1.1 All healthcare professionals who are directly involved in patient care should 
+receive education and training, relevant to their post, on the importance of 
+providing adequate nutrition. Education and training should cover: 
+• nutritional needs and indications for nutrition support 
+• options for nutrition support (oral, enteral and parenteral) 
+• ethical and legal concepts 
+• potential risks and benefits 
+• when and where to seek expert advice. 
+1.1.2 Healthcare professionals should ensure that care provides: 
+• food and fluid of adequate quantity and quality in an environment conducive 
+to eating 
+• appropriate support, for example, modified eating aids, for people who can 
+potentially chew and swallow but are unable to feed themselves. 
+1.1.3 Healthcare professionals should ensure that all people who need nutrition 
+support receive coordinated care from a multidisciplinary team. The composition 
+of this team may differ according to setting and local arrangements. 
+1.1.4 All acute hospital trusts should have a multidisciplinary nutrition support team, 
+which may include: doctors (for example, gastroenterologists, gastrointestinal 
+surgeons, intensivists or others with a specific interest in nutrition support), 
+dietitians, a specialist nutrition nurse, other nurses, pharmacists, biochemistry 
+and microbiology laboratory support staff, and other allied healthcare 
+professionals (for example, speech and language therapists). 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 8 of
+39
+1.1.5 All hospital trusts should have a nutrition steering committee working within the 
+clinical governance framework. 
+1.1.6 Members of the nutrition steering committee should be drawn from trust 
+management, and include senior representation from medical staff, catering, 
+nursing, dietetics, pharmacy and other healthcare professionals as appropriate, 
+for example, speech and language therapists. 
+1.1.7 All acute hospital trusts should employ at least 1 specialist nutrition support 
+nurse. 
+1.1.8 The specialist nutrition support nurse should work alongside nursing staff, as well 
+as dietitians and other experts in nutrition support, to: 
+• minimise complications related to enteral tube feeding and parenteral 
+nutrition 
+• ensure optimal ward-based training of nurses 
+• ensure adherence to nutrition support protocols 
+• support coordination of care between the hospital and the community. 
+1.2 Screening for malnutrition and the risk of 
+malnutrition in hospital and the community 
+1.2.1 Screening for malnutrition and the risk of malnutrition should be carried out by 
+healthcare professionals with appropriate skills and training. 
+1.2.2 All hospital inpatients on admission and all outpatients at their first clinic 
+appointment should be screened. Screening should be repeated weekly for 
+inpatients and when there is clinical concern for outpatients. 
+1.2.3 Hospital departments who identify groups of patients with low risk of malnutrition 
+may opt out of screening these groups. Opt-out decisions should follow an 
+explicit process via the local clinical governance structure involving experts in 
+nutrition support. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 9 of
+39
+1.2.4 People in care homes should be screened on admission and when there is clinical 
+concern. Clinical concern includes, for example, unintentional weight loss, fragile 
+skin, poor wound healing, apathy, wasted muscles, poor appetite, altered taste 
+sensation, impaired swallowing, altered bowel habit, loose fitting clothes or 
+prolonged intercurrent illness. 
+1.2.5 Screening should take place on initial registration at general practice surgeries 
+and when there is clinical concern. Clinical concern includes, for example, 
+unintentional weight loss, fragile skin, poor wound healing, apathy, wasted 
+muscles, poor appetite, altered taste sensation, impaired swallowing, altered 
+bowel habit, loose fitting clothes or prolonged intercurrent illness. Screening 
+should also be considered at other opportunities (for example, health checks, flu 
+injections). 
+1.2.6 Screening should assess body mass index (BMI) and percentage unintentional 
+weight loss and should also consider the time over which nutrient intake has 
+been unintentionally reduced and/or the likelihood of future impaired nutrient 
+intake. The Malnutrition Universal Screening Tool (MUST), for example, may be 
+used to do this. BMI is weight in kilograms divided by height in metres squared. 
+1.3 Indications for nutrition support in hospital and 
+the community 
+1.3.1 Nutrition support should be considered in people who are malnourished, as 
+defined by any of the following: 
+• a BMI of less than 18.5 kg/m2 
+• unintentional weight loss greater than 10% within the last 3 to 6 months 
+• a BMI of less than 20 kg/m2
+ and unintentional weight loss greater than 5% 
+within the last 3 to 6 months. 
+1.3.2 Nutrition support should be considered in people at risk of malnutrition who, as 
+defined by any of the following: 
+• have eaten little or nothing for more than 5 days and/or are likely to eat little 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 10 of
+39
+or nothing for the next 5 days or longer 
+• have a poor absorptive capacity, and/or have high nutrient losses and/or 
+have increased nutritional needs from causes such as catabolism. 
+1.3.3 Healthcare professionals should consider using oral, enteral or parenteral 
+nutrition support, alone or in combination, for people who are either malnourished 
+or at risk of malnutrition, as defined in recommendations 1.3.1 and 1.3.2. Potential 
+swallowing problems should be taken into account. 
+1.3.4 Healthcare professionals involved in starting or stopping nutrition support should: 
+• obtain consent from the patient if he or she is competent 
+• act in the patient's best interest if he or she is not competent to give consent 
+• be aware that the provision of nutrition support is not always appropriate. 
+Decisions on withholding or withdrawing of nutrition support require a 
+consideration of both ethical and legal principles (both at common law and 
+statute including the Human Rights Act 1998). 
+When such decisions are being made, follow the General Medical Council's 
+Treatment and care towards the end of life: good practice in decision making 
+and the Department of Health and Social Care's Reference guide to consent 
+for examination or treatment, second edition (2009). 
+1.3.5 Healthcare professionals should ensure that people having nutrition support, and 
+their carers, are kept fully informed about their treatment. They should also have 
+access to appropriate information and be given the opportunity to discuss 
+diagnosis and treatment options. 
+1.4 What to give in hospital and the community 
+1.4.1 Healthcare professionals who are skilled and trained in nutritional requirements 
+and methods of nutrition support should ensure that the total nutrient intake of 
+people prescribed nutrition support accounts for: 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 11 of
+39
+• energy, protein, fluid, electrolyte, mineral, micronutrients and fibre needs 
+• activity levels and the underlying clinical condition – for example, catabolism, 
+pyrexia 
+• gastrointestinal tolerance, potential metabolic instability and risk of refeeding 
+problems 
+• the likely duration of nutrition support. 
+Total intake includes intake from any food, oral fluid, oral nutritional 
+supplements, enteral and/or parenteral nutrition support and intravenous 
+fluid. The term 'micronutrient' is used throughout to include all essential 
+vitamins and trace elements. 
+1.4.2 For people who are not severely ill or injured, nor at risk of refeeding syndrome, 
+the suggested nutritional prescription for total intake should provide all of the 
+following: 
+• 25 to 35 kcal/kg/day total energy (including that derived from protein); this 
+level may need to be lower in people who are overweight, with a BMI over 25; 
+when using parenteral nutrition, it is often necessary to adjust total energy 
+values listed on the manufacturer's information, which may not include 
+protein energy values 
+• 0.8 to 1.5 g protein (0.13 to 0.24 g nitrogen)/kg/day 
+• 30 to 35 ml fluid/kg (with allowance for extra losses from drains and fistulae, 
+for example, and extra input from other sources – for example, intravenous 
+drugs) 
+• adequate electrolytes, minerals, micronutrients (allowing for any pre-existing 
+deficits, excessive losses or increased demands) and fibre if appropriate. 
+Total intake includes intake from any food, oral fluid, oral nutritional 
+supplements, enteral and/or parenteral nutrition support and intravenous 
+fluid. 
+1.4.3 The prescription should be reviewed according to the person's progress, and 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 12 of
+39
+care should be taken when: 
+• using food fortification that tends to supplement energy and/or protein 
+without adequate micronutrients and minerals 
+• using feeds and supplements that meet full energy and nitrogen needs, as 
+they may not provide adequate micronutrients and minerals when only used 
+in a supplementary role 
+• using pre-mixed parenteral nutrition bags that have not had tailored additions 
+from pharmacy. 
+1.4.4 Nutrition support should be cautiously introduced in seriously ill or injured people 
+requiring enteral tube feeding or parenteral nutrition. It should be started at no 
+more than 50% of the estimated target energy and protein needs. It should be 
+built up to meet full needs over the first 24 to 48 hours according to metabolic 
+and gastrointestinal tolerance. Full requirements of fluid, electrolytes, vitamins 
+and minerals should be provided from the outset of feeding. 
+1.4.5 People who have eaten little or nothing for more than 5 days should have 
+nutrition support introduced at no more than 50% of requirements for the first 
+2 days, before increasing feed rates to meet full needs if clinical and biochemical 
+monitoring reveals no refeeding problems. 
+1.4.6 People who meet the criteria in box 1 should be considered to be at high risk of 
+developing refeeding problems. 
+Box 1 Criteria for determining people at high risk of developing refeeding problems 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 13 of
+39
+Patient has 1 or more of the following: 
+• BMI less than 16 kg/m2 
+• unintentional weight loss greater than 15% within the last 3 to 6 months 
+• little or no nutritional intake for more than 10 days 
+• low levels of potassium, phosphate or magnesium before feeding. 
+Or patient has 2 or more of the following: 
+• BMI less than 18.5 kg/m2 
+• unintentional weight loss greater than 10% within the last 3 to 6 months 
+• little or no nutritional intake for more than 5 days 
+• a history of alcohol abuse or drugs including insulin, chemotherapy, antacids or 
+diuretics. 
+1.4.7 People at high risk of developing refeeding problems (box 1) should be cared for 
+by healthcare professionals who are appropriately skilled and trained and have 
+expert knowledge of nutritional requirements and nutrition support. 
+1.4.8 The prescription for people at high risk of developing refeeding problems should 
+consider: 
+• starting nutrition support at a maximum of 10 kcal/kg/day, increasing levels 
+slowly to meet or exceed full needs by 4 to 7 days 
+• using only 5 kcal/kg/day in extreme cases (for example, BMI less than 14 kg/
+m2
+ or negligible intake for more than 15 days) and monitoring cardiac rhythm 
+continually in these people and any others who already have or develop any 
+cardiac arrythmias 
+• restoring circulatory volume and monitoring fluid balance and overall clinical 
+status closely 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 14 of
+39
+• providing immediately before and during the first 10 days of feeding: oral 
+thiamin 200 to 300 mg daily, vitamin B co strong 1 or 2 tablets, 3 times a day 
+(or full dose daily intravenous vitamin B preparation, if necessary) and a 
+balanced multivitamin or trace element supplement once daily 
+• providing oral, enteral or intravenous supplements of potassium (likely 
+requirement 2 to 4 mmol/kg/day), phosphate (likely requirement 0.3 to 
+0.6 mmol/kg/day) and magnesium (likely requirement 0.2 mmol/kg/day 
+intravenous, 0.4 mmol/kg/day oral) unless pre-feeding plasma levels are high; 
+pre-feeding correction of low plasma levels is unnecessary. 
+1.5 Monitoring of nutrition support in hospital and 
+the community 
+1.5.1 Healthcare professionals should review the indications, route, risks, benefits and 
+goals of nutrition support at regular intervals. The time between reviews depends 
+on the patient, care setting and duration of nutrition support. Intervals may 
+increase as the patient is stabilised on nutrition support. 
+1.5.2 People having nutrition support in hospital should be monitored by healthcare 
+professionals with the relevant skills and training in nutritional monitoring. 
+1.5.3 Healthcare professionals should refer to the protocols for nutritional, 
+anthropometric and clinical monitoring, shown in table 1, when monitoring people 
+having nutrition support in hospital. 
+1.5.4 Healthcare professionals should refer to the protocols for laboratory monitoring, 
+shown in table 2, when monitoring people having nutrition support in hospital. 
+Table 2 is particularly relevant to parenteral nutrition. It could also be selectively 
+applied when enteral or oral nutrition support is used, particularly for people who 
+are metabolically unstable or at risk of refeeding syndrome. The frequency and 
+extent of the observations given may need to be adapted in acutely ill or 
+metabolically unstable people. 
+1.5.5 People having parenteral nutrition in the community need regular assessment and 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 15 of
+39
+monitoring. This should be carried out by home care specialists and by 
+experienced hospital teams (initially at least weekly), using observations marked 
+* in table 1. In addition, they should be reviewed at a specialist hospital clinic 
+every 3 to 6 months. Monitoring should be more frequent during the early months 
+of home parenteral nutrition, or if there is a change in clinical condition, when the 
+full range of tests in tables 1 and 2 should be performed. Some of the clinical 
+observations may be checked by patients or carers. 
+1.5.6 People having oral nutrition support and/or enteral tube feeding in the community 
+should be monitored by healthcare professionals with the relevant skills and 
+training in nutritional monitoring. This group of people should be monitored every 
+3 to 6 months or more frequently if there is any change in their clinical condition. 
+A limited number of observations and tests from table 1 should be performed. 
+Some of the clinical observations may be checked by patients or carers. If clinical 
+progress is satisfactory, laboratory tests are rarely needed. 
+1.5.7 If long-term nutrition support is needed patients and carers should be trained to 
+recognise and respond to adverse changes in both their well-being and in the 
+management of their nutritional delivery system. 
+Table 1 Protocol for nutritional, anthropometric and clinical monitoring of nutrition 
+support 
+Monitoring of 
+nutrition support Parameter Frequency Rationale 
+Nutritional 
+Nutrient intake from 
+oral, enteral or 
+parenteral nutrition 
+(including any change 
+in conditions that are 
+affecting food intake) 
+Daily initially, 
+reducing to twice 
+weekly when 
+stable 
+To ensure that patient is 
+receiving nutrients to meet 
+requirements and that 
+current method of feeding 
+is still the most 
+appropriate. To allow 
+alteration of intake as 
+indicated 
+Nutritional Actual volume of feed 
+delivered* 
+Daily initially, 
+reducing to twice 
+weekly when 
+stable 
+To ensure that patient is 
+receiving correct volume 
+of feed. To allow 
+troubleshooting 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 16 of
+39
+Monitoring of 
+nutrition support Parameter Frequency Rationale 
+Nutritional 
+Fluid balance charts 
+(enteral and 
+parenteral) 
+Daily initially, 
+reducing to twice 
+weekly when 
+stable 
+To ensure patient is not 
+becoming over or under 
+hydrated 
+Anthropometric Weight* 
+Daily if concerns 
+regarding fluid 
+balance, 
+otherwise weekly 
+reducing to 
+monthly 
+To assess ongoing 
+nutritional status, 
+determine whether 
+nutritional goals are being 
+achieved and take into 
+account both body fat and 
+muscle 
+Anthropometric Body mass index 
+(BMI)* 
+Start of feeding 
+and then monthly 
+To assess ongoing 
+nutritional status, 
+determine whether 
+nutritional goals are being 
+achieved and take into 
+account both body fat and 
+muscle 
+Anthropometric Mid-arm 
+circumference* 
+Monthly, if weight 
+cannot be 
+obtained or is 
+difficult to 
+interpret 
+To assess ongoing 
+nutritional status, 
+determine whether 
+nutritional goals are being 
+achieved and take into 
+account both body fat and 
+muscle 
+Anthropometric Triceps skinfold 
+thickness 
+Monthly, if weight 
+cannot be 
+obtained or is 
+difficult to 
+interpret 
+To assess ongoing 
+nutritional status, 
+determine whether 
+nutritional goals are being 
+achieved and take into 
+account both body fat and 
+muscle 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 17 of
+39
+Monitoring of 
+nutrition support Parameter Frequency Rationale 
+Gastrointestinal 
+(GI) function Nausea or vomiting* 
+Daily initially, 
+reducing to twice 
+weekly 
+To ensure tolerance of 
+feed 
+GI function Diarrhoea* 
+Daily initially, 
+reducing to twice 
+weekly 
+To rule out any other 
+causes of diarrhoea and 
+then assess tolerance of 
+feeds 
+GI function Constipation* 
+Daily initially, 
+reducing to twice 
+weekly 
+To rule out other causes of 
+constipation and then 
+assess tolerance of feeds 
+GI function Abdominal distension As necessary Assess tolerance of feed 
+Enteral tube – 
+nasally 
+inserted 
+Gastric tube position 
+(pH less than or equal 
+to 5.5 using pH paper 
+– or noting position of 
+markers on tube once 
+initial position has 
+been confirmed) 
+Before each feed 
+begins 
+To ensure tube in correct 
+position 
+Enteral tube – 
+nasally 
+inserted 
+Nasal erosion Daily To ensure tolerance of 
+tube 
+Enteral tube – 
+nasally 
+inserted 
+Fixation (is it secure?) Daily To help prevent tube 
+becoming dislodged 
+Enteral tube – 
+nasally 
+inserted 
+Is tube in working 
+order (all pieces intact, 
+tube not blocked or 
+kinked)? 
+Daily To ensure tube is in 
+working order 
+Gastrostomy or 
+jejunostomy Stoma site Daily 
+To ensure site not infected 
+or red, no signs of gastric 
+leakage 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 18 of
+39
+Monitoring of 
+nutrition support Parameter Frequency Rationale 
+Gastrostomy or 
+jejunostomy 
+Tube position (length 
+at external fixation) Daily 
+To ensure tube has not 
+migrated from or into 
+stomach and external over 
+granulation 
+Gastrostomy or 
+jejunostomy 
+Tube insertion and 
+rotation (gastrostomy 
+without jejunal 
+extension only) 
+Weekly 
+Prevent internal 
+overgranulation or 
+prevention of buried 
+bumper syndrome 
+Gastrostomy or 
+jejunostomy 
+Balloon water volume 
+(balloon retained 
+gastrostomies only) 
+Weekly To prevent tube falling out 
+Gastrostomy or 
+jejunostomy 
+Jejunostomy tube 
+position by noting 
+position of external 
+markers 
+Daily Confirmation of position 
+Parenteral 
+nutrition Catheter entry site* Daily Signs of infection or 
+inflammation 
+Parenteral 
+nutrition 
+Skin over position of 
+catheter tip 
+(peripherally fed 
+people)* 
+Daily Signs of thrombophlebitis 
+Clinical 
+condition General condition* Daily 
+To ensure that patient is 
+tolerating feed and that 
+feeding and route continue 
+to be appropriate 
+Clinical 
+condition 
+Temperature or blood 
+pressure 
+Daily initially, 
+then as needed 
+Sign of infection or fluid 
+balance 
+Clinical 
+condition Drug therapy* 
+Daily initially, 
+reducing to 
+monthly when 
+stable 
+Appropriate preparation of 
+drug (to reduce incidence 
+of tube blockage). To 
+prevent or reduce drug 
+nutrient interactions 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 19 of
+39
+Monitoring of 
+nutrition support Parameter Frequency Rationale 
+Long- or short-
+term goals Are goals being met?* 
+Daily initially, 
+reducing to twice 
+weekly and then 
+progressively to 
+3- to 6-monthly, 
+unless clinical 
+condition 
+changes 
+To ensure that feeding is 
+appropriate to overall care 
+of patient 
+Long- or short-
+term goals 
+Are goals still 
+appropriate?* 
+Daily initially, 
+reducing to twice 
+weekly and then 
+progressively to 
+3- to 6-monthly, 
+unless clinical 
+condition 
+changes 
+To ensure that feeding is 
+appropriate to overall care 
+of patient 
+People at home having parenteral nutrition should be monitored using observations 
+marked*. 
+Table 2 Protocol for laboratory monitoring of nutrition support 
+Parameter Frequency Rationale Interpretation 
+Sodium (Na), 
+potassium (K), 
+urea, 
+creatinine 
+Baseline 
+Daily until stable 
+Then 1 or 2 times a week 
+Assessment of 
+renal function, 
+fluid status, and 
+Na and K status 
+Interpret with 
+knowledge of fluid 
+balance and 
+medication 
+Urinary sodium may 
+be helpful in 
+complex cases with 
+gastrointestinal fluid 
+loss 
+Glucose 
+Baseline 
+1 or 2 times a day (or more if 
+needed) until stable 
+Then weekly 
+Glucose 
+intolerance is 
+common 
+Good glycaemic 
+control is necessary 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 20 of
+39
+Parameter Frequency Rationale Interpretation 
+Magnesium 
+(Mg), 
+phosphate 
+Baseline 
+Daily if risk of refeeding 
+syndrome 
+Three times a week until stable 
+Then weekly 
+Depletion is 
+common and 
+under 
+recognised 
+Low concentrations 
+indicate poor status 
+Liver function 
+tests 
+including 
+International 
+Normalised 
+Ratio (INR) 
+Baseline 
+Twice weekly until stable 
+Then weekly 
+Abnormalities 
+common during 
+parenteral 
+nutrition 
+Complex; may be 
+due to sepsis, other 
+disease or 
+nutritional intake 
+Calcium, 
+albumin 
+Baseline 
+Then weekly 
+Hypocalcaemia 
+or 
+hypercalcaemia 
+may occur 
+Correct measured 
+serum calcium 
+concentration for 
+albumin 
+Hypocalcaemia may 
+be secondary to Mg 
+deficiency 
+Low albumin 
+reflects disease not 
+protein status 
+C-reactive 
+protein 
+Baseline 
+Then 2 or 3 times a week until 
+stable 
+Assists 
+interpretation of 
+protein, trace 
+element and 
+vitamin results 
+To assess the 
+presence of an 
+acute phase 
+reaction (APR); the 
+trend of results is 
+important 
+Zinc (Zn), 
+copper (Cu) 
+Baseline 
+Then every 2 to 4 weeks, 
+depending on results 
+Deficiency 
+common, 
+especially when 
+increased losses 
+People most at risk 
+when anabolic 
+APR causes Zn 
+decrease and Cu 
+increase 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 21 of
+39
+Parameter Frequency Rationale Interpretation 
+Selenium (Se) 
+Baseline if risk of depletion 
+Further testing dependent on 
+baseline 
+These tests are needed 
+primarily for people having 
+parenteral nutrition in the 
+community 
+Se deficiency 
+likely in severe 
+illness and 
+sepsis, or long-
+term nutrition 
+support 
+APR causes Se 
+decrease 
+Long-term status 
+better assessed by 
+glutathione 
+peroxidase 
+Full blood 
+count and 
+mean 
+corpuscular 
+volume (MCV) 
+Baseline 
+1 or 2 times a week until stable 
+Then weekly 
+Anaemia due to 
+iron or folate 
+deficiency is 
+common 
+Effects of sepsis 
+may be important 
+Iron (Fe), 
+ferritin 
+Baseline 
+Then every 3 to 6 months 
+Iron deficiency 
+common in long-
+term parenteral 
+nutrition 
+Iron status difficult 
+if APR (Fe decrease, 
+ferritin increase) 
+Folate, B12 
+Baseline 
+Then every 2 to 4 weeks 
+Iron deficiency is 
+common 
+Serum folate or B12 
+sufficient, with full 
+blood count 
+Manganese 
+Every 3 to 6 months if on 
+home parenteral nutrition 
+These tests are rarely needed 
+for people having enteral tube 
+feeding (in hospital or in the 
+community), unless there is 
+cause for concern 
+Excess provision 
+to be avoided, 
+more likely if liver 
+disease 
+Red blood cell or 
+whole blood better 
+measure of excess 
+than plasma 
+25-OH 
+vitamin D 
+6-monthly if on long-term 
+support 
+These tests are rarely needed 
+for people having enteral tube 
+feeding (in hospital or in the 
+community), unless there is 
+cause for concern 
+Low if 
+housebound 
+Requires normal 
+kidney function for 
+effect 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 22 of
+39
+Parameter Frequency Rationale Interpretation 
+Bone 
+densitometry 
+On starting home parenteral 
+nutrition 
+Then every 2 years 
+These tests are rarely needed 
+for people having enteral tube 
+feeding (in hospital or in the 
+community), unless there is 
+cause for concern 
+Metabolic bone 
+disease 
+diagnosis 
+Together with lab 
+tests for metabolic 
+bone disease 
+1.6 Oral nutrition support in hospital and the 
+community 
+People with dysphagia 
+1.6.1 People who present with any obvious or less obvious indicators of dysphagia 
+listed in box 2 should be referred to healthcare professionals with relevant skills 
+and training in the diagnosis, assessment and management of swallowing 
+disorders. 
+Box 2 Indicators of dysphagia 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 23 of
+39
+Obvious indicators of dysphagia 
+• difficult, painful chewing or swallowing 
+• regurgitation of undigested food 
+• difficulty controlling food or liquid in the mouth 
+• drooling 
+• hoarse voice 
+• coughing or choking before, during or after swallowing 
+• globus sensation 
+• nasal regurgitation 
+• feeling of obstruction 
+• unintentional weight loss – for example, in people with dementia. 
+Less obvious indicators of dysphagia 
+• change in respiration pattern 
+• unexplained temperature spikes 
+• wet voice quality 
+• tongue fasciculation (may be indicative of motor neurone disease) 
+• xerostomia 
+• heartburn 
+• change in eating habits – for example, eating slowly or avoiding social occasions 
+• frequent throat clearing 
+• recurrent chest infections 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 24 of
+39
+• atypical chest pain. 
+1.6.2 Healthcare professionals should recognise that people with acute and chronic 
+neurological conditions and those who have undergone surgery or radiotherapy 
+to the upper aero-digestive tract are at high risk of developing dysphagia. 
+1.6.3 When managing dysphagia in people, healthcare professionals with relevant skills 
+and training in the diagnosis, assessment and management of swallowing 
+disorders should consider: 
+• the risks and benefits of modified oral nutrition support and/or enteral tube 
+feeding 
+• the factors listed in box 3. 
+Box 3 Factors to be considered before modification of nutrition support and hydration in people with dysphagia 
+• recurrent chest infections 
+• mobility 
+• dependency on others for assistance to eat 
+• perceived palatability and appearance of food or drink 
+• level of alertness 
+• compromised physiology 
+• poor oral hygiene 
+• compromised medical status 
+• metabolic and nutritional requirements 
+• vulnerability (for example, immunocompromised) 
+• comorbidities. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 25 of
+39
+1.6.4 People with dysphagia should have a drug review to ascertain if the current drug 
+formulation, route and timing of administration remains appropriate and is without 
+contraindications for the feeding regimen or swallowing process. 
+1.6.5 Healthcare professionals with relevant skills and training in the diagnosis, 
+assessment and management of swallowing disorders should regularly monitor 
+and reassess people with dysphagia who are having modified food and liquid until 
+they are stable. 
+Indications 
+1.6.6 Healthcare professionals should consider oral nutrition support to improve 
+nutritional intake for people who can swallow safely and are malnourished or at 
+risk of malnutrition, as defined in recommendations 1.3.1 and 1.3.2, respectively. 
+Oral nutrition support includes any of the following methods to improve nutritional 
+intake: fortified food with protein, carbohydrate and/or fat, plus minerals and 
+vitamins; snacks; oral nutritional supplements; altered meal patterns; the 
+provision of dietary advice. 
+1.6.7 Healthcare professionals should ensure that the overall nutrient intake of oral 
+nutrition support offered contains a balanced mixture of protein, energy, fibre, 
+electrolytes, vitamins and minerals. 
+1.6.8 If there is concern about the adequacy of micronutrient intake, a complete oral 
+multivitamin and mineral supplement providing the reference nutrient intake for all 
+vitamins and trace elements should be considered by healthcare professionals 
+with the relevant skills and training in nutrition support who are able to determine 
+the nutritional adequacy of a patient's dietary intake. 
+1.6.9 Oral nutrition support should be stopped when the patient is established on 
+adequate oral intake from normal food. 
+Surgical patients 
+1.6.10 Peri-operative oral nutrition support should be considered for surgical patients 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 26 of
+39
+who can swallow safely and are malnourished as defined in 
+recommendation 1.3.1. 
+1.6.11 Healthcare professionals should consider giving post-caesarean or 
+gynaecological surgical patients who can swallow safely, some oral intake within 
+24 hours of surgery. 
+1.6.12 Healthcare professionals should consider giving post-abdominal surgery patients 
+who can swallow safely, and in whom there are no specific concerns about gut 
+function or integrity, some oral intake within 24 hours of surgery. The patient 
+should be monitored carefully for any signs of nausea or vomiting. 
+1.7 Enteral tube feeding in hospital and the 
+community 
+In this guideline, enteral tube feeding refers to the delivery of a nutritionally complete feed 
+(as specified in section 1.4) via a tube into the stomach, duodenum or jejunum. 
+Indications 
+1.7.1 Healthcare professionals should consider enteral tube feeding in people who are 
+malnourished or at risk of malnutrition, as defined in recommendations 1.3.1 and 
+1.3.2, respectively, and have: 
+• inadequate or unsafe oral intake and 
+• a functional, accessible gastrointestinal tract. 
+1.7.2 Enteral tube feeding should not be given to people unless they meet the criteria 
+in recommendation 1.7.1, or they are taking part in a clinical trial. 
+1.7.3 Enteral tube feeding should be stopped when the patient is established on 
+adequate oral intake. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 27 of
+39
+Surgical patients 
+1.7.4 Surgical patients who are malnourished, as defined in recommendation 1.3.1, meet 
+the criteria in recommendation 1.7.1, and are due to undergo major abdominal 
+procedures, should be considered for pre-operative enteral tube feeding. 
+1.7.5 General surgical patients should not have enteral tube feeding within 48 hours 
+post-surgery unless they meet the criteria in recommendation 1.7.1. 
+Route of access 
+1.7.6 People in general medical, surgical and intensive care wards who meet the 
+criteria in recommendation 1.7.1 should be fed via a tube into the stomach unless 
+there is upper gastrointestinal dysfunction. 
+1.7.7 People who meet the criteria in recommendation 1.7.1, with upper gastrointestinal 
+dysfunction (or an inaccessible upper gastrointestinal tract) should be considered 
+for post-pyloric (duodenal or jejunal) feeding. 
+1.7.8 Gastrostomy feeding should be considered in people likely to need long-term 
+(4 weeks or more) enteral tube feeding. 
+1.7.9 Percutaneous endoscopic gastrostomy (PEG) tubes that have been placed 
+without apparent complications can be used for enteral tube feeding 4 hours 
+after insertion. 
+People with dysphagia 
+1.7.10 In the acute setting, for example, following stroke, people unable to swallow 
+safely or take sufficient energy and nutrients orally should have an initial 2- to 
+4-week trial of nasogastric enteral tube feeding. Healthcare professionals with 
+relevant skills and training in the diagnosis, assessment and management of 
+swallowing disorders should assess the prognosis and options for future nutrition 
+support. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 28 of
+39
+Mode of delivery 
+1.7.11 For people being fed into the stomach, bolus or continuous methods should be 
+considered, taking into account patient preference, convenience and drug 
+administration. 
+1.7.12 For people in intensive care, nasogastric tube feeding should usually be delivered 
+continuously over 16 to 24 hours daily. If insulin administration is needed, it is 
+safe and more practical to administer feeding continuously over 24 hours. 
+Motility agents 
+1.7.13 For people in intensive care with delayed gastric emptying who are not tolerating 
+enteral tube feeding, a motility agent should be considered, unless there is a 
+pharmacological cause that can be rectified or suspicion of gastrointestinal 
+obstruction. 
+1.7.14 People in other acute care settings who have delayed gastric emptying and are 
+not tolerating enteral tube feeding should also be offered a motility agent unless 
+there is a pharmacological cause that can be rectified or suspicion of 
+gastrointestinal obstruction. 
+1.7.15 If delayed gastric emptying is severely limiting feeding into the stomach, despite 
+the use of motility agents, post-pyloric enteral tube feeding and/or parenteral 
+nutrition should be considered. 
+Management of tubes 
+1.7.16 People requiring enteral tube feeding should have their tube inserted by 
+healthcare professionals with the relevant skills and training. 
+1.7.17 The position of all nasogastric tubes should be confirmed after placement and 
+before each use by aspiration and pH graded paper (with X-ray if necessary) as 
+per the advice from the National Patient Safety Agency (2011); further patient 
+safety alerts for nasogastric tubes have also been issued in 2013 and 2016. Local 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 29 of
+39
+protocols should address the clinical criteria that permit enteral tube feeding. 
+These criteria include how to proceed when the ability to make repeat checks of 
+the tube position is limited by the inability to aspirate the tube, or the checking of 
+pH is invalid because of gastric acid suppression. 
+1.7.18 The initial placement of post-pyloric tubes should be confirmed with an 
+abdominal X-ray (unless placed radiologically). Agreed protocols setting out the 
+necessary clinical checks need to be in place before this procedure is carried out. 
+1.8 Parenteral nutrition in hospital and the 
+community 
+Indications 
+1.8.1 Healthcare professionals should consider parenteral nutrition in people who are 
+malnourished or at risk of malnutrition as defined in recommendations 1.3.1 and 
+1.3.2, respectively, and meet either of the following criteria: 
+• inadequate or unsafe oral and/or enteral nutritional intake 
+• a non-functional, inaccessible or perforated (leaking) gastrointestinal tract. 
+Prescription 
+1.8.2 Parenteral nutrition should be introduced progressively and closely monitored, 
+usually starting at no more than 50% of estimated needs for the first 24 to 
+48 hours. Parenteral nutrition can be withdrawn once adequate oral or enteral 
+nutrition is tolerated and nutritional status is stable. Withdrawal should be 
+planned and stepwise with a daily review of the patient's progress. 
+1.8.3 Patients who need parenteral nutrition should have their nutritional requirements 
+determined by healthcare professionals with the relevant skills and training in the 
+prescription of nutrition support. Before using most parenteral nutrition products, 
+micronutrients and trace elements should be added and additional electrolytes 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 30 of
+39
+and other nutrients may also be needed. Additions should be made under 
+appropriate pharmaceutically controlled environmental conditions before 
+administration. 
+1.8.4 Parenteral nutrition should be stopped when the patient is established on 
+adequate oral and/or enteral support. There is no minimum length of time for the 
+duration of parenteral nutrition. 
+Surgical patients 
+1.8.5 Healthcare professionals should consider supplementary peri-operative 
+parenteral nutrition in malnourished surgical patients who meet the criteria in 
+recommendation 1.8.1. 
+1.8.6 Peri-operative supplementary parenteral nutrition should not be given to surgical 
+patients unless they meet the criteria set out in recommendation 1.8.1. 
+1.8.7 If intestinal tolerance persistently limits enteral tube feeding in surgical or critical 
+care patients, parenteral nutrition should be used to supplement or replace 
+enteral tube feeding. 
+Route of access 
+1.8.8 In hospital, parenteral nutrition can be given via a dedicated peripherally inserted 
+central catheter as an alternative to a dedicated centrally placed central venous 
+catheter. A free dedicated lumen in a multi-lumen centrally placed catheter may 
+also be used. 
+1.8.9 Administration of parenteral nutrition via a peripheral venous catheter should be 
+considered for patients who are likely to need short-term parenteral nutrition 
+(less than 14 days) who have no need for central access for other reasons. Care 
+should be taken in catheter choice, and in attention to pH, tonicity and long-term 
+compatibility of the parenteral nutrition formulations in order to avoid 
+administration or stability problems. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 31 of
+39
+1.8.10 Tunnelling subclavian lines is recommended for long-term use (more than 
+30 days). 
+1.8.11 Catheters do not have to be tunnelled for short-term use (less than 30 days). 
+Mode of delivery 
+1.8.12 Continuous administration of parenteral nutrition should be offered as the 
+preferred method of infusion in severely ill people who require parenteral 
+nutrition. 
+1.8.13 Cyclical delivery of parenteral nutrition should be considered when using 
+peripheral venous cannulae with planned routine catheter change. 
+1.8.14 A gradual change from continuous to cyclical delivery should be considered in 
+patients requiring parenteral nutrition for more than 2 weeks. 
+Management of catheters 
+1.8.15 Only healthcare professionals competent in catheter placement should be 
+responsible for the placement of catheters and they should be aware of the 
+importance of monitoring and managing these safely. See the NICE guideline on 
+healthcare-associated infections: prevention and control in primary and 
+community care. 
+1.9 Supporting patients in the community 
+1.9.1 Healthcare professionals should ensure that patients having enteral or parenteral 
+nutrition in the community and their carers: 
+• are kept fully informed and have access to appropriate sources of information 
+in formats, languages and ways that are suited to an individual's 
+requirements; consideration should be given to cognition, gender, physical 
+needs, culture and stage of life of the individual 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 32 of
+39
+• have the opportunity to discuss diagnosis, treatment options and relevant 
+physical, psychological and social issues 
+• are given contact details for relevant support groups, charities and voluntary 
+organisations. 
+Enteral tube feeding 
+1.9.2 All people in the community having enteral tube feeding should be supported by 
+a coordinated multidisciplinary team, which includes dietitians, district, care home 
+or homecare company nurses, GPs, community pharmacists and other allied 
+healthcare professionals (for example, speech and language therapists) as 
+appropriate. Close liaison between the multidisciplinary team and patients and 
+carers regarding diagnoses, prescription, arrangements and potential problems is 
+essential. 
+1.9.3 Patients in the community having enteral tube feeding and their carers should 
+receive an individualised care plan which includes overall aims and a monitoring 
+plan. 
+1.9.4 Patients in the community having enteral tube feeding and their carers, should 
+receive training and information from members of the multidisciplinary team on: 
+• the management of the tubes, delivery systems and the regimen, outlining all 
+procedures related to setting up feeds, using feed pumps, the likely risks and 
+methods for troubleshooting common problems and be provided with an 
+instruction manual (and visual aids if appropriate) 
+• both routine and emergency telephone numbers to contact a healthcare 
+professional who understands the needs and potential problems of people on 
+home enteral tube feeding 
+• the delivery of equipment, ancillaries and feed with appropriate contact 
+details for any homecare company involved. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 33 of
+39
+Parenteral nutrition 
+1.9.5 All people in the community having parenteral nutrition should be supported by a 
+coordinated multidisciplinary team, which includes input from specialist nutrition 
+nurses, dietitians, GPs, pharmacists and district and/or homecare company 
+nurses. Close liaison between the multidisciplinary team and patients and carers 
+regarding diagnoses, prescription, arrangements and potential problems is 
+essential. 
+1.9.6 People in the community having parenteral nutrition and their carers should 
+receive an individualised care plan which includes overall aims and a monitoring 
+plan. 
+1.9.7 People in the community having parenteral nutrition and their carers should 
+receive training and information from members of the multidisciplinary team on: 
+• the management of the delivery systems and the regimen, outlining all 
+procedures related to setting up feeds, using feed pumps, the likely risks and 
+methods for troubleshooting common problems and be provided with an 
+instruction manual (and visual aids if appropriate) 
+• routine and emergency telephone numbers to contact a healthcare 
+professional with the relevant competencies (specialist nutrition nurse, 
+pharmacist) 
+• the arrangements for the delivery of equipment, ancillaries and feed with 
+appropriate contact details for any homecare company involved. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 34 of
+39
+Recommendations for research 
+The guideline committee has made the following recommendations for research. 
+1 Educational intervention for all healthcare 
+professionals 
+Further research is needed to ascertain whether an educational intervention (for example, 
+three 1-week modular courses, over 6 months) for all healthcare professionals, in 
+particular medical and nursing staff including those who work with people with dementia, 
+would have an effect on patient care (that is, effect on nutritional status, length of hospital 
+stay, frequency of GP visits, complications and quality of life) compared with no formal 
+education. 
+Why this is important 
+It is known that healthcare professionals in both the hospital and community setting have a 
+poor knowledge of nutrition. This is partly due to receiving a minimal amount of education 
+in nutrition during their undergraduate or basic training. It is therefore essential to 
+determine whether an organised nutrition support education programme to healthcare 
+professionals would improve the choice made about nutrition support and the consequent 
+care of patients prescribed nutrition support. 
+2 Nutritional screening programmes 
+What are the benefits to patients of a nutritional screening programme (using a simple tool 
+such as the Malnutrition Universal Screening Tool [MUST]) compared with not screening 
+people in: a) primary care (attending GP clinics); b) care homes; c) hospital inpatients; d) 
+hospital outpatients and e) patients with dementia, in terms of determining the number of 
+people at risk of malnutrition, complications, survival, hospital admission rates, length of 
+stay, quality of life and cost effectiveness? 
+Why this is important 
+There is no clear evidence available as to whether screening is really beneficial or how it 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 35 of
+39
+should be carried out. With the lack of evidence, the committee have considered in detail 
+this problem and have instead carefully developed consensus statements to support 
+recommendations for screening. As a priority, it is important that we determine the need 
+for screening and intervention − in particular, primary care and the wider community. 
+3 Clinical and cost effectiveness of nutritional 
+monitoring 
+Further research is needed to identify which components of nutrition monitoring are 
+clinically and cost effective. 
+Why this is important 
+There is no clear evidence available regarding the long- and short-term benefits of clinical 
+monitoring in terms of prevention of complications and survival. With the lack of evidence, 
+the committee have considered in detail this problem and have instead carefully 
+developed the guidance for monitoring by expert clinical practice and consensus opinion. 
+4 Oral nutritional supplements for those at high 
+risk of malnutrition identified by a screening tool 
+What are the benefits of patients (in hospital or the community, including older people) 
+identified as at high risk of malnutrition, by a screening tool such as MUST, being offered 
+either oral nutritional supplements compared with: a) dietary modification and/or food 
+fortification; or b) dietary modification and/or food fortification together with dietary 
+counselling, in terms of determining complications, survival, length of hospital stay, quality 
+of life and cost effectiveness? 
+Why this is important 
+This is an essential recommendation for research since there is insufficient evidence on 
+the benefits of intervention used for oral nutrition support – in particular, the benefits of 
+often first line treatment, for example food fortification and/or dietary counselling. It is 
+essential to know this so that the indications on how to treat can be further supported. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 36 of
+39
+5 Enteral tube feeding for dysphagia and early- to 
+mid-stage dementia 
+What are the benefits of enteral tube feeding to patients compared with no enteral tube 
+feeding in people with dysphagia and early- to mid-stage dementia in terms of reduced 
+complications associated with swallowing, improved nutritional status, delayed onset of 
+advanced stage dementia, hospital admissions, cost effectiveness and survival? 
+Why this is important 
+Much of the research tends to focus or concentrate on tube feeding people with advanced 
+dementia or those who may be in terminal stages of the disease. Depending on the type of 
+dementia, swallowing disorders may occur at an earlier stage in the disease, for example 
+vascular dementia. The benefits and complications of tube feeding may be quite different 
+in people in the earlier stages than those who are in the advanced stage of dementia. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 37 of
+39
+Finding more information and committee 
+details 
+To find NICE guidance on related topics, including guidance in development, see the NICE 
+topic page on diabetes and other endocrinal, nutritional and metabolic conditions. 
+See also the guideline committee's discussion and the evidence reviews (in the full 
+guideline), and information about how the guideline was developed, including details of 
+the committee. 
+NICE has produced tools and resources to help you put this guideline into practice. For 
+general help and advice on putting our guidelines into practice, see resources to help you 
+put NICE guidance into practice. 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 38 of
+39
+Update information 
+August 2017: Links were updated in recommendations 1.3.4 and 1.8.15. 
+Recommendation 1.7.17 was updated and links added to National Patient Safety Agency 
+documents. 
+ISBN: 978-1-4731-1910-9 
+Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral
+nutrition (CG32)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 39 of
+39

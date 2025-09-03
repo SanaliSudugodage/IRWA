@@ -1,0 +1,721 @@
+{
+  "motion": "AI regulation should be internationally standardized",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 20,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": false,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 3,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 4,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 5,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 6,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 7,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 8,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 9,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 10,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 11,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 12,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 13,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 14,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 15,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 16,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 17,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 18,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 19,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 20,
+      "side": "pro",
+      "argument_point": "2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "While the opponent claims: \u201c2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are private\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: 2017; Yang 2018). It is in response to concerns around technological change  that a number of the pilot programs discussed in this book are being launched. Tests in  the United States that are privately funded, including with support from t epartment of Economics. van Stolk, Christian, and Emil Tesliuc. 2010. \u201cToolkit on T ackling Error, Fraud and Corruption in  Social Protection Programs.\u201d SP Discussion Paper No. 1002. World Bank, Washington, DC.  http://siteresources.worldba \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_6",
+        "doc_00000#doc_00000_235"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 0,
+    "con_points": 20,
+    "total_turns": 20
+  },
+  "final_winner": "con",
+  "final_justification": "Higher number of turn wins: pro=0, con=20."
+}

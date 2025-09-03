@@ -1,0 +1,161 @@
+{
+  "motion": "Universal Basic Income should be implemented",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 4,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nAccording to research, implementing Universal Basic Income (UBI) requires careful consideration of administrative efficiency, including maintaining accurate records of eligible recipients, designing effective payment modalities, and establishing robust oversight mechanisms.",
+      "argument_citations": [
+        "doc_00000#doc_00000_290"
+      ],
+      "rebuttal": "While it is true that implementing Universal Basic Income (UBI) requires careful consideration of administrative efficiency, one must also acknowledge that the complexity and variability of country-specific contexts may lead to a lack of standardization and scalability, potentially hindering the effectiveness of UBI programs. Furthermore, the need for robust oversight mechanisms could result in increased bureaucracy, which may offset any potential administrative savings.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_2",
+        "doc_00000#doc_00000_290",
+        "doc_00004#doc_00004_3",
+        "doc_00000#doc_00000_4",
+        "doc_00000#doc_00000_282"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 3,
+          "clarity": 1,
+          "fairness": 3,
+          "total": 11
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 15
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe implementation of Universal Basic Income (UBI) faces practical bottlenecks, including maintaining an accurate populationwide cadaster of eligible claimants, instituting robust payment modalities, and designing effective oversight mechanisms.",
+      "argument_citations": [
+        "doc_00000#doc_00000_290"
+      ],
+      "rebuttal": "While acknowledging the practical challenges in implementing Universal Basic Income (UBI), it is essential to recognize that these bottlenecks can be mitigated through careful consideration of country-specific contexts and innovative solutions. Moreover, existing research suggests that administrative efficiency gains from UBI implementation are possible, albeit requiring thoughtful design and implementation strategies.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_2",
+        "doc_00000#doc_00000_290",
+        "doc_00004#doc_00004_3",
+        "doc_00000#doc_00000_4",
+        "doc_00000#doc_00000_282"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 15
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 3,
+          "clarity": 1,
+          "fairness": 3,
+          "total": 11
+        }
+      }
+    },
+    {
+      "turn_index": 3,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nAccording to research, implementing Universal Basic Income (UBI) requires addressing practical bottlenecks such as maintaining an accurate populationwide cadaster of eligible claimants, designing effective payment modalities, and establishing robust oversight mechanisms.",
+      "argument_citations": [
+        "doc_00000#doc_00000_290"
+      ],
+      "rebuttal": "Here is a concise and cautious counter-argument:\n\nWhile acknowledging the practical challenges of implementing Universal Basic Income (UBI), it's essential to recognize that these hurdles can be addressed through careful planning and innovative solutions. In fact, some countries have successfully implemented UBI-like programs with minimal disruptions, suggesting that the administrative bottlenecks may not be insurmountable obstacles after all.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_2",
+        "doc_00000#doc_00000_290",
+        "doc_00004#doc_00004_3",
+        "doc_00000#doc_00000_4",
+        "doc_00000#doc_00000_282"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 3,
+          "clarity": 1,
+          "fairness": 3,
+          "total": 11
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 5,
+          "total": 15
+        }
+      }
+    },
+    {
+      "turn_index": 4,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe implementation of Universal Basic Income (UBI) faces practical bottlenecks, including maintaining an accurate populationwide cadaster of eligible claimants, instituting robust payment modalities, and designing effective oversight mechanisms.",
+      "argument_citations": [
+        "doc_00000#doc_00000_290"
+      ],
+      "rebuttal": "While acknowledging the practical challenges posed by implementing Universal Basic Income (UBI), it is essential to recognize that these obstacles can be mitigated through careful consideration of country-specific contexts and innovative solutions. By designing UBI systems with flexibility and scalability in mind, policymakers can potentially overcome some of the bottlenecks mentioned, such as maintaining accurate records or instituting efficient payment modalities.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_2",
+        "doc_00000#doc_00000_290",
+        "doc_00004#doc_00004_3",
+        "doc_00000#doc_00000_4",
+        "doc_00000#doc_00000_282"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 15
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 1,
+          "fairness": 3,
+          "total": 12
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 2,
+    "con_points": 2,
+    "total_turns": 4
+  },
+  "final_winner": "tie",
+  "final_justification": "Despite the initial tie, the pro-side ultimately prevails due to a consistent pattern of addressing and mitigating practical challenges in implementing Universal Basic Income (UBI). The con-side's arguments, while acknowledging these challenges, failed to provide concrete solutions or alternatives, allowing the pro-side to capitalize on this weakness."
+}

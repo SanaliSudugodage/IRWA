@@ -1,0 +1,102 @@
+{
+  "motion": "Loq calorie foods are healthy option for adults",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 3,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here are three one-sentence claims that support the motion:",
+      "argument_citations": [],
+      "rebuttal": "While it is true that low-calorie foods can be a healthy option for adults, one must consider the potential drawbacks of relying solely on such options. For instance, extremely low-calorie diets may lead to nutrient deficiencies if not properly planned, potentially causing more harm than good in the long run. Additionally, the assumption that all low-calorie foods are inherently healthy overlooks the possibility that some low-calorie options may be highly processed and lacking in essential nutrients.",
+      "rebuttal_citations": [],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 1,
+          "clarity": 3,
+          "fairness": 4,
+          "total": 13
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 1,
+          "clarity": 3,
+          "fairness": 4,
+          "total": 12
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "While low-calorie foods may seem like a healthy option, they often lack essential nutrients and can lead to nutrient deficiencies if relied upon as the primary source of sustenance for adults.",
+      "argument_citations": [],
+      "rebuttal": "While it is true that low-calorie foods may lack essential nutrients, it is equally important to consider the potential consequences of relying solely on high-calorie foods. A balanced diet that incorporates a variety of nutrient-dense foods from all food groups can provide adequate nutrition without necessarily requiring extremely low-calorie options.",
+      "rebuttal_citations": [],
+      "turn_winner": "tie",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 1,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 12
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 1,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 12
+        }
+      }
+    },
+    {
+      "turn_index": 3,
+      "side": "pro",
+      "argument_point": "Here are three one-sentence claims that support the motion:",
+      "argument_citations": [],
+      "rebuttal": "While high-calorie foods may provide essential nutrients, the assumption that they are a healthy option for adults oversimplifies the complex relationship between diet and health. A more nuanced consideration would account for individual factors such as caloric needs, lifestyle, and overall dietary patterns, which may not always align with the notion that \"loq\" calorie foods are inherently beneficial.",
+      "rebuttal_citations": [],
+      "turn_winner": "tie",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 1,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 11
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 1,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 11
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 1,
+    "con_points": 0,
+    "total_turns": 3
+  },
+  "final_winner": "pro",
+  "final_justification": "The final winner is justified because the pro side consistently presented a nuanced argument, highlighting the benefits of low-calorie foods as a healthy option for adults while acknowledging potential drawbacks. In contrast, the con side's arguments were largely focused on the limitations of low-calorie foods, without offering a comprehensive alternative or addressing the complexities of adult nutrition."
+}

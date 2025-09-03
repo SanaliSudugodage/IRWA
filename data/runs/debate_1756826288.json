@@ -1,0 +1,56 @@
+{
+  "motion": "Low Calorie foods are healthy option for adults in Late 60's",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 1,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\n\"Elderly individuals who consume higher amounts of dietary protein tend to experience improved health outcomes and physical performance, as demonstrated by various epidemiological studies and randomized controlled trials.\"",
+      "argument_citations": [
+        "doc_00006#doc_00006_10"
+      ],
+      "rebuttal": "While it is true that elderly individuals who consume higher amounts of dietary protein tend to experience improved health outcomes and physical performance, one must also consider the potential limitations of relying solely on increased protein intake. For instance, other factors such as adequate hydration, medication management, and eating/feeding obstacles may be equally or more important in maintaining nutritional status and improving clinical course.",
+      "rebuttal_citations": [
+        "doc_00005#doc_00005_2",
+        "doc_00005#doc_00005_8",
+        "doc_00006#doc_00006_21",
+        "doc_00006#doc_00006_23",
+        "doc_00005#doc_00005_5"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 3,
+          "fairness": 3,
+          "total": 14
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 3,
+          "fairness": 5,
+          "total": 18
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 0,
+    "con_points": 1,
+    "total_turns": 1
+  },
+  "final_winner": "con",
+  "final_justification": "The final winner, con, is justified because while the pro's initial argument highlighted a factual claim about the benefits of high-protein diets for elderly individuals, the con effectively challenged this claim by pointing out that it does not necessarily translate to low-calorie foods being a healthy option. The con's rebuttal successfully shifted the focus away from protein intake and towards the broader context of dietary choices, ultimately leading to a more comprehensive evaluation of the motion."
+}

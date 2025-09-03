@@ -1,0 +1,48 @@
+{
+  "motion": "Universal Basic Income should be implemented",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 2,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Universal Basic Income can provide a safety net for individuals struggling to make ends meet, ensuring they have enough resources to cover basic needs and alleviate poverty.",
+      "argument_citations": [],
+      "rebuttal": "While Universal Basic Income (UBI) may provide a safety net for individuals struggling to make ends meet, it is crucial to consider the potential disincentivizing effects of UBI on employment and entrepreneurship. Without proper safeguards, UBI could inadvertently create a culture of dependency, potentially stifling innovation and economic growth.",
+      "rebuttal_citations": [],
+      "turn_winner": "tie",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 1,
+          "clarity": 3,
+          "fairness": 3,
+          "total": 12
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 1,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 12
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 0,
+    "con_points": 0,
+    "total_turns": 1
+  },
+  "final_winner": "tie",
+  "final_justification": "Cancelled by user after 1 turn(s)."
+}

@@ -1,0 +1,126 @@
+{
+  "motion": "Eat more healthy foods is a good option",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 3,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\n\"Eating more healthy foods is a good option\" because medical specialists who specialize in mental health recommend it, and research has shown that maintaining physical well-being is crucial for overall health.",
+      "argument_citations": [
+        "doc_00007#doc_00007_4"
+      ],
+      "rebuttal": "While it is true that medical specialists recommend eating healthy foods for overall well-being, we must also consider the potential limitations of this approach. Specifically, the focus on individual dietary choices may overlook broader systemic issues that contribute to poor health outcomes, such as socioeconomic factors and access to healthcare services.",
+      "rebuttal_citations": [
+        "doc_00001#doc_00001_266",
+        "doc_00007#doc_00007_4",
+        "doc_00006#doc_00006_4",
+        "doc_00005#doc_00005_4",
+        "doc_00000#doc_00000_4"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 3,
+          "fairness": 5,
+          "total": 18
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe current educational system focuses an unusually high degree of emphasis on intellectual development, while neglecting students' physical well-being.",
+      "argument_citations": [
+        "doc_00007#doc_00007_4"
+      ],
+      "rebuttal": "While it is true that the current educational system may prioritize intellectual development over physical well-being, it is essential to acknowledge that the evidence also suggests that students have access to a wide range of recreational activities and sports, which can contribute to their overall physical health. Moreover, medical specialists specializing in mental health recommend recreation as a means to relax and enjoy oneself, implying that physical activity can be a vital component of a student's well-being.",
+      "rebuttal_citations": [
+        "doc_00008#doc_00008_4",
+        "doc_00007#doc_00007_4",
+        "doc_00006#doc_00006_4",
+        "doc_00005#doc_00005_4",
+        "doc_00000#doc_00000_4"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 15
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 14
+        }
+      }
+    },
+    {
+      "turn_index": 3,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe current educational system places an unusually high emphasis on intellectual development, overlooking students' physical well-being and leading to a growing number of physically unfit graduates.",
+      "argument_citations": [
+        "doc_00007#doc_00007_4"
+      ],
+      "rebuttal": "While it is true that the current educational system may prioritize intellectual development over physical well-being, it is essential to acknowledge that many students already engage in recreational activities outside of school hours. In fact, the growing popularity of various sports and activities among younger generations suggests that there are opportunities for students to balance their academic pursuits with physical fitness, potentially mitigating concerns about a lack of emphasis on physical well-being.",
+      "rebuttal_citations": [
+        "doc_00008#doc_00008_4",
+        "doc_00007#doc_00007_4",
+        "doc_00006#doc_00006_4",
+        "doc_00005#doc_00005_4",
+        "doc_00000#doc_00000_4"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 3,
+          "fairness": 3,
+          "total": 14
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 16
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 1,
+    "con_points": 2,
+    "total_turns": 3
+  },
+  "final_winner": "con",
+  "final_justification": "The final winner of this debate is justified because the con side successfully challenged the pro's initial argument by highlighting the limitations of relying solely on medical specialists' recommendations. The con side then built upon this challenge by introducing a crucial factor - the current educational system's emphasis on intellectual development over physical well-being, which undermines the pro's assumption that eating healthy foods is a straightforward solution for overall well-being."
+}
