@@ -2,4 +2,4 @@
   "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
   "dim": 384,
   "metric": "cosine (via inner product)"
-} // file
+} 
