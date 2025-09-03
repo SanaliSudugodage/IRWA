@@ -1,0 +1,75 @@
+{
+  "motion": "doing a sport is a good thing",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 2,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here are three distinct, evidence-sounding but cautious claims in support of the motion:",
+      "argument_citations": [],
+      "rebuttal": "While these claims may seem plausible on their own, it's essential to consider the broader context before drawing conclusions. Without concrete data or empirical research to back up these assertions, we must exercise caution and not assume causality between the proposed factors and the desired outcome.",
+      "rebuttal_citations": [],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 1,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 11
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 1,
+          "clarity": 3,
+          "fairness": 4,
+          "total": 13
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here are three distinct, evidence-sounding but cautious claims:",
+      "argument_citations": [],
+      "rebuttal": "While these claims may seem plausible, it's essential to exercise caution when making such sweeping statements without concrete evidence. A more nuanced approach would be to acknowledge that correlations do not necessarily imply causation and that further research is needed to fully understand the relationships between these factors.",
+      "rebuttal_citations": [],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 1,
+          "clarity": 3,
+          "fairness": 4,
+          "total": 13
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 1,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 15
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 0,
+    "con_points": 2,
+    "total_turns": 2
+  },
+  "final_winner": "con",
+  "final_justification": "The final winner is justified because both sides presented cautious and evidence-sounding claims, but the con side successfully highlighted the importance of considering broader context and exercising caution when making sweeping statements. By emphasizing the need for concrete data and empirical evidence, the con side effectively challenged the pro side's claims without providing sufficient support, ultimately justifying their winning position."
+}

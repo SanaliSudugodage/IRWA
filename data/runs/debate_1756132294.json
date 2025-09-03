@@ -1,0 +1,231 @@
+{
+  "motion": "AI-generated content should be labeled by law",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 6,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Motion: AI-generated content should be labeled by law\nStance: pro\n\nEvidence passage:\n2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "Opponent claim:\nMotion: AI-generated content should be labeled by law\nStance: pro\n\nEvidence passage:\n2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A). Counter-evidence snippets:\n2017; Yang 2018).",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_232",
+        "doc_00000#doc_00000_233",
+        "doc_00000#doc_00000_236"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 22
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Motion: AI-generated content should be labeled by law\nStance: con\n\nEvidence passage:\n2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "Opponent claim:\nMotion: AI-generated content should be labeled by law\nStance: con\n\nEvidence passage:\n2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A). Counter-evidence snippets:\n2017; Yang 2018).",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_232",
+        "doc_00000#doc_00000_233",
+        "doc_00000#doc_00000_236"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 22
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        }
+      }
+    },
+    {
+      "turn_index": 3,
+      "side": "pro",
+      "argument_point": "Motion: AI-generated content should be labeled by law\nStance: pro\n\nEvidence passage:\n2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "Opponent claim:\nMotion: AI-generated content should be labeled by law\nStance: pro\n\nEvidence passage:\n2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A). Counter-evidence snippets:\n2017; Yang 2018).",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_232",
+        "doc_00000#doc_00000_233",
+        "doc_00000#doc_00000_236"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 22
+        }
+      }
+    },
+    {
+      "turn_index": 4,
+      "side": "con",
+      "argument_point": "Motion: AI-generated content should be labeled by law\nStance: con\n\nEvidence passage:\n2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "Opponent claim:\nMotion: AI-generated content should be labeled by law\nStance: con\n\nEvidence passage:\n2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A). Counter-evidence snippets:\n2017; Yang 2018).",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_232",
+        "doc_00000#doc_00000_233",
+        "doc_00000#doc_00000_236"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 22
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        }
+      }
+    },
+    {
+      "turn_index": 5,
+      "side": "pro",
+      "argument_point": "Motion: AI-generated content should be labeled by law\nStance: pro\n\nEvidence passage:\n2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "Opponent claim:\nMotion: AI-generated content should be labeled by law\nStance: pro\n\nEvidence passage:\n2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A). Counter-evidence snippets:\n2017; Yang 2018).",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_232",
+        "doc_00000#doc_00000_233",
+        "doc_00000#doc_00000_236"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 22
+        }
+      }
+    },
+    {
+      "turn_index": 6,
+      "side": "con",
+      "argument_point": "Motion: AI-generated content should be labeled by law\nStance: con\n\nEvidence passage:\n2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A).",
+      "argument_citations": [
+        "doc_00000#doc_00000_61"
+      ],
+      "rebuttal": "Opponent claim:\nMotion: AI-generated content should be labeled by law\nStance: con\n\nEvidence passage:\n2017; Yang 2018). It is in response to concerns around technological change \nthat a number of the pilot programs discussed in this book are being launched. Tests in \nthe United States that are privately funded, including with support from the tech indus-\ntry, tend to fall in this category (e.g., Oakland pilot by Y Combinator; see appendix A). Counter-evidence snippets:\n2017; Yang 2018).",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_61",
+        "doc_00000#doc_00000_242",
+        "doc_00000#doc_00000_232",
+        "doc_00000#doc_00000_233",
+        "doc_00000#doc_00000_236"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 22
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 3,
+    "con_points": 3,
+    "total_turns": 6
+  },
+  "final_winner": "tie",
+  "final_justification": "Tie on turn points; see per-turn judge totals."
+}

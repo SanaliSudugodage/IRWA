@@ -1,0 +1,91 @@
+{
+  "motion": "doing a sport is a good thing",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 2,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nResearch has shown that integrating sports into education can improve children's health, self-worth, and mental acuity.",
+      "argument_citations": [
+        "doc_00005#doc_00005_5"
+      ],
+      "rebuttal": "While integrating sports into education may improve children's health, self-worth, and mental acuity, it is crucial to consider the potential drawbacks of prioritizing physical activity over other essential educational pursuits. Furthermore, the emphasis on early introduction of sports may inadvertently create a culture where academic achievement takes a backseat to athletic performance, potentially leading to an imbalance in students' overall development.",
+      "rebuttal_citations": [
+        "doc_00005#doc_00005_5",
+        "doc_00000#doc_00000_5",
+        "doc_00005#doc_00005_4",
+        "doc_00000#doc_00000_4",
+        "doc_00005#doc_00005_0"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 16
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nParticipating in sports as part of education can improve an individual's health and mental acuity, leading to positive impacts on self-worth.",
+      "argument_citations": [
+        "doc_00005#doc_00005_5"
+      ],
+      "rebuttal": "While participating in sports can indeed improve an individual's health and mental acuity, leading to positive impacts on self-worth, it is crucial to acknowledge that not all individuals have equal access to such opportunities. This raises concerns about potential disparities in benefits, as those with limited resources or mobility may be excluded from these advantages, potentially exacerbating existing social and economic inequalities.",
+      "rebuttal_citations": [
+        "doc_00006#doc_00006_1",
+        "doc_00005#doc_00005_1",
+        "doc_00000#doc_00000_1",
+        "doc_00005#doc_00005_4",
+        "doc_00000#doc_00000_4"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 16
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 1,
+    "con_points": 1,
+    "total_turns": 2
+  },
+  "final_winner": "tie",
+  "final_justification": "Despite the initial tie, the pro argument ultimately prevails due to its consistent emphasis on the multifaceted benefits of doing a sport. The pro's opening statement effectively highlighted the positive impacts on children's health, self-worth, and mental acuity, which was later reinforced by their rebuttal acknowledging potential drawbacks while still emphasizing the overall advantages. In contrast, the con argument, although presenting some valid points, failed to provide a comprehensive counterargument, instead focusing primarily on cautioning against potential drawbacks without offering a compelling alternative."
+}

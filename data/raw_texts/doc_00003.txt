@@ -1,0 +1,1491 @@
+WHAT WE  
+KNOW ABOUT 
+UNIVERSAL  
+BASIC INCOME
+A CROSS-SYNTHESIS 
+OF REVIEWS
+By Rebecca Hasdell
+JULY 2020
+
+About the Stanford Basic Income Lab
+The Stanford Basic Income Lab (BIL) aims to promote an informed public conversation on 
+Universal Basic Income and its potential in alleviating poverty, precariousness and inequality. 
+An initiative of the McCoy Family Center for Ethics in Society at Stanford, BIL fosters research 
+on basic income, holds events around the politics, philosophy and economics of the proposal, 
+brings together thought partners, practitioners, policymakers and academics to document 
+best practices, discuss implementation challenges, and derives practical recommendations  
+for advancing basic income proposals. More information is available on our website 
+basicincome.stanford.edu
+About the Lead Author
+Rebecca Hasdell is a Postdoctoral Research Fellow with the Stanford Basic Income Lab.  
+She holds a Masters of Public Health (Health Promotion) and PhD (Social and Behavioral 
+Health Sciences) from the Dalla Lana School of Public Health, University of Toronto. 
+About this Report
+The report was funded by a grant from the Robert Wood Johnson Foundation (Grant ID # 75386; 
+Principal Investigator: Professor Juliana Bidadanure). The Basic Income Lab team would like to 
+thank Ioana Marinescu, Assistant Professor of Public Policy at the University of Pennsylvania 
+School of Social Policy and Practice, and a Faculty Research Fellow at the National Bureau of 
+Economic Research, as well as Ugo Gentilini, Senior Economist with the Social Protection and 
+Jobs Global Practice and the Global Lead for Social Safety Nets at the World Bank Group,  
+for their thoughtful comments on this report. 
+Please cite the work as follows: Hasdell, R. (2020) What we know about Universal Basic Income: A cross-synthesis 
+of reviews. Stanford, CA: Basic Income Lab.  
+2
+What we know about Universal Basic Income: A cross-synthesis of reviews
+There is renewed interest in universal 
+basic income (UBI) as a potential policy 
+response to systemic poverty and rising 
+inequality as well as new challenges 
+associated with technological change and 
+a fundamental restructuring of the global 
+economy. Despite decades of economic 
+growth in high-income countries, large 
+swaths of the population have been left 
+behind and inequalities have deepened. 1 
+In low- and middle-income countries, 
+progress has been made on extreme 
+poverty, but uneven progress within and 
+between countries has opened new 
+divides.2 There is growing anxiety about 
+emerging threats from technological 
+change and concurrent job shortages from 
+automation, while other structural forces—
+such as trade and globalization as well 
+as the consolidation of large firms—have 
+reduced job and economic mobility for 
+some time.3 Regardless of the root cause 
+for today’s inequities, there are questions 
+about how effective the current patchwork 
+of social transfers has been for redressing 
+persistent poverty and inequalities, and 
+whether systems are equipped to respond 
+to societal changes.  
+PLAIN LANGUAGE SUMMARY
+In the last ten years, as Universal 
+Basic Income has moved up the policy 
+agenda, many reviews and reports 
+have taken stock of the evidence 
+on unconditional and universal cash 
+programs. This report, "What we know 
+about Universal Basic Income: A cross-
+synthesis of reviews," is intended as an 
+‘umbrella review’—it provides a roadmap 
+to the literature for experimenters, 
+policy practitioners, policymakers and 
+others involved in UBI development 
+and implementation.  
+This report compiles and critically 
+examines 16 reviews of the evidence 
+in order to synthesize key findings, 
+identify evidence gaps, and derive 
+directions for future UBI research, 
+policy and practice. 
+BACKGROUND
+1
+
+3
+What we know about Universal Basic Income: A cross-synthesis of reviews
+Across the globe, pilots and experiments 
+are underway in an attempt to understand 
+how a UBI might address these public 
+policy concerns. While definitions vary, at 
+its core, UBI is a cash transfer given to all 
+members of a community on a recurrent 
+basis regardless of income level and 
+with no strings attached (Figure 1).4 Many 
+UBI advocates argue for a transfer that is 
+sufficient to cover essential living costs, but 
+quite a few propose incremental levels that 
+would function as a base for other sources 
+of income (Figure 1).5 A transfer of $1,000 
+a month, for example, is often floated as 
+a reference number in the United States. 
+Several experiments that are currently in 
+progress are testing varying amounts 
+A fully universal and unconditional basic 
+income has never been implemented 
+at scale. However, evidence from 
+programs, policies and experiments that 
+share features of a UBI can be used to 
+approximate economic, social, health and 
+other impacts. There are a growing number 
+of contemporary literature reviews that 
+report on the substantial evidence base of 
+interventions that meet at least two or more 
+features of a UBI. Since the 1990s, there 
+has been a proliferation of cash transfers 
+in low- and middle-income countries and 
+increased attention to UBI in higher-
+income contexts. 
+This report is structured as follows. First, it 
+provides an overview of the reviews. Then 
+it synthesizes the basis of evidence (e.g., 
+experiments, policies, and programs) that 
+has been used to arrive at conclusions about 
+UBI as well as the types of outcomes that 
+have been of interest to researchers and the 
+evidence that exists for these outcomes. 
+The final section highlights gaps in the 
+current state of the evidence and where 
+future research is required. 
+DEFINITIONAL FEATURES OF A UBI
+Universal: It is paid to every individual and 
+not targeted to a specific population
+Unconditional: It involves no set conditions or 
+sanctions and is given to those who are both 
+employed and unemployed, voluntarily or not
+Cash payment: It is paid in cash, which 
+allows recipients to convert their benefits 
+however they choose
+Individual: It is paid on an individual basis 
+(versus household-based)
+Periodic: It is a recurring payment rather  
+than a one-off grant
+FIGURE 1
+4
+What we know about Universal Basic Income: A cross-synthesis of reviews
+WHAT DID  
+WE DO?  
+DESIGN OF  
+THIS REPORT
+WHAT IS AN ‘UMBRELLA REVIEW’
+An ‘umbrella review’ (or ‘cross-synthesis  
+of reviews’) compiles evidence from 
+multiple review reports that search for, 
+appraise, and synthesize multiple studies 
+on a topic. By incorporating existing 
+syntheses of research evidence, an 
+umbrella reviews aims to provide a meta-
+level analysis to cross identify research 
+findings and gaps on a topic and highlight 
+areas where the reviews may diverge. 
+REPORT QUESTIONS AND METHODS 
+The objective of this umbrella review is to 
+summarize the current state of the evidence on 
+UBI-type programs across the globe based on 
+published reviews, and to provide a roadmap 
+for those involved in UBI. The questions 
+addressed in this umbrella review are: 
+1)   What types of interventions (policies, 
+programs, and experiments) have been 
+used by previous reviews of the evidence 
+to arrive at conclusions about UBI?
+2)   What types of outcomes have been used 
+to assess the effectiveness of UBI-type 
+interventions? 
+3)   What are the effects of UBI-type 
+interventions? 
+ 
+IDENTIFICATION OF EXISTING 
+REVIEWS ON UBI AND OTHER 
+CASH TRANSFERS 
+A targeted search was conducted 
+starting with a reference list of review 
+reports from a recently published 
+comprehensive report on UBI by the 
+World Bank Group.6 Reference lists of 
+the review reports included in the World 
+Bank report were then hand searched, 
+and recommendations were solicited 
+from experts in the field to identify other 
+relevant reviews. Any English-language 
+review that set out to approximate the 
+effects of a UBI was included, as well as 
+reviews on social protection programs 
+that focussed on unconditionality as an 
+essential feature of program design and 
+delivery. Reviews were also included if 
+they compared unconditional transfers 
+to conditional programs (those that 
+require recipients to comply with certain 
+criteria) when it was possible to isolate 
+the evidence from unconditional 
+transfers. Excluded from the analysis 
+were: single studies, reviews that 
+focussed exclusively on conditional or 
+in-kind cash transfers, and conceptual 
+reviews that did not comprehensively or 
+systematically report empirical evidence. 
+Data was systematically extracted from 
+the reviews following the Preferred 
+Reporting Items for Systematic Reviews 
+and Meta-Analyses (PRISMA)7.
+2
+3
+
+5
+What we know about Universal Basic Income: A cross-synthesis of reviews
+FEATURES OF THE INCLUDED REVIEWS 
+Sixteen reviews met the inclusion criteria. 
+The reviews were comprised of nine 
+peer-reviewed articles and reports from 
+systematic review databases, five technical 
+reports, and two working papers. Table 1 
+shows the reviews organized by objectives 
+and geography.
+All reviews were published between  
+2009–2019, but they all draw on empirical 
+evidence that dates back to the 1970s.  
+There are two distinct types of reviews in  
+the literature. The first are reviews that 
+directly address questions about UBI as a 
+policy proposal. The second are reviews 
+that report on the impacts of unconditional 
+cash, but do not directly address UBI. The 
+latter preceded UBI entering mainstream 
+policy discussions, but they report on similar 
+types of policies, programs, and experiments 
+that have been used to approximate or 
+anticipate the impacts of a UBI and are 
+therefore relevant for this report. 
+WHAT DID  
+WE FIND?   
+DESCRIBING 
+THE STATE OF 
+THE EVIDENCE 
+ON UBI-TYPE 
+PROGRAMS
+The literature focuses on the following 
+themes and potential impacts: 
+■ projected economic impacts of a UBI3,8 
+■ intersecting health, social and  
+economic outcomes among all  
+recipients5,9,10 and based on demographic 
+characteristics11–13 
+■ specific outcomes for education14
+■ adult6,15 and child16 labor market 
+participation
+■ health and health care access17 
+■ reproductive health18
+■ the social determinants of health19 
+■ infant and early childhood health20 
+By study location, eight reviews8,9,11–14,16–19 
+report on outcomes from countries defined 
+as low- and middle-income by the World 
+Bank, three in high-income countries3,5,10, 
+and two across country contexts.6,20
+Other than two meta-analyses, which 
+combined data from multiple studies to arrive 
+at common effects15,17, all studies utilized 
+systematic or narrative synthesis strategies. 
+Other than a handful of reviews that included 
+results from qualitative studies, almost 
+all of the knowledge syntheses reviewed 
+had inclusion criteria that was limited to 
+experimental and quasi-experimental 
+designs.10,12,19
+3
+6
+What we know about Universal Basic Income: A cross-synthesis of reviews
+AUTHORS  YEAR PRIMARY OBJECTIVE(S) N REVIEW 
+TYPE
+GEOGRAPHIC FOCUS  
+AND COVERAGE 
+OF STUDIES
+RESEARCH 
+DESIGNS
+UNIVERSAL BASIC INCOME REVIEWS
+Banerjee, A.,  
+Niehaus, P., Suri, T.
+2019 Assess what recipients 
+would likely do with 
+incremental income and 
+the extent to which basic 
+income unlocks further 
+economic growth
+N/R Narrative 
+review
+Low- and middle-
+income countries
+N/R
+Bastagli, F.  
+(in Gentilini et al., eds)*
+2020 Examine the evidence 
+for UBI related to labor 
+effects with an emphasis 
+on how design features 
+impact work outcomes
+N/R Systematic 
+review 
+Low- and middle-
+income countries
+N/R
+Gibson, M., Hearty, W., 
+Craig, P.
+2019 Describe the nature of 
+interventions evaluated in 
+previous studies and the 
+study designs to evaluate 
+them, including data 
+sources and outcome 
+measures 
+28 Scoping 
+review
+Low-, middle-, and 
+high-income countries
+Experimental, 
+quasi-
+experimental 
+and qualitative 
+studies 
+Hoynes, H., Rothstein, J. 2019 Review evidence on how 
+UBI should be defined 
+and the impacts it intends 
+to address, and the 
+evidence for programs 
+that meet definitions 
+of either universality or 
+minimum payments
+N/R Narrative 
+review
+United States and 
+advanced economies
+N/R
+Marinescu, I. 2018 Explore the impact of 
+unconditional cash 
+transfers in three major 
+natural experiments on 
+consumption, labor force 
+participation, education, 
+health and other social 
+outcomes. 
+N/R Systematic 
+review
+United States,  
+Canada, Sweden
+Experimental 
+and quasi-
+experimental 
+Owusu-Addo, E., 
+Renzaho, A.M.N., 
+Smith, B.J.
+2019 Synthesize qualitative 
+and quantitative evidence 
+on the contribution 
+of cash transfers in 
+addressing the wider 
+social determinants of 
+health, and the effect 
+on health and health 
+inequalities
+53 Systematic 
+review
+Sub-Saharan Africa 
+Malawi (13%), Uganda 
+(13%), Zambia (13%), 
+Kenya (8%), South 
+Africa (8%), Tanzania 
+(8%), Zimbabwe (8%), 
+Burkina Faso (4%), 
+Congo (4%), Ghana 
+(4%), Lesotho (4%), 
+Mozambique (4%),  
+Niger (4%), Nigeria (4%)
+Experimental, 
+quasi-
+experimental 
+and qualitative 
+TABLE 1 SUMMARY OF REVIEW REPORTS ON UNCONDITIONAL CASH TRANSFERS, 2009–2019
+7
+AUTHORS  YEAR PRIMARY OBJECTIVE(S) N REVIEW 
+TYPE
+GEOGRAPHIC FOCUS  
+AND COVERAGE 
+OF STUDIES
+RESEARCH 
+DESIGNS
+UNCONDITONAL CASH TRANSFER REVIEWS  
+Baird, S., Ferreira, 
+F.H.G., Ozler, B., 
+Woolcock, M.
+2013 Assess the relative 
+effectiveness of 
+conditional and 
+unconditional cash 
+transfers in improving 
+enrollment, attendance, 
+and test scores in 
+developing countries
+75 Meta- 
+analysis
+Low- and middle- 
+income countries
+Experimental 
+(35) and quasi-
+experimental 
+(40)
+Baird, S.,  
+McKenzie, D.,  
+Ozler, B.
+2018 Examine impacts on 
+the adult labor market 
+of a wide range of cash 
+transfer programs
+N/R Narrative 
+review
+Low-, middle- and 
+high-income countries
+Experimental 
+and quasi-
+experimental
+Banks, L., Mearkle, 
+R., Mactaggart, I., 
+Walsham, M., Kuper, 
+H., Blanchet, K.
+2016 Examine the financial and 
+non-financial impacts for 
+persons with disabilities 
+who participate in social 
+protection programs, 
+and the extent to which 
+programs are disability 
+inclusive
+15 Systematic 
+review
+Low- and middle-
+income countries
+South Africa (53%), 
+Vietnam (20%), China 
+(13%), Namibia (6%)
+Experimental, 
+quasi-
+experimental 
+and qualitative
+Bastagli, F., Hagen-
+Zanker, J., Harman, L., 
+Barca, V., Sturge, G., 
+Pellerano, L.
+2016 Examine the evidence 
+for the impact of cash 
+transfers on a range of 
+individual- or household-
+level outcomes and 
+the links between 
+outcomes and variations 
+in program design and 
+implementation, with a 
+specific focus on women 
+and girls
+201 Systematic 
+review
+Low- and middle-
+income countries 
+Latin America (54%), 
+sub-Saharan Africa 
+(38%), East Asia and 
+the Pacific, Europe 
+and Central Asia, and 
+the Middle East and 
+North Africa (8%)
+Experimental 
+and quasi-
+experimental 
+(intervention 
+outcomes) and 
+institutional 
+and 
+descriptive 
+analysis 
+(program 
+design)
+de Hoop, J.,  
+Rosati, F.C.
+2014 Evaluate the impact 
+of unconditional cash 
+transfers on children’s 
+labor market participation 
+and heterogeneity 
+of effects across 
+demographic categories
+30 Systematic 
+review
+Low- and middle-
+income countries
+Latin America (77%), 
+Mexico (17%), Malawi 
+and South Africa (7%)
+Experimental 
+and quasi-
+experimental
+(Continued)
+TABLE 1 SUMMARY OF REVIEW REPORTS ON UNCONDITIONAL CASH TRANSFERS, 2009–2019
+8
+AUTHORS  YEAR PRIMARY OBJECTIVE(S) N REVIEW 
+TYPE
+GEOGRAPHIC FOCUS  
+AND COVERAGE 
+OF STUDIES
+RESEARCH 
+DESIGNS
+UNCONDITONAL CASH TRANSFER REVIEWS 
+Hagen-Zanker, J., 
+McCord, A.,  
+Holmes, R.
+2011 Assess the evidence of 
+the impact of employment 
+guarantee schemes on 
+the poor compared with 
+cash transfers
+44 Systematic 
+review
+Low- and middle-
+income countries, and 
+the USA (employment 
+guarantee schemes 
+from the 1930s)
+All study types
+Khan, M.E., Hazra, A., 
+Kant, A., Ali, M.
+2016 Measure the effect of 
+conditional cash transfers 
+and unconditional cash 
+transfers on outcomes 
+related to contraceptive 
+use and reproductive 
+health
+10 Systematic 
+review 
+Low- and middle-
+income countries
+Studies covered 
+Honduras, Malawi, 
+Medico, Nicaragua, 
+South Africa and 
+Zambia
+Experimental 
+and quasi-
+experimental 
+Pega, F., Liu S.Y., 
+Walter, S., Pabayo, R., 
+Saith, R., Lhachimi S.K.
+2017 Assess the effects of 
+unconditional cash 
+transfers for improving 
+health services use and 
+outcomes in vulnerable 
+children and adults in 
+LMICs, and to assess 
+the effects of UCTs on 
+social determinants of 
+health and healthcare 
+expenditure. 
+21 Meta- 
+analysis 
+was 
+conducted  
+for cluster 
+RCTs
+Systematic 
+review of 
+non-RCTs
+Low- and middle-
+income countries
+Studies covered 
+Ecuador, Burkina 
+Faso, Kenya, Malawi, 
+Indonesia, Lesotho, 
+Mexico, South Africa, 
+Uruguay, Zambia, India 
+and Zimbabwe
+Experimental 
+and quasi-
+experimental 
+Siddiqi, A., Rajaram, A., 
+Miller, S.P.
+2018 Synthesize the current 
+body of research from 
+around the world on the 
+effects of cash transfer 
+programs on the first year 
+of life
+14 Systematic 
+review
+Low-, middle- and 
+high-income countries
+USA (57%), Canada 
+(14%), Mexico (14%), 
+Brazil (7%), Nepal (7%)
+Experimental 
+and quasi-
+experimental
+Y oong, J., Rabinovich, 
+L., Diepeveen, S.
+2012 Examine the evidence 
+of the impact on family 
+well-being of giving 
+economic resources to 
+women relative to the 
+impact of giving them  
+to men
+14 Narrative 
+review
+Low- and middle-
+income countries
+Experimental 
+and quasi-
+experimental 
+*This was a comprehensive review of the attributes and evidence for UBI, including country-level poverty and distributional implications, 
+financing and the policy and social feasibility of UBI. For the purpose this review, we focus on chapters that review empirical evidence of 
+cash transfer interventions.
+N = number of included papers
+N/R not reported
+TABLE 1 SUMMARY OF REVIEW REPORTS ON UNCONDITIONAL CASH TRANSFERS, 2009–2019
+9
+What we know about Universal Basic Income: A cross-synthesis of reviews
+WHAT OUTCOMES ARE  
+ADDRESSED IN THE LITERATURE? 
+Within the broad areas of focus, reviews 
+address a range of outcomes at the 
+individual- and community-level, and 
+for implementation processes. Table 2 
+describes overarching domains of interest 
+and the measures or indicators used to 
+operationalize the domains. Poverty and 
+expenditures, labor and employment, 
+education, and health and healthcare 
+access are the most commonly investigated. 
+DOMAIN  MEASURES AND INDICATOR(S) REVIEWS (First author/date)
+INDIVIDUAL-LEVEL OUTCOMES
+Poverty and expenditures Income (wage and profits) Baird 2018
+Ability to meet basic needs Banks 2016; Pega 2019
+Monetary poverty Banks 2016; Owusu-Addo 2018; Taafe 2017
+Total household expenditure  
+or consumption
+Bastagli 2016; Hagen-Zanker 2011;  
+Marinescu 2018; Owusu-Addo 2019
+Food expenditure Bastagli 2016; Hagen-Zanker 2011
+Poverty headcount Bastagli 2016; Hagen-Zanker 2011; 
+Owusu-Addo 2019
+Poverty gap Bastagli 2016; Owusu-Addo 2019
+Squared poverty gap Bastagli 2016
+Food insecurity Hagen-Zanker 2011
+Healthcare expenditure Pega 2019
+Savings, investment  
+and production 
+Household savings Bastagli 2016; Owusu-Addo 2019
+Borrowing Bastagli 2016; Owusu-Addo 2019
+Investment in productive assets 
+(agricultural and other)
+Bastagli 2016; Taafe 2017
+Livestock ownership Bastagli 2016; Pega 2019
+Involvement in business or enterprise Bastagli 2016
+Household productivity Taaafe 2017
+TABLE 2 DOMAINS, MEASURES AND INDICATORS ADDRESSED IN REVIEWS 
+In most cases, indicators are addressed at 
+the individual level, although community-
+level labor and employment trends have 
+been prominent in reviews that analyze 
+potential impacts of a UBI in the United 
+States. Given the potential for cash 
+transfers to redress social inequities, 
+several reviews conduct sub-group analysis 
+for gender11,13,16 and measure absolute and 
+relative inequality across outcomes.17 
+(Continued)
+10
+DOMAIN MEASURES AND INDICATOR(S) REVIEWS (First author/date)
+Labor and employment Adult labor force participation Bastagli 2016; Gibson 2018;  
+Marinescu 2018; Pega 2019; Y oonge 2012
+Adult hours worked/labor intensity Baird 2018; Bastagli 2016; Marinescu 2018
+Adult labor intensity by sector Bastagli 2016
+Adult type of work Baird 2018
+Child and youth labor force 
+participation
+Bastagli 2016, de Hoop 2014; Gibson 2018; 
+Owusu-Addo 2019; Pega 2019
+Child and youth hours worked/labor 
+intensity
+Bastagli 2016; de Hoop 2014
+Migration Bastagli 2016
+Women’s Empowerment Physical abuse by a male partner Bastagli 2016
+Non-physical abuse by a male partner Bastagli 2016
+Women’s decision-making power  
+and control over resources
+Bastagli 2016; Owusu-Addo 2019
+Marriage Bastagli 2016; Owusu-Addo 2019
+Fertility Bastagli 2016
+Use of contraception Bastagli 2016
+Multiple sexual partners Bastagli 2016; Owusu-Addo 2019
+Adolescent pregnancy Owusu-Addo 2019
+Education School enrollment Baird 2013; Owusu-Addo 2019; Taafe 2017
+School attendance Baird 2013; Bastagli 2016;  
+Marinescu 2018; Owusu-Addo 2019
+Test scores Baird 2013; Bastagli 2016;  
+Marinescu 2018; Owusu-Addo 2019
+Cognitive development Bastagli 2016
+Educational attainment Gibson 2018; Hoynes 2019; Marinescu 2018
+Parenting quality Pega 2019
+Healthcare access Care seeking behavior Banks 2016; Owusu-Addo 2019; Pega 2019
+Maternal health (antenatal visits;  
+access to skilled delivery)
+Owusu-Addo 2019; Taafe 2017
+Hospital admissions Gibson 2018; Marinescu 2018
+Registered births Owusu-Addo 2019; Pega 2019
+HIV service utilization Taafe 2017
+TABLE 2 DOMAINS, MEASURES AND INDICATORS ADDRESSED IN REVIEWS 
+(Continued)
+11
+DOMAIN  MEASURES AND INDICATOR(S) REVIEWS (First author/date)
+Health Mortality Pega 2019
+General health Banks 2016; Gibson 2018; Hoynes 2019
+Mental health Banks 2016; Hoynes 2019; Marinescu 2018; 
+Owusu-Addo 2019; Pega 2019
+Child anthropometry/nutritional status 
+(underweight, child wasting)
+Owusu-Addo 2019; Pega 2019
+Nutritional status and dietary diversity Pega 2019; Taafe 2017
+Birth weight Siddiqi 2019
+Child mortality  
+(neonatal and post-neonatal)
+Siddiqi 2019
+Gestational age Siddiqi 2019
+Apgar scores at birth Siddiqi 2019
+Reproductive health Use of contraceptive services  
+or commodities
+Khan 2016
+Method continuation and/or switching Khan 2016
+New contraceptive users Khan 2016
+Civic Participation Participation in community 
+decision-making
+Owusu-Addo 2019
+COMMUNITY-LEVEL OUTCOMES
+Labor and employment Labor supply Hoynes 2019; Marinescu 2018
+State-level wage rates Bastagli 2020
+State-level number of employed and 
+unemployed
+Bastagli 2020
+Early retirement rates Bastagli 2020
+Conditions of paid work Bastagli 2020
+Valuation and distribution of unpaid work Bastagli 2020
+Economic development Increase in local businesses Taafe 2017
+Health Contraceptive prevalence rate Khan 2016
+Unmet need for modern contraceptive 
+methods 
+Khan 2016
+IMPLEMENTATION PROCESSES
+Role of program size Baird 2013
+Role of evaluation structure Baird 2013
+Role of quality of data Baird 2013
+Program access Banks 2016
+Quality of care and services Khan 2016
+TABLE 2 DOMAINS, MEASURES AND INDICATORS ADDRESSED IN REVIEWS
+12
+What we know about Universal Basic Income: A cross-synthesis of reviews
+HOW ARE UBI-TYPE PROGRAMS 
+CONCEPTUALIZED AND DEFINED? 
+PROGRAMS, POLICIES, EXPERIMENTS 
+AND PILOTS THAT INFORM  
+THE UBI DEBATE 
+The studies that are used in review reports 
+to project the impact of a UBI vary. Indeed, 
+studies that analyze pilots, policies, and 
+programs with quite different features 
+have been used to arrive at conclusions 
+about what could happen if everyone in 
+a community or region received cash. 
+For this report, all pilots, policies, and 
+programs referenced in included reviews 
+were classified according to the definitional 
+features presented in the introduction of 
+this report.
+Programs, policies, experiments, and pilots 
+fit into five broad categories (Table 3). A full 
+list of programs covered by the reviews in 
+these categories is included in Appendix 1: 
+■ cash transfers, conditional and 
+unconditional
+■ social insurance
+■ in-work benefits
+■ dividend payments from resource  
+sector or other revenues 
+■ cash from non-work sources, such as 
+private remittances or lottery winnings 
+The broad categorizations include different 
+combinations of the core, definitional features 
+of a UBI: universality, unconditionality, in-cash, 
+to individuals, and at a level that meets basic 
+needs (Figure 1). Some pilots, policies, and 
+programs that are included in the reviews 
+synthesized for this report track more closely 
+to the definitional features than others. For 
+this reason, we break down interpretations of 
+universality and unconditionality that explain 
+some of the variability in studies that are 
+included in reviews. 
+Universality is the idea that every person is 
+covered under a given scheme. Universality, 
+though, has multiple interpretations; it can 
+refer to programs where every person 
+is paid or programs where every person 
+is guaranteed to be covered based on 
+demographic characteristics such as age or 
+the average income in the area where they 
+live. In the case where there are criteria for 
+initial eligibility, a defining feature of UBI 
+is continuing eligibility despite changes to 
+income or other characteristics. 
+Conditionality refers to requirements that are 
+imposed to receive benefits. Conditions can 
+refer to service requirements (attending a 
+health clinic or attending school) and to work 
+requirements. Service conditionalities are 
+often used as an exclusion criteria by reviews, 
+however some programs that require 
+recipients to hold or seek employment in 
+the formal economy are commonly used to 
+draw conclusions about the impact of cash. 
+Examples include social assistance programs 
+with work requirements and income-based 
+tax credits. Programs that do not meet any of 
+the meanings of the definitional features may 
+be included when reforms are introduced 
+that allow researchers to evaluate changes 
+in outcomes, as has been the case with 
+the welfare assistance program Temporary 
+Assistance for Needy Families (TANF)  
+in the United States. 
+13
+What we know about Universal Basic Income: A cross-synthesis of reviews
+Only a handful of the interventions covered 
+by this review are truly unconditional and 
+universal. In an exhaustive review, Gentilini 
+and colleagues21 identify only a small 
+number of schemes that reach everyone 
+within a geographic region without means-
+based or demographic targeting, and 
+regardless of work history. These included 
+national schemes in Mongolia and Iran, 
+dividend transfers in Alaska and the Eastern 
+Band of the Cherokee Nation, a one-off 
+transfer to all citizens in Kuwait, and pilots 
+financed by private contributions and 
+the non-governmental organizations in 
+Kenya and Namibia, and by the national 
+government in India. Several of these 
+programs are either short-term, or not set to  
+a level that would meet basic needs. 
+The types of evidence that is reviewed is 
+also influenced by the existing coverage 
+of a country’s social safety net. Targeted 
+transfers that comprise the social safety 
+nets of advanced economies are often not 
+included in evidence reviews, while grants 
+in low- and middle-income countries that 
+resemble social assistance due to targeting 
+are often classified as unconditional cash. 
+14
+  MEASURES AND INDICATOR(S) GEOGRAPHIC FOCUS OF REVIEW  (First author, date)
+LOW- AND MIDDLE-INCOME HIGH-INCOME 
+CASH TRANSFER CATEGORIES  
+Cash transfer, conditional  
+and unconditional 
+Means-tested transfers Baird 2013; Baird 2016; Banerjee 2019; 
+Banks 2016; Bastagli 2016; de Hoop 2014; 
+Hagen-Zanker 2011; Owusu Addo 2019; 
+Pega 2019
+Hoynes and Rothstein 2019;  
+Siddiqi 2019
+Unconditional transfer within  
+an unconditional/conditional 
+trial or experiment
+Baird 2013; Bastagli 2016;  
+Khan 2016; Owusu Addo 2019
+Universal, unconditional transfer Baird 2016; Banerjee 2020;  
+Bastagli 2016; Gibson 2019
+Negative income tax 
+(guaranteed minimum income)
+Bastali 2020; Hoynes and Rothstein 2019; 
+Marinescu 2019; Siddiqi 2019
+Social insurance  
+Disability or dependency grants Banks 2016; Hagen Zanker 2011 
+Child support grants Baird 2013; Baird 2016; Banerjee 2019; 
+Banks 2016; Bastagli 2016; de Hoop 2014; 
+Khan2016; Owusu Addo 2019; Pega 2019
+Hoynes and Rothstein 2019;  
+Siddiqi 2019
+Non-contributory old age 
+pensions and social security 
+Baird 2013, Baird 2016; Banerjee 2019; 
+Banks 2016; Bastagli 2016; de Hoop 2014; 
+Hagen-Zanker 2011; Pega 2019;  
+Siddiqi 2019; Y oonge 2012
+Hoynes and Rothstein 2019
+In-work benefits   
+Income tax credits Hoynes and Rothstein 2019;  
+Siddiqi 2019
+Resource dividends
+Bastagli 2020; Hoynes and  
+Rothstein 2019; Marinescu 2019;  
+Siddiqi 2019; Gibson 2019
+Cash from other sources 
+Private remittances Baird 2016
+Lottery winnings Marinescu 2019
+TABLE 3 PROGRAMS, POLICIES, PILOTS, AND EXPERIMENTS INCLUDED IN REVIEWS, BY GEOGRAPHIC FOCUS
+15
+What we know about Universal Basic Income: A cross-synthesis of reviews
+WHAT ARE THE IMPACTS OF  
+VARIOUS UBI-TYPE PROGRAMS?  
+This section summarizes evidence for areas 
+that have received the most attention from 
+researchers and policymakers, and where 
+the evidence is most robust. For each 
+domain, main findings are synthesized 
+across studies. While positive impacts are 
+generally observed across the outcome 
+areas highlighted in this report, it should 
+be noted that reviews that apply the most 
+stringent criteria for appraising evidence 
+arrive at less certain conclusions for 
+intervention impacts.17
+The majority of reviews focus on low- and 
+middle-income countries, but outcomes for 
+high-income contexts are reported where 
+evidence is available. While this report 
+focuses on the outcomes of unconditional 
+transfers that are likely to produce results 
+closest to a UBI, high-level conclusions on 
+the effectiveness of unconditional cash 
+compared to other types of programs are 
+included when these are addressed.  
+What follows are main findings in the 
+areas of poverty and investment, labor and 
+employment, education and health. We also 
+briefly discuss the ways that design features 
+may impact outcomes. It is worth stating that 
+effects of transfers in one outcome area may 
+reinforce or mitigate impacts in other related 
+areas, and that outcomes that are not 
+described in detail here may be important 
+pathways or mechanisms by which transfers 
+achieve their intended impacts.9,11
+POVERTY, CREDIT AND EXPENDITURES/
+SAVINGS AND INVESTMENT 
+Overall, evidence consistently demonstrates 
+that unconditional cash in low- and middle-
+income countries leads to a measurable 
+decrease in poverty,9,11,19 although one 
+review raises some uncertainty based on 
+the quality of the evidence.17 For persons 
+living with disabilities, transfers are generally 
+insufficient to move out of poverty or 
+beyond sustenance living, but evidence 
+for this population was limited to social 
+assistance programs.12 Family earnings 
+and profit generally remain constant after 
+families receive a cash transfers.14 No review 
+reports on changes to poverty or household 
+earnings for advanced economies. 
+There is good evidence to demonstrate that 
+an injection of cash increases household 
+expenditures.5,11,15 Results are positive for 
+food expenditure in all country contexts5,19 
+and the purchase and ownership of assets 
+such as livestock in low-and middle-income 
+countries.11 Less of an impact is observed 
+for the purchase of productive assets/
+capital such as agricultural tools.11 Impacts 
+are more mixed for savings and investment, 
+with several studies indicating no significant 
+results.8,11 Treatment effects may differ 
+because of the varied constraints that 
+people living in poverty face, indicating that 
+cash transfers alone are unlikely to alleviate 
+any one constraint on savings.8 Similarly, 
+there is limited evidence that cash transfers 
+boost access to credit for household 
+expenditures and investments.11 
+16
+What we know about Universal Basic Income: A cross-synthesis of reviews
+LABOR AND EMPLOYMENT
+The evidence from diverse interventions 
+in low-, middle-, and high-income contexts 
+indicates minimal impact on aggregate 
+measures of labor market participation,3,5,6 
+with some studies reporting an increase in 
+work participation.11 When reductions do 
+occur, time is channeled into other valued 
+activities such as caregiving.6 
+Greater differences for employment 
+measures are observed depending on 
+the type of intervention and between sub-
+populations. Decreases in work hours, for 
+example, are observed for single mothers 
+in means-tested programs in the United 
+States, and for single and married women 
+in households that received non means-
+tested transfers,5 but other reports indicate 
+increases in labor market participation for 
+those that receive tax credits.3,6 Small but 
+not significant reductions are also observed 
+in households that receive remittances.15 
+In low- and middle-income contexts, 
+reductions in labor market participation 
+are observed among the elderly,6,11,15 those 
+caring for dependents,6,11 women with 
+care responsibilities,1 married women with 
+children1 and those in casual and occasional 
+work.1 In the case of the latter group, there 
+are positive but mixed results that individuals 
+shift from wage labor to work that carries 
+more financial risks, such as own agricultural 
+work or non-agricultural household 
+businesses.15 Men’s retirement pensions 
+have no effect on the labor of working-aged 
+men, but a negative effect is observed for 
+working-aged women; conversely, when 
+women receive pensions, the labor supply 
+is reduced among men, leading to a net 
+decrease in household income.2,14 Mixed 
+results are observed in youth labor market 
+participation, but the effects decrease 
+as children age, and in some cases 
+children’s participation in household work 
+may increase with family investments in 
+agricultural assets from cash transfers.16
+EDUCATION
+There is considerable evidence of an impact 
+on educational attainment across country 
+contexts. Clear and significant impacts 
+are well-documented for educational 
+outcomes that would be expected in the 
+short term, such as school enrollment and 
+attendance,3,5,11,14,19 but impacts diminish over 
+time.19 Fewer improvements are reported 
+for outcomes that may require longer 
+periods over which to observe effects, 
+including student achievement on learning 
+outcomes15,19 and cognitive development11 
+in low-and middle-income contexts. Some 
+effects on test scores are observed in 
+high-income countries,5 but gender-based 
+analysis somewhat complicates this picture. 
+Women’s eligibility for cash transfer results 
+in increased expenditures on children’s 
+schooling, but no significant effect is 
+observed for the children of eligible men.13 
+Evidence for investments in girls and boys 
+is mixed, with some evidence suggesting 
+that schooling effects are more significant 
+for boys, and others for girls.13 In all cases, 
+effect sizes are larger for conditional cash 
+transfers,14,19 but the significance of the 
+differences varies depending on the extent 
+of the conditions and whether they are 
+enforced or monitored.15 
+17
+What we know about Universal Basic Income: A cross-synthesis of reviews
+HEALTH AND WELL-BEING
+There is consistent evidence across contexts 
+for improvements to health status and to the 
+myriad behavioral and social factors that are 
+linked to leading causes of premature ill-
+health, disability, and death. A small number 
+of studies report on disease outcomes, with 
+some evidence for clinically meaningful 
+reductions in the likelihood of having any 
+disease with sustained effects two years 
+into the interventions17 and reductions in 
+sexually transmitted infections.19 Positive 
+impacts were generally observed for mental 
+health,5,19 but some negative impacts were 
+also observed due to social stigma and 
+fear of benefits for persons with disabilities 
+receiving targeted supports.12
+Given the long timeframe to directly observe 
+health impacts, many studies report on 
+clinical and behavioral risk factors for future 
+poor health. There are mixed results for 
+clinical measures in children, with limited 
+impact on anthropometric measures,11,17 and 
+some positive effects on birthweight,5,20 
+preterm birth,20 and Apgar scores.20 When 
+program characteristics are taken into 
+account, the most significant effects on 
+birth weight in advanced economies are 
+observed among low-income and white 
+populations in targeted and unconditional 
+programs, while programs that are 
+accompanied by work conditions yielded 
+no or mixed effects, or even negative effects 
+when work reforms were introduced to 
+existing social welfare programs.20 
+Several reviews examine reproductive status 
+and health, with positive impacts observed 
+for use of contraceptives,11,18 early marriage,11 
+and unplanned pregnancy11,18 in low- and 
+middle-income contexts, and a decrease in 
+fertility in high-income countries.5 Impacts 
+increase with the duration of the benefit,11 but 
+in the case of contraceptive use, decrease 
+over time.18 The evidence is inconsistent for 
+whether these effects are greater in girls 
+and women or boys and men.13,19 
+Evidence was mixed for healthcare access, 
+with some evidence for positive impacts on 
+health seeking behaviors and the uptake 
+of health services 11,19 and for household 
+spending on healthcare. 17 However, one 
+review found that improvements were 
+more likely for programs where enrollment 
+in national health care or health service 
+utilization were included as program 
+incentives.19 Mixed results were observed 
+for access to antenatal care and skilled 
+delivery attendants. 19 
+Some studies investigate impacts on social 
+determinants of health. While the evidence 
+for social determinants of health, such as 
+education, income and employment, are 
+more robust, less evidence is available for 
+other social determinants, such as housing 
+conditions and quality, civic participation, 
+community resilience, and women’s 
+empowerment.19 The health impact on food 
+security is generally well-reported, with 
+positive effects on food security,17 food 
+expenditure,11 and dietary diversity.17 The 
+gender of the recipient impacts nutritional 
+effects, with greater impacts observed for 
+girls over boys.13
+18
+What we know about Universal Basic Income: A cross-synthesis of reviews
+There is enthusiasm for unconditional 
+transfers within a broad coalition of policy 
+communities. Our ‘cross-synthesis of 
+reviews’ signals that a vast literature has 
+amassed on interventions that share one or 
+more features with a UBI. We identify several 
+take-aways from the current evidence base 
+and directions for future research. 
+There is an obvious research evidence 
+gap in the evaluation of an experimental, 
+sustained UBI, which is considered the 
+‘gold standard’ for evidence. There is a 
+shortage of evidence that meets most or 
+all of the definitional features of a UBI, and 
+the interventions covered by this report 
+vary significantly. To arrive at conclusions 
+at what may occur if all core features 
+were unified into UBI policy, reviews have 
+synthesized evidence from interventions 
+that may not meet the most stringent 
+definitions of universality or unconditionality. 
+Existing experiments with cash payments 
+that are defined as universal often require 
+recipients to have a sufficiently low income 
+to qualify. Additionally, universal programs 
+rarely provide support at a level that would 
+allow people to meet their basic needs. 
+TAKE-AWAYS  
+AND DIRECTIONS 
+FOR FUTURE 
+RESEARCH 
+4
+A truly universal program may produce 
+significantly different results based on 
+increased coverage and a change in the 
+identity of recipients to those who are less 
+vulnerable.3,8 Given the feasibility challenges 
+of implementing a universal program at 
+scale, modelling studies may account for 
+heterogeneity in populations and contexts 
+may improve an understanding of the 
+impacts of hypothetical policy reforms. 
+Specifically, these methods can estimate how 
+differences in household circumstances and 
+complex interactions with tax and benefit 
+systems may impact intervention effects.5  
+Findings are generally positive that UBI-
+type programs alleviate poverty and 
+improve health and education outcomes 
+and that the effects on labor market 
+participation are minimal. There are a 
+variety of other outcomes that have been 
+pursued by researchers but where evidence 
+is less certain. More research is needed 
+on outcomes such as stigma and social 
+cohesion to clarify the imperative to provide 
+transfers universally. Our review surfaced 
+that impacts of UBI-type programs are not 
+uniform across all groups. Sub-group analysis 
+that more comprehensively examines how 
+intersectional factors—such as gender, race 
+and age—modify intervention impacts could 
+elucidate for whom UBI matters and why. 
+It is evident from the social inequalities’ 
+literature that income differences between 
+groups matter for many of the outcomes that 
+a UBI is intended to improve. Without careful 
+attention to uneven impacts, interventions 
+risk leaving existing inequalities untouched, 
+or even exacerbating them, rather than 
+ameliorating the issue. Further research 
+19
+What we know about Universal Basic Income: A cross-synthesis of reviews
+is required to identify how different policy 
+designs address not only absolute changes 
+in outcomes among recipients, but also 
+relative gaps based on income levels.20 
+The contexts where interventions are 
+introduced are relevant for anticipating 
+how interventions may work across 
+settings and are also important for 
+determining what types of programs are 
+considered as unconditional and universal. 
+Examining the variability in interventions 
+that are claimed to approximate a UBI 
+is important. In countries with minimal or 
+fragmented welfare states, the injection 
+of cash through payments or categorical 
+transfers may play a very different role 
+than when interventions are introduced 
+into and evaluated against a more robust 
+social safety net. Simply put, effects that are 
+observed under some social and economic 
+conditions may not transfer elsewhere. 
+Evidence is also limited for how cash 
+transfers may interact with the existing fabric 
+of social supports in countries with well-
+established social safety nets, or how cash 
+transfers compare to spending on other 
+public goods in settings with less collective 
+infrastructure. This is highly relevant to 
+decisions about universality in settings 
+where individuals are guaranteed benefits in 
+an existing system of supports. Experiments 
+which are underway in many countries 
+across the globe will allow for comparison 
+between individuals receiving benefits 
+under the current system and those who 
+receive additional unconditional cash  
+and clarify the relative effectiveness  
+of unconditional cash under different  
+welfare schemes. 
+The potential trade-offs between UBI and 
+other programs are largely unaddressed. 
+There is limited attention to the impact of the 
+broader social and fiscal policy environment 
+on outcomes within the existing body of 
+evidence. It is widely agreed that financing 
+a UBI will require new revenue streams 
+or diversions from existing programs. The 
+interactions between UBI and additional taxes 
+or decreases in expenditures from other 
+programs are needed for a more complete 
+picture of program effects.5   
+A small body of evidence examines the 
+pathways or mechanisms by which UBI-
+programs trigger particular outcomes.  
+Most of this evidence focuses on individual  
+and household determinants or program design 
+features that mediate impacts. However, 
+recipients of cash transfers are embedded 
+in broader environments. Outcomes are not 
+simply the result of changes to individual 
+factors, but rather their interactions with 
+contextual factors that operate at multiple 
+conceptual levels—from local neighbourhoods 
+to the broader policy environment. In other 
+words, UBI implementation must account for 
+the environments where people live, work, and 
+play, as these contextual factors can enable or 
+constrain the decisions people make in ways 
+that either amplify or diminish intervention 
+effects. There are several frameworks that 
+conceptualize the relationships between 
+individuals and their environments that can be 
+deployed to better contextualize interventions 
+at the local-level. Future research that 
+examines these pathways should also examine 
+complementary policies or programs at the 
+community-level to maximize the benefit  
+of a UBI. 
+20
+What we know about Universal Basic Income: A cross-synthesis of reviews
+There has been limited research on  
+the impact of UBI-type programs at the 
+community level. Research to date has 
+focused on more proximate impacts for 
+individuals and households. The question of 
+what happens in a community when some or 
+all of its members receive unconditional cash 
+remains to be answered. Most pilots and 
+experiments that are planned or underway 
+have not implemented true universality 
+due to feasibility constraints or concerns 
+about fairness.22 Given these decisions 
+GAP 
+Evaluation of a long-lasting, universal UBI 
+ 
+Equity implications of different policy designs 
+Relative effectiveness of UBI under different 
+welfare schemes
+Trade-offs between UBI and tax and  
+benefit systems
+Pathways and mechanisms or contextual 
+features through which UBI achieves impacts
+Economic and social spill-over effects  
+in communities
+DIRECTION  
+Evidence-based theories of change that 
+credibly demonstrate how immediate 
+indicators relate to long term change
+ 
+Modelling studies to account for dynamic, 
+heterogenous conditions and interactions  
+under different policy scenarios
+Analysis of relative outcomes between 
+population groups
+Experimental designs that compare  
+UBI recipients with those receiving the 
+existing supports
+ 
+Measurement of individual and community- 
+level mediators of intervention effects
+Measurement of community-level  
+indicators of intervention impact
+about recipient populations, a better grasp 
+of ‘spill-over’ effects shed light on what 
+happens when there is an injection of cash 
+within a community or region. Defining 
+community-level social, economic, cultural 
+and political measures or indicators that 
+encompass a broader definition of health 
+and well-being might address question 
+on how benefits or harms are distributed 
+outside of recipient populations and build 
+the normative case for a UBI. 
+RESEARCH GAPS AND FUTURE DIRECTIONS FOR RESEARCH 
+
+21
+1.  Bor J, Cohen GH, Galea S. Population health in an era of rising income inequality: USA, 1980–2015. 
+The Lancet. 2017;389(10077):1475-1490. doi:10.1016/S0140-6736(17)30571-8
+2.  Ferreira FHG, Ravallion M. Global poverty and inequality: A review of the evidence.   
+The World Bank; 2008. doi:10.1596/1813-9450-4623
+3.  Hoynes H, Rothstein J. Universal Basic Income in the US and Advanced Countries .  
+National Bureau of Economic Research; 2019. doi:10.3386/w25538
+4.  Bidadanure JU. The political theory of Universal Basic Income. Annu Rev Polit Sci .  
+2019;22(1):481-501. doi:10.1146/annurev-polisci-050317-070954
+5.  Marinescu I. No strings attached: The behavioral effects of U.S. unconditional cash transfer 
+programs. National Bureau of Economic Research; 2018. https://www.nber.org/papers/w24312.pdf
+6.  Gentilini U, Grosh M, Rigolini J, Y emtsov R, eds. Universal Basic Income and work. In: Exploring 
+Universal Basic Income: A Guide to Navigating Concepts, Evidence, and Practices . The World 
+Bank; 2019. doi:10.1596/978-1-4648-1458-7
+7.  Moher D, Liberati A, Tetzlaff J, Altman DG, Group TP. Preferred reporting items for systematic 
+reviews and meta-analyses: The PRISMA Statement. PLOS Medicine. 2009;6(7):e1000097. 
+doi:10.1371/journal.pmed.1000097
+8.  Banerjee A, Niehaus P, Suri T. Universal Basic Income in the Developing World. Annual Review of 
+Economics. 2019;11(1):959-983. doi:10.1146/annurev-economics-080218-030229
+9.  Hagen-Zanker J, McCord A, Holmes R. Systematic review of the impact of employment 
+guarantee schemes and cash transfers on the poor . Overseas Development Institute; 2011:104. 
+https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/7161.pdf
+10.  Gibson M, Hearty W, Craig P. Universal Basic Income: A scoping review of evidence on impacts 
+and study characteristics. What Works Scotland; 2018:102. http://whatworksscotland.ac.uk/wp-
+content/uploads/2018/10/WhatWorksScotlandBasicIncomeScopingReview1210FINAL.pdf
+11.  Bastagli F, Hagen-Zanker J, Harman L, Barca V, Sturge G, Schmidt T. Cash transfers: What does 
+the evidence say? Overseas Development Institute; 2016:300. https://www.odi.org/sites/odi.org.
+uk/files/resource-documents/11316.pdf
+12.  Banks LM, Mearkle R, Mactaggart I, Walsham M, Kuper H, Blanchet K. Disability and social 
+protection programmes in low- and middle-income countries: A systematic review. Oxford 
+Development Studies . 2017;45(3):223-239. doi:10.1080/13600818.2016.1142960
+13.  Y oong J, Rabinovich L, Diepeveen S. The impact of economic resource transfers to women 
+versus men: A systematic review . EPPI-Centre, Social Science Research Unit, Institute of 
+Education, Institute of Education; 2012:113. https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=3306
+REFERENCES
+22
+14.  Baird S, Ferreira FHG, Özler B, Woolcock M. Relative effectiveness of conditional and 
+unconditional cash transfers for schooling outcomes in Developing Countries: A Systematic 
+Review. Campbell Systematic Reviews . 2013;9(1):1-124. doi:10.4073/csr.2013.8
+15.  Baird S, McKenzie D, Özler B. The effects of cash transfers on adult labor market outcomes.  
+IZA J Develop Migration . 2018;8(1):22. doi:10.1186/s40176-018-0131-9
+16.  de Hoop J, Rosati FC. Cash transfers and child labor. The World Bank Research Observer . 
+2014;29(2):202-234. doi:10.1093/wbro/lku003
+17.  Pega F, Liu SY, Walter S, Pabayo R, Saith R, Lhachimi SK. Unconditional cash transfers for 
+reducing poverty and vulnerabilities: Effect on use of health services and health outcomes in 
+low- and middle-income countries. Cochrane Database of Systematic Reviews . 2017; 11:1-140. 
+doi:10.1002/14651858.CD011135.pub2
+18.  Khan ME, Hazra A, Kant A, Ali M. Conditional and unconditional cash transfers to improve use 
+of contraception in low and middle income countries: A systematic review. Studies in Family 
+Planning. 2016;47(4):371-383. doi:10.1111/sifp.12004
+19.  Owusu-Addo E, Renzaho AMN, Smith BJ. The impact of cash transfers on social determinants 
+of health and health inequalities in sub-Saharan Africa: a systematic review. Health Policy Plan . 
+2018;33(5):675-696. doi:10.1093/heapol/czy020
+20.  Siddiqi A, Rajaram A, Miller SP. Do cash transfer programmes yield better health in the first year 
+of life? A systematic review linking low-income/middle-income and high-income contexts. Arch Dis 
+Child. 2018;103(10):920-926. doi:10.1136/archdischild-2017-314301
+21.  Gentilini U, Grosh M, Rigolini J, Y emtsov R, eds. Exploring Universal Basic Income: A Guide to 
+Navigating Concepts, Evidence, and Practices. The World Bank; 2019. doi:10.1596/978-1-4648-1458-7
+22.  Bidadanure J, Kline S, Moore C, Rainwater B, Thomas C. Basic Income in Cities: A Guide to 
+Experiments and Pilot Projects. National League of Cities and Stanford Basic Income Lab; 2018:31. 
+https://www.nlc.org/sites/default/files/2018-11/BasicIncomeInCities_Report_For%20Release%20.pdf
+23
+CATEGORY PILOTS, EXPERIMENTS, PROGRAMS, POLICIES
+Cash grants, conditional and unconditional 
+Means-tested transfers  Basic Social Subsidy Program (Mozambique)
+Basic Social Subsidy Program (Mozambique)
+Benazir Income Support Program (Pakistan)
+Bone de Desarollo Humano (Ecuador)
+Concern Worldwide Drought Response 
+Direct Cash Transfer Program (Indonesia)
+Harmonized social cash transfer (Zimbabwe)
+Hunger Safety Net Programme (Kenya)
+Innovation for Poverty Randomized Trial (Ghana)
+Monze Cash Transfer Pilot (Zambia)
+Multiple Category Targeting Grant (Zambia)
+Nahouri Cash Transfers Pilot Program (Burkina Faso)
+Ndhima Ekonomike (Albania)
+Plan de Atención Nacional a la Emergencia Social (Uruguay)
+Programa de Apoyo Alimentario (Mexico)
+Social Assistance Grants for Empowerment (Uganda)
+Social Cash Transfer Scheme (Malawi)
+Temporary Assistance for Needy Families (USA)
+Temporary UCT (Indonesia)
+Unconditional within a unconditional/
+conditional experiment 
+Community led cash transfer program (Zimbabwe) 
+Livelihood Empowerment Against Poverty (Ghana)
+Prospective Nutrition Intervention Study (Niger) 
+Schooling, Income and Health Risk (Malawi)
+Tayssir (Morocco)
+Zomba Cash Transfer Programme (Malawi)
+Universal, unconditional transfer B-Mincome (Spain)
+Give Directly (Kenya, Uganda, Rwanda)
+Kela Basic Income Experiment (Finland)
+Madhya Pradesh (India)
+Negative income tax, guaranteed  
+minimum income 
+Manitoba Basic Annual Income Experiment (MINCOME) (Canada)
+Seattle-Denver Income Maintenance Experiment (SIME/DIME)  
+(United States)
+APPENDIX 1
+(Continued)
+24
+CATEGORY PILOTS, EXPERIMENTS, PROGRAMS, POLICIES
+Social insurance  
+Disability or dependency grants Namibian Disability Grant (Namibia)
+South African Disability Grant (South Africa)
+Social Security Disability Insurance (USA)
+Child support grants Child Support Grant (South Africa)
+Cash Transfer for Orphans and Vulnerable Children (Kenya)
+Child Grant Program (Zambia)
+Child Grant Programme (Lesotho)
+Child Benefit (Canada)
+Cash benefit to mothers on social assistance (Canada)
+Non-contributory old age pensions and  
+social security
+Beneficio de Prestacaro Continuada (Brazil)
+Bonosol (Bolivia)
+Mexico’s 70 y Más (Mexico)
+Old Age Pension Program (South Africa)
+Old Age Pension (Brazil)
+Programa de Atención a Adultos Mayores en Zonas Rurales (Brazil)
+Social Pension Previdencia Rural and Renda Mensual Vitalicia  
+(Brazil and South Africa)
+Supplementary Security Income (USA)
+In-work benefits Child Tax Credit (USA)
+EITC (USA)
+Resource dividends Alaska Permanent Dividend Fund (USA)
+Bantuan Langsung Tunai, Fuel Subsidy (Indonesia) 
+Californian Native American Nations tribal casino dividend (USA)
+Eastern Cherokee Bank of Indians Casino Dividend (USA
+Meskawai Nation Casino Dividend (USA)

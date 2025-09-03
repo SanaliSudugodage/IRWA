@@ -1,0 +1,56 @@
+{
+  "motion": "Universal Basic Income should be implemented",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 1,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "This article exposes several misconceptions, generalizations, or assumptions that per-meate discussion of the administrative properties of basic income . It also reveals a number of important political choices faced by policy makers and advocates intent on implementing an administra-repretively efficient basic income policy . The authors identify three essential tasks any income maintenance policy must accomplish .",
+      "argument_citations": [
+        "doc_00001#doc_00001_290"
+      ],
+      "rebuttal": "While the opponent claims: \u201cThis article exposes several misconceptions, generalizations, or assumptions that per-meate discussion of the administrative properties of basic income . It also reveals a number of important politica\u2026\u201d, the available evidence highlights caveats and mixed results. Specifically: ns for the political strategy of basic income advocates as well  as the wider debate on universal welfare reform. https://doi.org/10.1086/520939  \u2014. 2011. \u201cThe Administrative Efficiency of Basic Income.\u201d Policy and Politics 39 (1):  115\u201332. uch a policy would solve. https://books.google.co.u\u2026",
+      "rebuttal_citations": [
+        "doc_00001#doc_00001_290",
+        "doc_00001#doc_00001_313",
+        "doc_00009#doc_00009_3",
+        "doc_00003#doc_00003_1",
+        "doc_00001#doc_00001_4"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 16
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 3,
+          "evidence": 5,
+          "clarity": 5,
+          "fairness": 5,
+          "total": 18
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 0,
+    "con_points": 1,
+    "total_turns": 1
+  },
+  "final_winner": "con",
+  "final_justification": "Higher number of turn wins: pro=0, con=1."
+}

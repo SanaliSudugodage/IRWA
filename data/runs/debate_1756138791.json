@@ -1,0 +1,371 @@
+{
+  "motion": "string",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 10,
+    "target_points": 1,
+    "win_by_margin": 1,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "con",
+      "argument_point": "Motion: string\nStance: con\n\nEvidence passage:\nuding independent chan-\nnels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca \n2016). To reduce costs and improve accessibility for citizens, there should be grievance \nredress mechanisms at the point of service delivery, where information and transaction \ncosts are lowest.",
+      "argument_citations": [
+        "doc_00000#doc_00000_232"
+      ],
+      "rebuttal": "While the opponent claims: \u201cMotion: string Stance: con  Evidence passage: uding independent chan- nels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca  2016). To reduce costs and improve accessibi\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: ecially low in Sub-Saharan Africa (43\u00a0percent) and  South Asia (60\u00a0percent), with Ethiopia\u2019s and Somalia\u2019s rates dipping as low as 3\u00a0percent.  Chapter 7.  What Does It Take to Deliver a Universal Basic Income in Practice? 229 Death registra s introduced matters. For example, it could be phased in by replacing  existing schemes, be provided on top of them, or a blend of both. Figure 1.3 illustrates  those modalities. The first option, presented as figure 1.3a, embodies the stan \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_236",
+        "doc_00000#doc_00000_53",
+        "doc_00000#doc_00000_233",
+        "doc_00001#doc_00001_1",
+        "doc_00000#doc_00000_232"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "pro",
+      "argument_point": "Motion: string\nStance: pro\n\nEvidence passage:\nuding independent chan-\nnels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca \n2016). To reduce costs and improve accessibility for citizens, there should be grievance \nredress mechanisms at the point of service delivery, where information and transaction \ncosts are lowest.",
+      "argument_citations": [
+        "doc_00000#doc_00000_232"
+      ],
+      "rebuttal": "While the opponent claims: \u201cMotion: string Stance: pro  Evidence passage: uding independent chan- nels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca  2016). To reduce costs and improve accessibi\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: ecially low in Sub-Saharan Africa (43\u00a0percent) and  South Asia (60\u00a0percent), with Ethiopia\u2019s and Somalia\u2019s rates dipping as low as 3\u00a0percent.  Chapter 7.  What Does It Take to Deliver a Universal Basic Income in Practice? 229 Death registra s introduced matters. For example, it could be phased in by replacing  existing schemes, be provided on top of them, or a blend of both. Figure 1.3 illustrates  those modalities. The first option, presented as figure 1.3a, embodies the stan \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_236",
+        "doc_00000#doc_00000_53",
+        "doc_00000#doc_00000_233",
+        "doc_00001#doc_00001_1",
+        "doc_00000#doc_00000_232"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 3,
+      "side": "con",
+      "argument_point": "Motion: string\nStance: con\n\nEvidence passage:\nuding independent chan-\nnels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca \n2016). To reduce costs and improve accessibility for citizens, there should be grievance \nredress mechanisms at the point of service delivery, where information and transaction \ncosts are lowest.",
+      "argument_citations": [
+        "doc_00000#doc_00000_232"
+      ],
+      "rebuttal": "While the opponent claims: \u201cMotion: string Stance: con  Evidence passage: uding independent chan- nels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca  2016). To reduce costs and improve accessibi\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: ecially low in Sub-Saharan Africa (43\u00a0percent) and  South Asia (60\u00a0percent), with Ethiopia\u2019s and Somalia\u2019s rates dipping as low as 3\u00a0percent.  Chapter 7.  What Does It Take to Deliver a Universal Basic Income in Practice? 229 Death registra s introduced matters. For example, it could be phased in by replacing  existing schemes, be provided on top of them, or a blend of both. Figure 1.3 illustrates  those modalities. The first option, presented as figure 1.3a, embodies the stan \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_236",
+        "doc_00000#doc_00000_53",
+        "doc_00000#doc_00000_233",
+        "doc_00001#doc_00001_1",
+        "doc_00000#doc_00000_232"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        }
+      }
+    },
+    {
+      "turn_index": 4,
+      "side": "pro",
+      "argument_point": "Motion: string\nStance: pro\n\nEvidence passage:\nuding independent chan-\nnels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca \n2016). To reduce costs and improve accessibility for citizens, there should be grievance \nredress mechanisms at the point of service delivery, where information and transaction \ncosts are lowest.",
+      "argument_citations": [
+        "doc_00000#doc_00000_232"
+      ],
+      "rebuttal": "While the opponent claims: \u201cMotion: string Stance: pro  Evidence passage: uding independent chan- nels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca  2016). To reduce costs and improve accessibi\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: ecially low in Sub-Saharan Africa (43\u00a0percent) and  South Asia (60\u00a0percent), with Ethiopia\u2019s and Somalia\u2019s rates dipping as low as 3\u00a0percent.  Chapter 7.  What Does It Take to Deliver a Universal Basic Income in Practice? 229 Death registra s introduced matters. For example, it could be phased in by replacing  existing schemes, be provided on top of them, or a blend of both. Figure 1.3 illustrates  those modalities. The first option, presented as figure 1.3a, embodies the stan \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_236",
+        "doc_00000#doc_00000_53",
+        "doc_00000#doc_00000_233",
+        "doc_00001#doc_00001_1",
+        "doc_00000#doc_00000_232"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 5,
+      "side": "con",
+      "argument_point": "Motion: string\nStance: con\n\nEvidence passage:\nuding independent chan-\nnels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca \n2016). To reduce costs and improve accessibility for citizens, there should be grievance \nredress mechanisms at the point of service delivery, where information and transaction \ncosts are lowest.",
+      "argument_citations": [
+        "doc_00000#doc_00000_232"
+      ],
+      "rebuttal": "While the opponent claims: \u201cMotion: string Stance: con  Evidence passage: uding independent chan- nels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca  2016). To reduce costs and improve accessibi\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: ecially low in Sub-Saharan Africa (43\u00a0percent) and  South Asia (60\u00a0percent), with Ethiopia\u2019s and Somalia\u2019s rates dipping as low as 3\u00a0percent.  Chapter 7.  What Does It Take to Deliver a Universal Basic Income in Practice? 229 Death registra s introduced matters. For example, it could be phased in by replacing  existing schemes, be provided on top of them, or a blend of both. Figure 1.3 illustrates  those modalities. The first option, presented as figure 1.3a, embodies the stan \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_236",
+        "doc_00000#doc_00000_53",
+        "doc_00000#doc_00000_233",
+        "doc_00001#doc_00001_1",
+        "doc_00000#doc_00000_232"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        }
+      }
+    },
+    {
+      "turn_index": 6,
+      "side": "pro",
+      "argument_point": "Motion: string\nStance: pro\n\nEvidence passage:\nuding independent chan-\nnels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca \n2016). To reduce costs and improve accessibility for citizens, there should be grievance \nredress mechanisms at the point of service delivery, where information and transaction \ncosts are lowest.",
+      "argument_citations": [
+        "doc_00000#doc_00000_232"
+      ],
+      "rebuttal": "While the opponent claims: \u201cMotion: string Stance: pro  Evidence passage: uding independent chan- nels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca  2016). To reduce costs and improve accessibi\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: ecially low in Sub-Saharan Africa (43\u00a0percent) and  South Asia (60\u00a0percent), with Ethiopia\u2019s and Somalia\u2019s rates dipping as low as 3\u00a0percent.  Chapter 7.  What Does It Take to Deliver a Universal Basic Income in Practice? 229 Death registra s introduced matters. For example, it could be phased in by replacing  existing schemes, be provided on top of them, or a blend of both. Figure 1.3 illustrates  those modalities. The first option, presented as figure 1.3a, embodies the stan \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_236",
+        "doc_00000#doc_00000_53",
+        "doc_00000#doc_00000_233",
+        "doc_00001#doc_00001_1",
+        "doc_00000#doc_00000_232"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 7,
+      "side": "con",
+      "argument_point": "Motion: string\nStance: con\n\nEvidence passage:\nuding independent chan-\nnels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca \n2016). To reduce costs and improve accessibility for citizens, there should be grievance \nredress mechanisms at the point of service delivery, where information and transaction \ncosts are lowest.",
+      "argument_citations": [
+        "doc_00000#doc_00000_232"
+      ],
+      "rebuttal": "While the opponent claims: \u201cMotion: string Stance: con  Evidence passage: uding independent chan- nels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca  2016). To reduce costs and improve accessibi\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: ecially low in Sub-Saharan Africa (43\u00a0percent) and  South Asia (60\u00a0percent), with Ethiopia\u2019s and Somalia\u2019s rates dipping as low as 3\u00a0percent.  Chapter 7.  What Does It Take to Deliver a Universal Basic Income in Practice? 229 Death registra s introduced matters. For example, it could be phased in by replacing  existing schemes, be provided on top of them, or a blend of both. Figure 1.3 illustrates  those modalities. The first option, presented as figure 1.3a, embodies the stan \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_236",
+        "doc_00000#doc_00000_53",
+        "doc_00000#doc_00000_233",
+        "doc_00001#doc_00001_1",
+        "doc_00000#doc_00000_232"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        }
+      }
+    },
+    {
+      "turn_index": 8,
+      "side": "pro",
+      "argument_point": "Motion: string\nStance: pro\n\nEvidence passage:\nuding independent chan-\nnels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca \n2016). To reduce costs and improve accessibility for citizens, there should be grievance \nredress mechanisms at the point of service delivery, where information and transaction \ncosts are lowest.",
+      "argument_citations": [
+        "doc_00000#doc_00000_232"
+      ],
+      "rebuttal": "While the opponent claims: \u201cMotion: string Stance: pro  Evidence passage: uding independent chan- nels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca  2016). To reduce costs and improve accessibi\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: ecially low in Sub-Saharan Africa (43\u00a0percent) and  South Asia (60\u00a0percent), with Ethiopia\u2019s and Somalia\u2019s rates dipping as low as 3\u00a0percent.  Chapter 7.  What Does It Take to Deliver a Universal Basic Income in Practice? 229 Death registra s introduced matters. For example, it could be phased in by replacing  existing schemes, be provided on top of them, or a blend of both. Figure 1.3 illustrates  those modalities. The first option, presented as figure 1.3a, embodies the stan \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_236",
+        "doc_00000#doc_00000_53",
+        "doc_00000#doc_00000_233",
+        "doc_00001#doc_00001_1",
+        "doc_00000#doc_00000_232"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    },
+    {
+      "turn_index": 9,
+      "side": "con",
+      "argument_point": "Motion: string\nStance: con\n\nEvidence passage:\nuding independent chan-\nnels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca \n2016). To reduce costs and improve accessibility for citizens, there should be grievance \nredress mechanisms at the point of service delivery, where information and transaction \ncosts are lowest.",
+      "argument_citations": [
+        "doc_00000#doc_00000_232"
+      ],
+      "rebuttal": "While the opponent claims: \u201cMotion: string Stance: con  Evidence passage: uding independent chan- nels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca  2016). To reduce costs and improve accessibi\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: ecially low in Sub-Saharan Africa (43\u00a0percent) and  South Asia (60\u00a0percent), with Ethiopia\u2019s and Somalia\u2019s rates dipping as low as 3\u00a0percent.  Chapter 7.  What Does It Take to Deliver a Universal Basic Income in Practice? 229 Death registra s introduced matters. For example, it could be phased in by replacing  existing schemes, be provided on top of them, or a blend of both. Figure 1.3 illustrates  those modalities. The first option, presented as figure 1.3a, embodies the stan \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_236",
+        "doc_00000#doc_00000_53",
+        "doc_00000#doc_00000_233",
+        "doc_00001#doc_00001_1",
+        "doc_00000#doc_00000_232"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        }
+      }
+    },
+    {
+      "turn_index": 10,
+      "side": "pro",
+      "argument_point": "Motion: string\nStance: pro\n\nEvidence passage:\nuding independent chan-\nnels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca \n2016). To reduce costs and improve accessibility for citizens, there should be grievance \nredress mechanisms at the point of service delivery, where information and transaction \ncosts are lowest.",
+      "argument_citations": [
+        "doc_00000#doc_00000_232"
+      ],
+      "rebuttal": "While the opponent claims: \u201cMotion: string Stance: pro  Evidence passage: uding independent chan- nels such as ombudsmen, audit institutions, or third-party complaint handlers (Barca  2016). To reduce costs and improve accessibi\u2026\u201d, evidence indicates caveats and counterfindings. Specifically: ecially low in Sub-Saharan Africa (43\u00a0percent) and  South Asia (60\u00a0percent), with Ethiopia\u2019s and Somalia\u2019s rates dipping as low as 3\u00a0percent.  Chapter 7.  What Does It Take to Deliver a Universal Basic Income in Practice? 229 Death registra s introduced matters. For example, it could be phased in by replacing  existing schemes, be provided on top of them, or a blend of both. Figure 1.3 illustrates  those modalities. The first option, presented as figure 1.3a, embodies the stan \u2014 so the claim, as stated, is overstated or not fully supported.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_236",
+        "doc_00000#doc_00000_53",
+        "doc_00000#doc_00000_233",
+        "doc_00001#doc_00001_1",
+        "doc_00000#doc_00000_232"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 21
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 5,
+          "fairness": 4,
+          "total": 23
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 5,
+    "con_points": 5,
+    "total_turns": 10
+  },
+  "final_winner": "tie",
+  "final_justification": "Tie on turn points; see per-turn judge totals."
+}

@@ -1,0 +1,56 @@
+{
+  "motion": "importance of doing a sport",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 1,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\n\"Participating in sports can improve accessibility for citizens by reducing costs and increasing information and transaction efficiency, thereby enhancing overall service delivery.\"",
+      "argument_citations": [
+        "doc_00000#doc_00000_232"
+      ],
+      "rebuttal": "Here is a concise, cautious counter-argument:\n\nWhile it is true that participating in sports can reduce costs and increase efficiency, it is unclear whether this benefit translates to accessibility improvements for all citizens. In fact, existing UBI pilots suggest that such initiatives may have more significant implications for social welfare than sports participation, highlighting the need for a more nuanced consideration of factors beyond just cost-effectiveness.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_7",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_190",
+        "doc_00001#doc_00001_1",
+        "doc_00000#doc_00000_211"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 1,
+          "fairness": 4,
+          "total": 14
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 0,
+    "con_points": 1,
+    "total_turns": 1
+  },
+  "final_winner": "con",
+  "final_justification": "The final winner, con, is justified because while the pro's initial argument highlighted the potential cost-reducing benefits of doing a sport, the con effectively challenged this claim by pointing out the uncertainty surrounding these benefits. This pattern of cautious skepticism and lack of concrete evidence in support of the pro's position ultimately tipped the scales in favor of the con, demonstrating that the importance of doing a sport remains an unsubstantiated claim."
+}
