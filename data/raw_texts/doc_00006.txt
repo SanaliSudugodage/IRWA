@@ -1,0 +1,1226 @@
+Nutrients 2015, 7, 6874-6899; doi:10.3390/nu7085311
+OPEN ACCESS
+nutrients
+ISSN 2072-6643
+www.mdpi.com/journal/nutrients
+Review
+Protein Requirements and Recommendations for Older People:
+A Review
+Caryl Nowson 1, * and Stella O’Connell2
+1 School of Exercise and Nutrition Sciences, Deakin University, Locked Bag 20000, Waurn Ponds,
+Geelong 3220, VIC, Australia
+2 School of Exercise and Nutrition Sciences, Deakin University, 221 Burwood Highway, Burwood,
+Melbourne 3125, VIC, Australia; E-Mail: stella.oconnell@deakin.edu.au
+* Author to whom correspondence should be addressed; E-Mail: caryl.nowson@deakin.edu.au;
+Tel.: +61-3-5247-9245; Fax: +61-3-9244-2015.
+Received: 1 May 2015 / Accepted: 4 August 2015 / Published: 14 August 2015
+Abstract: Declines in skeletal muscle mass and strength are major contributors to increased
+mortality, morbidity and reduced quality of life in older people. Recommended Dietary
+Allowances/Intakes have failed to adequately consider the protein requirements of the elderly
+with respect to function. The aim of this paper was to review deﬁnitions of optimal protein
+status and the evidence base for optimal dietary protein. Current recommended protein
+intakes for older people do not account for the compensatory loss of muscle mass that
+occurs on lower protein intakes. Older people have lower rates of protein synthesis and
+whole-body proteolysis in response to an anabolic stimulus (food or resistance exercise).
+Recommendations for the level of adequate dietary intake of protein for older people should
+be informed by evidence derived from functional outcomes. Randomized controlled trials
+report a clear beneﬁt of increased dietary protein on lean mass gain and leg strength,
+particularly when combined with resistance exercise. There is good consistent evidence
+(level III-2 to IV) that consumption of 1.0 to 1.3 g/kg/day dietary protein combined with
+twice-weekly progressive resistance exercise reduces age-related muscle mass loss. Older
+people appear to require 1.0 to 1.3 g/kg/day dietary protein to optimize physical function,
+particularly whilst undertaking resistance exercise recommendations.
+Keywords: protein requirements; elderly; muscle; function; strength
+Nutrients 2015, 7 6875
+1. Introduction
+Currently, the National Health and Medical Research Council (NH & MRC) Recommended Dietary
+Intakes for Australians incorporate a small increase in dietary protein requirement for older people over
+the age of seventy years [1]. This is not a consistent dietary recommendation across all countries, as
+national dietary protein requirements often do not differ across the adult age range [2,3]. Recently
+there has been some debate regarding the recommended dietary protein intake for older people and it
+has been proposed that dietary protein intakes which are considerably higher than the minimum protein
+requirements may be required for optimal health, particularly in older people [4].
+Traditionally, protein requirements have been derived on the basis of supplying sufﬁcient dietary
+protein to ensure nitrogen balance, based on only a handful of experiments involving older people.
+At a meeting between representatives of the World Health Organization, the Food and Agriculture
+Organization of the United Nations and the United Nations University held in 2002, one of the
+recommendations was the need to review the requirements for those with a high disease burden, including
+the older population, and it was noted that previous reports had failed to adequately consider the protein
+needs of older people [5]. Furthermore, the premise that no additional protein allowance is required for
+older adults as lean body mass (as a percent of body weight) and protein content of the body both decrease
+with age [2,3] may not be valid. There is now emerging data that optimal health for older people depends
+on maintaining muscle mass, which requires greater than minimal amounts of dietary protein [6]. It is
+increasingly being recognized that more robust methods are required for measuring protein requirement
+and that the results from short-term nitrogen balance studies can provide only limited information on
+dietary protein requirements of older people [7].
+Although there is ongoing debate related to the validity of different methods of estimating
+dietary protein requirements [6,8], Fukagawa argues that what is needed is studies demonstrating
+that incremental differences in the amount of dietary protein consumed affect clinically-important
+outcomes. This would require a new paradigm, with a new set of clinical outcomes being used to
+deﬁne nutritional adequacy with respect to protein [7]. The use of functional outcomes such as physical
+performance can be measured by the ability to get up out of a chair or gait speed, and these outcomes
+have been shown to be predictive of mortality and morbidity [9–11]. Any assessment of optimal
+levels of dietary protein would need to be performed in the context of the range of physical activity
+levels present in the older population, including those who are undertaking the recommended regular
+weight-bearing activities. Consistent with approaches to reduce chronic disease in younger people,
+dietary recommendations to reduce health risk and optimize quality of life in the later years should be
+combined with recommendations for physical activity. Therefore, it is timely to review evidence relating
+dietary protein intake in older people to physical functional outcomes that impact on quality of life.
+The aim was thus to review the current dietary recommendations for dietary protein for older people
+and the evidence relating dietary intake of protein in older people to functional outcomes that impact on
+quality of life in the context of different levels of physical activity in the context of the physiological
+ageing process.
+Nutrients 2015, 7 6876
+2. Results
+2.1. Physiological Impact of Ageing on Body Composition
+The largest single site of protein in the body is skeletal muscle, which makes up about 80% of the
+cell mass and 30% of whole body protein turnover in lean young adults [12]. Each cell contains protein
+and that protein exhibits both functional and structural properties. In addition, there is a small amount of
+body protein which can be used to provide energy in the labile amino acid pools and during starvation.
+Aging is associated with a progressive decline in resting metabolic rate (RMR) at a rate of 1%–2%
+per decade after 20 years of age [13]. This reduction in RMR is closely linked with the decrease in whole
+body fat-free mass, which is composed of metabolically-active tissues and organs [14]. Up to 50% of
+total body weight in young adults is lean muscle mass but this declines with aging to 25% when reaching
+an age of 75–80 years [12]. The loss of muscle mass is usually coupled with gains in fat mass without
+much ﬂuctuation in body weight (Figure 1). The greatest loss of muscle mass is seen in the lower limb
+muscle groups, with the cross-sectional area of the vastus lateralis being reduced by as much as 40%
+between the age of 20 and 80 years [15].
+Nutrients 2015, 7 3 
+ 
+2. Results 
+2.1. Physiological Impact of Ageing on Body Composition 
+The largest single site of protein in the body is skeletal muscle, which makes up about 80% of the cell 
+mass and 30% of whole body protein turnover in lean young adults [12]. Each cell contains protein and 
+that protein exhibits both functional and structural properties . In addition, there is a small amount of 
+body protein which can be used to provide energy in the labile amino acid pools and during starvation. 
+Aging is associated with a progressive decline in resting metabolic rate (RMR) at a rate of 1 %–2% 
+per decade after 20 years of age [13]. This reduction in RMR is closely linked with the decrease in whole 
+body fat-free mass, which is composed of metabolically -active tissues and organs [14]. Up to 50% of 
+total body weight in young adults is lean muscle mass but this declines with aging to 25% when reaching 
+an age of 75–80 years [12]. The loss of muscle mass is usually coupled with gains in fat mass without 
+much fluctuation in body weight (Figure 1). The greatest loss of muscle mass is seen in the lower limb 
+muscle groups, with the cross -sectional area of the vastus lateralis being reduced by as much as 40% 
+between the age of 20 and 80 years [15]. 
+ 
+Figure 1. Changes in the relative weights of the different compartments of body composition 
+with ageing. Values are expressed as percentage of total body mass, adapted from Short  
+et al., 2000 [12]. 1 Fat-free mass 
+2.2. Skeletal Muscle, Bone Health, Falls and Fractures 
+Muscle weakness predicts falls and subsequent fractures. Muscle weakness is associated with age-related 
+muscle loss which in turn is related to osteoporosis and leads to a life of restricted mobility, loss of 
+independence and reduced life expectancy [16]. Fracture risk is increased when bone density is low, and 
+loss of muscle mass is associated with loss of  bone mass. The skeletal and muscular organs are 
+inextricably linked: increasing muscle strength increases bone density. Muscle contractions provide the 
+strongest mechanical forces upon bone , stimulating  healthy bone turnover, optimising bone density, 
+bone strength and microarchitecture [16]. 
+Frailty is important because it confers a much greater risk of adverse health outcomes, such as falls, 
+hospitalization, disability, loss of independent living and death [17]. The Fried Frailty Index classifies 
+frailty on the presence of three or more of five components: weight loss, exhaustion, weakness, slowness 
+48%
+19%
+33%
+25%
+35%
+40%
+0
+10
+20
+30
+40
+50
+60
+Muscle Fat Non-muscle FFM
+% Body Composition
+% Body Composition at Age 22 and 78 Years
+22 years 22 years22 years78 years 78 years78 years
+1
+ 
+Figure 1. Changes in the relative weights of the different compartments of body composition
+with ageing. Values are expressed as percentage of total body mass, adapted from Shortet al.,
+2000 [12]. 1 Fat-free mass
+2.2. Skeletal Muscle, Bone Health, Falls and Fractures
+Muscle weakness predicts falls and subsequent fractures. Muscle weakness is associated with
+age-related muscle loss which in turn is related to osteoporosis and leads to a life of restricted mobility,
+loss of independence and reduced life expectancy [16]. Fracture risk is increased when bone density is
+low, and loss of muscle mass is associated with loss of bone mass. The skeletal and muscular organs
+are inextricably linked: increasing muscle strength increases bone density. Muscle contractions provide
+the strongest mechanical forces upon bone, stimulating healthy bone turnover, optimising bone density,
+bone strength and microarchitecture [16].
+Frailty is important because it confers a much greater risk of adverse health outcomes, such as falls,
+hospitalization, disability, loss of independent living and death [17]. The Fried Frailty Index classiﬁes
+frailty on the presence of three or more of ﬁve components: weight loss, exhaustion, weakness, slowness
+Nutrients 2015, 7 6877
+and low physical activity [17]. The occurrence of frailty increases incrementally with advancing age, and
+is more common in older women ( „10%) than men („5%), and among those of lower socio-economic
+status. Between 6% and 25% of free-living individuals aged 65 years and older may be considered frail
+and this proportion increases to about 25% to 40% in those aged 80 years and above [18].
+Physiological reserve is often limited as people age. The progressive restriction of homeostatic reserve
+that is seen in all organ systems with ageing makes older people more vulnerable to relatively minor
+pathological conditions, and is thought to underpin the syndrome of frailty. More advanced stages of
+frailty are associated with muscle weakness and increasing disability. Frailty and age-related accelerated
+muscle loss (sarcopenia) are closely related and frail older people are by deﬁnition sarcopenic [19,20].
+Sarcopenia is a complex process involving a range of age-related physiological changes combined with
+adoption of a sedentary lifestyle and a dietary pattern that is sub-optimal [21]. The two main features
+of sarcopenia are loss of fast-twitch type II muscle ﬁbres and loss of motor neurons, and prevention of
+sarcopenia is recognised as a key factor in preventing fracture in older people. Age-associated sarcopenia
+is likely to lead to frailty, risk of falls, and loss of independence. There is now a deﬁned subclass
+of sarcopenia that incorporates assessment of physical function: “Sarcopenia with limited mobility” is
+deﬁned as a person with muscle loss whose walking speed is equal to or less than 1 m/s or who walks
+less than 400 m during a 6-min walk, and who has a lean appendicular mass corrected for height squared
+of two standard deviations or more below the mean of healthy persons between 20 and 30 years of age
+of the same ethnic group, and clinically signiﬁcant interventions can be deﬁned by walking speed [22].
+2.3. Energy Expenditure, Energy Intake and Physical Activity
+Maintaining adequate physical activity is likely to ameliorate the age-related decrease in resting
+metabolic rate (RMR), as physical activity aids in preservation of lean mass among highly active older
+adults [14]. It has been estimated that 75 year-old have total energy expenditure (EE) levels similar
+to a 7–11 year old despite having greater body mass. This represents a decrease of approximately
+2.1 MJ (500 kcal)/day in total EE and therefore in energy requirements [14].
+2.3.1. Gender Differences
+Throughout the lifecycle, men and women appear to have similar protein turnover rates, once adjusted
+for body mass index (BMI) and health status. Some studies have indicated that there may be possible
+gender differences due at least in part to the differences in body composition, not only in lean body mass
+but also in the amount of body fat. There is some indication that men have higher whole-body leucine
+oxidation at rest and during aerobic exercise, even after correcting for lean body mass [23].
+When energy intake from other macronutrients is marginal or low, protein is utilised by the body as an
+energy source. This is likely to be more common in older adults who are sedentary and whose appetite
+is likely to be small. As highlighted in the WHO/FAO/UNA report, protein: energy ratios increase with
+age, and are highest for females who are sedentary. The protein: energy ratio is highest when energy
+requirements are lowest, e.g., sedentary elderly large women, such that a sedentary elderly woman who
+weighed 70 kg would require food with more than twice the protein concentration relative to energy
+compared with that needed by very young children [5].
+Nutrients 2015, 7 6878
+2.3.2. Digestibility of Protein
+Older adults appear to exhibit a more positive whole-body protein balance after ingestion of
+rapidly-absorbed protein sources compared to younger people [24]. In young men, a slow-digested
+dietary protein (casein) induced a greater protein gain than a fast-digested one (whey protein). The
+mechanisms of this gain also differed according to the protein’s rate of digestion. However, in older
+subjects, protein gain was greater with whey protein (rapidly-digested protein), and lower with casein
+(slowly-digested protein). This suggests that a “fast” protein might be more beneﬁcial to limit protein
+losses in older people, but longer-term studies are required to conﬁrm that this approach reduces body
+protein losses during aging [24,25]. There is also some recent evidence for greater gains in muscle
+strength in an elderly population in response to resistance training when this is combined with a
+2 ˆ10 g/day whey protein supplement rather than the same amount of a casein protein supplement [26].
+In addition to different absorption and metabolism rates between different food sources, it is clear
+that ageing is associated with decreased chewing efﬁciency. For example, minced beef has been shown
+to be more rapidly-digested than servings of intact beef, resulting in increased amino acid availability
+and greater postprandial protein retention, although this acute study did not show greater postprandial
+muscle protein synthesis (MPS) [27].
+2.3.3. Dietary Requirement for Protein and Optimal Intake of Protein
+There are a number of factors that inﬂuence the minimum protein requirement and these include:
+metabolic demand (with large inter- and intra-individual variation), growth/net tissue deposition, and
+dietary inﬂuences. The provision of sufﬁcient dietary protein will only occur when the demands for
+energy and all other nutrients for normal physiological functioning are met. Protein and amino acid
+metabolism are affected by alterations in micronutrient status and intake along with other factors, as
+shown below:
+‚ Energy intake—at constant levels of energy expenditure, increased energy intake improves
+nitrogen balance. This is possibly due to hormonal responses (insulin) which can inhibit
+proteolysis and oxidation of amino acids. Excess dietary energy over the longer term leads
+to increased deposition of adipose tissue (with some accompanying lean mass) which increases
+protein requirements.
+‚ Energy expenditure—an active person expends more energy and consumes more food (including
+protein), and is therefore less likely to be consuming marginal amounts of protein, as usually there
+is a minimal or no increase in amino acid and nitrogen requirements due to the physical activity.
+In contrast, when energy expenditure is low, food consumption falls and any imbalance between
+amino acid requirements and intake will be more likely to occur.
+‚ Physical activity—can inﬂuence amino acid metabolism, e.g., altering the ﬂow of nitrogen from
+branched-chain amino acids, and training may alter amino acid metabolism.
+‚ Macronutrients—the pattern of consumption of complex and non-digestible carbohydrate affects
+the colonic microﬂora and their contribution as an energy source, and faecal nitrogen is increased
+in those consuming large amounts of non-digestible carbohydrate.
+Nutrients 2015, 7 6879
+‚ Micronutrients—dietary inadequacies with respect to B vitamins and zinc may affect the biological
+value of dietary protein, whereas larger nutrient intakes (supplements) can induce an increased
+metabolic demand for protein to dispose of excess nutrients.
+‚ Metabolic stress—induced by systemic inﬂammatory responses, speciﬁc immune responses
+to infections, and other environmental factors, including smoking [28] and large intakes of
+alcohol [29].
+2.3.4. Recommended Dietary Protein Intakes
+In contrast to the US and the UK values [2,3], the Australian Recommended Daily Intake (RDIs) for
+protein distinguish between males and females and recommend a 25% higher intake of dietary protein
+for those aged 70+ years (Table 1) [30]. In contrast, the US recommends an intake of 0.8 g/day for all
+adults which does not increase with age but currently remains at the same level as for younger adults.
+In a recent review (2013), after evaluating the evidence, an international expert panel recommended an
+average daily intake of 1.0–1.2 g/kg protein per day for those aged 65+ years and even higher intakes for
+those who are exercising and otherwise active [4].
+Table 1. Nutrient reference intakes and recommended dietary intakes/allowances and
+proposed recommended protein intakes for older people (g/kg/day).
+Males 1 Males Males Females 1 Females Females
+Age range (years) 19–50 51–70 70+ 19–50 51–70 70+
+US EAR 0.66 0.66 0.66 0.66 0.66 0.66
+Australian EAR 0.68 0.68 0.86 0.60 0.60 0.75
+US RDA 0.8 0.8 0.8 0.8 0.8 0.8
+Australian RDI 0.84 0.84 1.07 0.75 0.75 0.94
+UK NRI 0.8 0.8 0.8 0.8 0.8 0.8
+* General Recommendation
+(>65 year) 1.1–1.2 1.1–1.2
+* Recommendation with
+endurance and resistance
+exercise (>65 year)
+1.2 1.2
+* Recommendation for acute
+and chronic disease (>65 year) 1.2–1.5 1.2–1.5
+* Recommended 25–30 g per meal (>65 year)
+1 Younger age groups included for comparison; EAR, Estimated Average Requirement: the average daily
+nutrient intake level estimated to meet the requirements of half of the healthy individuals in a group; RDA,
+Recommended Daily Allowance and RDI, Recommended Dietary Intake: the average daily dietary intake level
+sufﬁcient to meet the nutrient requirements of nearly all (97%–98%) healthy individuals in a group; NRI,
+Nutrient Reference Intake; * [4].
+There is increasing evidence that the current Recommended Dietary Intakes for older people of around
+0.8 g/kg/day are insufﬁcient to optimise retention of muscle mass, strength and function [31,32]. An early
+study by Campbell et al. , found that healthy older subjects were in negative nitrogen balance after
+Nutrients 2015, 7 6880
+consuming the US protein RDA for 10 days [33]. Subsequent to this, a longitudinal study in older
+men and women aged 55 to 77 years showed that in response to a 3-month diet containing 0.8 g/kg/day
+protein, there was a physiological adaptation to this low-protein diet evidenced by a reduction in skeletal
+muscle whilst whole-body leucine metabolism was maintained [34]. These results indicate that a protein
+intake of 0.8 g/kg/day is not adequate to completely meet the metabolic and physiological needs of
+virtually all older people. It is clear from these types of studies that the body adapts to a lower
+protein intake by breaking down lean mass to maintain nitrogen balance, which will ultimately result
+in progression to sarcopenia, frailty and reduced quality of life in older people.
+2.3.5. Implications for Dietary Protein Requirements for Elderly
+It is fundamental, as the basis for assessing its adequate intake, to move from a focus on meeting
+the dietary protein requirement when it is deﬁned by body nitrogen balance studies to deﬁning optimal
+intakes for health and reduction of chronic disease. In addition, any dietary protein recommendations
+should be combined with clear recommendations relating to physical activity and maintenance of muscle
+strength and function.
+Whilst a dietary protein recommendation that achieved nitrogen balance per se might be the relevant
+point to set recommendations in young sedentary persons, it is not relevant to older people, since:
+‚ Individuals adapt to minimum protein diets by lowering nitrogen excretion [35], such that there is
+no relationship between nitrogen balance and musculoskeletal tissue mass.
+‚ Nitrogen balance studies are only conducted for relatively short periods of time (between
+10–15 days) which are insufﬁcient to measure the impact on muscle, bone, and connective tissues
+which may be adversely affected by minimal protein intakes.
+‚ Few nitrogen balance studies have been conducted on older people. In the most recent
+meta-analysis, only one study with 16 older individuals (68–84 years) was included among the
+total of 235 individuals [35].
+‚ The level of protein intake to achieve nitrogen balance exhibits a wide range of variation from
+50 g/day to 150 g/day.
+2.4. Evidence that Older People Need More Protein
+2.4.1. Basal Conditions
+Many studies have indicated that ageing does not alter muscle protein synthesis or skeletal muscle
+protein breakdown under basal conditions and this is the generally accepted view [36]. However,
+some studies have demonstrated age-related reduction in basal protein synthesis and differences could
+be explained by inadequate sample size, pre-study dietary intake, cultural differences or precision of
+measurement instruments [37]. One of the key factors inﬂuencing the variability in results, as pointed
+out by Henderson et al., is likely to be that weight-maintaining standardised diets were administered
+for at least 3 days before the experiment in studies ﬁnding an age effect, whereas those ﬁnding no age
+effect did not standardise dietary intake going into the study [38]. Additionally, as noted by Koopman
+et al., pointed out [37], even minor differences in basal muscle protein synthesis and/or breakdown rate
+Nutrients 2015, 7 6881
+(<10%) would be clinically relevant when calculating their impact over one or more decades before
+sarcopenia becomes evident. This is an area that warrants further research using standardised diets prior
+to assessment of basal protein synthesis rates in older people.
+2.4.2. Response to Anabolic Stimuli
+Protein turnover in skeletal muscle tissue is enhanced by consumption of food, particularly ingestion
+of amino acids and/or protein which strongly stimulates muscle protein synthesis and inhibits protein
+breakdown, resulting in a positive net protein balance [37]. Older people appear to have lower rates
+of protein synthesis and lower rates of whole-body proteolysis in response to an anabolic stimulus
+(consuming food or performing resistance exercise), which is consistent with overall slower tissue
+remodelling. It is believed that this reduced response to anabolic stimuli represents one of the key
+factors responsible for the age-related decline in skeletal muscle mass. The mechanisms that underpin
+the anabolic resistance to protein and/or amino acid consumption and resistance exercise are not well
+deﬁned [39]. Cuthbertson et al., have demonstrated that older people have an attenuated rise in the
+activation of key signalling proteins in the mammalian target rapamycin (mTOR) pathway after ingesting
+10 g essential amino acids (EAA) [36]. The branched-chain amino acid leucine is a potent activator of the
+rapamycin (mTOR) nutrient and energy-sensing signalling pathway in skeletal muscle and appears to be
+the main anabolic signal responsible for the postprandial increase in muscle protein synthesis [40]. One
+small acute study conducted in healthy elderly people consuming an “adequate” intake of 0.8 g/kg/day
+demonstrated that leucine supplementation for 2 weeks (4 g/meal; 3 meals/day) improved muscle protein
+synthesis [41]. In addition to being the most potent stimulus of protein synthesis in skeletal muscle,
+leucine may also suppress muscle protein breakdown [42].
+2.4.3. Optimal Types of Protein
+Evidence is emerging that this “anabolic resistance” in older people can be overcome by ingesting
+protein supplements or foods that are rich in the essential amino acid leucine [43]. It has been found
+that older people need greater doses of protein (beef) to enhance the rate of postprandial muscle protein
+synthesis, e.g., ingestion of 113 g of lean beef (220 kcal, 30 g protein, 10 g EAA) increased mixed
+muscle fractional synthesis rate by approximately 50% in both young and older persons [44]. This
+increase in protein synthesis was further enhanced by resistance exercise, with myoﬁbrillar protein
+synthesis increased with 170 g of beef to a greater extent than all other doses at rest and after
+resistance exercise [45]. However, the evidence indicating the usefulness of leucine supplementation
+in improving protein anabolism is derived from small acute studies and the impact of consuming leucine
+(or leucine-rich whey protein supplements) on long-term health needs to be evaluated.
+2.4.4. Optimal Distribution of Protein
+There is an improved protein synthetic response to intact protein sources such as whey protein, milk
+and beef. However, if total ingested protein content is low ( i.e., EAA content less than „7 g or protein
+less than 20 g) or if glucose and amino acids are co-ingested, then the protein synthetic response appears
+to be impaired in older people [36,46,47]. It appears that ingestion of approximately 25–30 g of protein
+Nutrients 2015, 7 6882
+per meal maximally stimulates muscle protein synthesis in both young and older individuals. Many
+older people may be consuming only minimal amounts of protein at each meal throughout the day and
+may need to reach the threshold intake of 25–30 g protein to stimulate protein synthesis. Foods such
+as meat are not generally consumed alone but as part of a meal and the anabolic response to a mixed
+meal in older people needs to be evaluated [46]. Within a meal, protein is generally consumed with
+carbohydrate: many meals provide 15%–30% energy from protein and 60% energy from carbohydrate.
+A typical meal may contain about 20 g of protein (approximately 100 g of steak or two eggs) and about
+40 g of carbohydrate [48]. A recent study has demonstrated that protein synthesis measured after the
+consumption of dietary protein-derived amino acids following ingestion of a meal-like amount of protein
+and carbohydrate does not differ between healthy young vs. older men [48], and post-prandial plasma
+glucose and insulin concentrations were signiﬁcantly higher in the older group. However, the authors
+do acknowledge that, although not demonstrated in this study, impairments in the post-prandial muscle
+protein synthetic response are likely to occur in more frail and sedentary elderly populations.
+Importantly, it is now clear that ingestion of extra protein beyond 30 g (or „10 g EAA) in a single
+meal does not further enhance the stimulation of muscle protein synthesis. In one well-controlled study,
+despite a threefold increase in protein and energy content, there was no further increase in protein
+synthesis after ingestion of a 340 g lean beef serving (660 kcal, 90 g protein) in either younger or older
+people [44]. A dietary plan that includes 25–30 g of high-quality protein per meal (60 g/day) has been
+proposed to maximize muscle protein synthesis. A 20 g serving of most animal or plant-based proteins
+contains 5–8 g of essential amino acids. This has been proposed as a strategy particularly relevant
+to hospitalised or institutionalized elderly who may be severely limited in their ability to perform any
+physical activity [40].
+2.4.5. Timing of Protein Consumption
+Another consideration is the optimal timing of protein consumption in relation to exercise. As
+maximal muscle protein synthesis occurs approximately 60 min after the end of physical exercise, it
+would be reasonable to predict that ingestion of protein within this time period would result in the best
+anabolic response; however, there is no deﬁnitive evidence to support this premise [49]. In one study,
+supplementary protein distributed across 2 meals (15 g after breakfast and 15 g protein after lunch),
+resulting in a total intake of protein of 27 g at breakfast, 32 g at lunch and 29 g at dinner), produced an
+improvement in physical performance [50]. It should be noted that on average only 23 g extra protein
+was consumed per day, which is still a very modest increase in total protein intake [51].
+A recent assessment of protein intake in older people in the Netherlands indicated that dietary
+protein intake averaged 1.1 g/kg/day in community-dwelling and 1.0 g/kg/day in frail older people,
+with protein intakes being particularly low at breakfast: between 8–10 g protein [52]. At lunchtime,
+community-dwellers consumed an average of 27 g protein whereas the frail population consumed only
+18 g protein. It is clear that many are consuming inadequate amounts of protein at breakfast and the
+frail group were also consuming insufﬁcient protein at lunch (<30 g), less than the amount required for
+protein synthesis [40]. This low protein intake in the frail population, particularly at breakfast and lunch,
+could be contributing to their adverse health proﬁle and lower physical activity levels. Therefore, there
+seems also to be scope to improve the distribution of protein intake throughout the day in older people.
+Nutrients 2015, 7 6883
+2.5. Dietary Protein and Sarcopenia
+Prevention of sarcopenia is important for reducing risk of fracture and osteoporosis and it appears
+that higher levels of dietary protein, particularly when combined with resistance exercise, can effectively
+reduce fracture risk and osteoporosis. Data from longitudinal studies support the premise that higher
+dietary intakes of protein reduce age-related muscle loss [53–55] and only one failed to ﬁnd an
+association with protein intake [56] (Table 2). For example, in a 3-year longitudinal study in 2066
+people, those in the highest quintile of protein intake lost approximately 40% less lean mass than did
+those in the lowest quintile of protein [53]. A study that followed over 300 older people for 10 years
+(average age 72 years at baseline) [57] found that those on protein intakes in the range 1.20–1.76 g/kg/day
+had better health outcomes compared to those with protein intake less than the mid-point within the
+range 0.8–1.2 g/kg/day. The Women’s Health Initiative, with over 24,000 women aged 65 to 79 years
+followed for 3 years, reported that a 20% increase in protein intake (% kcal) was associated with a
+12% lower risk of frailty [58]. One large cross-sectional study has demonstrated that higher protein
+intakes were positively associated with physical performance [59]. In addition to these epidemiological
+studies, one protein-supplementation RCT [50] and one community-based RCT in older people [60]
+demonstrated improvements in physical performance while another hospital-based study in hip fracture
+patients [61] demonstrated a reduction in medical complications. The study which provided an additional
+30 g protein/day for 24 weeks and conducted in a frail community population [50] clearly demonstrated
+an improvement of more than 1 point for the Short Physical Performance Battery. Overall, these studies
+indicate that consumption of higher amounts of dietary protein assists in reducing age-related muscle
+mass and improves health outcomes and physical performance.
+Protein, Exercise and Prevention of Sarcopenia
+The current guidelines for older people call for progressive resistance training to be performed
+on at least two non-consecutive days of the week [62]. As resistance exercise several times per
+week is considered to be crucial to maintain muscle strength, maintain muscle mass, and reduce
+falls and fractures [16], it is important that nutritional interventions are assessed within the context
+of recommended exercise regimes. It is therefore relevant to assess the outcomes of randomised
+controlled trials that have addressed the impact on muscle mass and strength of the combined approach of
+resistance exercise and increased dietary protein, i.e., protein combined with exercise. A meta-analysis
+of randomised controlled trials that assessed the impact on lean mass, muscle ﬁbre cross-sectional
+area and/or 1-repetition muscle strength of combined prolonged resistance-type exercise training with
+increased dietary protein indicated that, for those ě50 years, an average of 42 g protein on training
+days increased total lean mass to a degree similar to that in younger people [63]. Most studies used
+milk or whey supplementation. Overall, dietary protein supplementation during resistance-type exercise
+training increased FFM by an additional 38% when compared with the placebo. There was no difference
+between older and younger people with respect to improved lean mass and leg strength, but older people
+did not experience an improvement in type 1 muscle ﬁbre. Protein supplementation improved FFM gain
+by 0.48 kg in older people and 0.81 kg in younger people, although there was no statistical difference
+between the groups. Protein supplementation had a similar effect on improving 1-RM leg press strength
+Nutrients 2015, 7 6884
+in both age-groups (pooled estimate of 14.4 kg in younger people and 13.1 kg in older people). The
+three studies without energy restriction published after this do not alter the overall conclusion from the
+meta-analysis, with one ﬁnding an improvement in lean mass [64] and the others no improvement [65,66]
+(Table 1). There may be some limitation in using DEXA to measure body composition in older people, as
+FFM and muscle protein mass could be overestimated in this group due to water retention and increased
+lipid content of muscle, but this would not affect muscle fractional synthesis rates.
+The effectiveness of exercise in increasing muscle mass and function has been clearly demonstrated
+even in frail older people [67,68]. Many experts recommend that older people should combine resistance
+exercise with a protein intake of up to 1.3 g/kg/day [49,69]. One recent RCT has clearly demonstrated
+that a modest increase in dietary protein (30 g/day/24 weeks) combined with twice-weekly progressive
+resistance training in a frail elderly population [64] induced an average 1.3 kg increase in lean body mass,
+although there was no protein effect on strength or physical performance, with both groups experiencing
+a similar improvement. Obese older adults (mean age 63 years) undertook a weight-loss diet and
+combined resistance training three times per week with consumption of a protein supplement amounting
+to an extra intake of 28 g/day, including 21 g immediately after training, or a placebo [70]. In this recent
+RCT, both groups lost weight but the protein-supplemented group maintained their lean mass whilst the
+placebo group lost signiﬁcant muscle. However, both groups improved similarly in muscle strength or
+function with the extra protein conferring no measureable beneﬁt over placebo treatment. Another study
+compared the combination of resistance training (3 times/week) with one of two energy-restricted diets
+(1.3 MJ (300 kcal) energy deﬁcit), both providing 1.3 g/kg/day, over 4 weeks in older men. One diet
+had an even distribution of protein throughout the day (utilising whey protein drinks) and the other had a
+skewed intake, with the majority of protein being provided with the evening meal. It was found that there
+was greater myoﬁbrillar protein synthesis over the day with the balanced protein distribution compared
+to the skewed distribution under conditions of energy restriction [71]. Although this study utilised whey
+protein supplements to distribute protein throughout the day and more research is required to determine if
+these acute observations translate to mixed macronutrient meals and into a long-term functional response,
+these results lend support to the hypothesis that the combination of RT and a balanced distribution of
+daily protein in the context of a modest increase in dietary protein could be an effective strategy for
+fat mass loss during weight reduction without exacerbating sarcopenic muscle loss in older people.
+It is encouraging that protein treatment has the potential to ameliorate the effects of the weight loss
+on muscle, since lean mass loss increases risk of sarcopenia in the elderly and its attendant increased risk
+of morbidity [72].
+In contrast, another recent trial in active women 60 years and older used increased red meat
+consumption to increase protein intake. In this study, all participants undertook progressive resistance
+training (twice-weekly) and half received additional dietary protein (red meat, consumed at lunch and
+dinner) which took their total protein intake to„1.29 g/kg/day, compared to the carbohydrate control diet
+intake of „1.15 g/kg/day. The protein/meat group experienced greater gains in total body lean mass (net
+beneﬁt 0.45 kg) and muscle strength (net beneﬁt 18%) [73]. The results of both these studies conﬁrm that
+when performing the recommended level of resistance exercise [62], a very modest increase in protein
+intake which nonetheless results in an intake signiﬁcantly above the RDI of 1.0 g/kg/day is effective in
+increasing lean mass.
+Nutrients 2015, 7 6885
+Table 2. Protein intakes and physical function, muscle mass, and strength.
+Author & Date
+Location
+Study Type Follow-up
+Duration
+NHMRC
+Grade # 1
+Gender,
+Mean Age N Mean Protein Intakes and Outcomes
+Cross-sectional and Longitudinal Studies
+Martin, Aihie
+Sayer et al.,
+2011 [59]
+UK
+Cross-sectional IV
+Male,
+Female
+68 year
+N = 628
+Protein intake „ 89 g/day, 1.1 g/kg/day in men & 81 g/day, 1.2 g/kg/day in
+women
+Physical performance
+Higher protein intake associated with faster 3 min walk time.
+Protein intake increase of 1% total energy (4.9 g/day, 0.07 g/kg/day)
+associated with 0.037 s increased walking speed (˜1.06%). Signiﬁcant in
+women only.
+Bartali, Frongillo
+et al., 2012 [56]
+Italy
+Longitudinal
+3-year III-2
+Male,
+Female
+73 year
+N = 598
+Baseline protein intake 77 g/day.
+Muscle Strength
+Baseline protein intake not associated with changes in muscle strength over 3
+years.
+In persons with high levels of inﬂammatory markers, lower baseline protein
+intake associated with decline in muscle strength after 3 years.
+Vellas, Hunt et al.,
+1997 [57]
+USA
+Longitudinal
+10-year III-2
+Male,
+Female
+72 year
+N = 304
+166 women
+Baseline protein intake in women „1.0 g/kg/day. Not reported for men
+Change in Physical Health
+Baseline protein intakes greater than US RDA associated with fewer health
+problems during next 10 years in women (not men).
+Protein intakes 1.2–1.8 (midpoint 1.5) g/kg/day associated with fewer
+subsequent health problems than <0.8 g/kg/day, including major medical
+illness/surgery, signiﬁcant medication, gait and/or balance abnormalities or
+poor score in activities of daily living assessment or mini mental state
+examination.
+Nutrients 2015, 7 6886
+Table 2. Cont.
+Author & Date
+Location
+Study Type Follow-up
+Duration
+NHMRC
+Grade # 1
+Gender,
+Mean Age N Mean Protein Intakes and Outcomes
+Beasley, LaCroix
+et al., 2010 [58]
+USA
+Prospective cohort
+study
+3-year
+III-2
+Female
+65–79
+year,
+Median
+72 year
+N = 24,417
+Protein intake 73 g/day, 1.1 g/kg/day (median value; mean not available)
+Frailty
+Protein intake inversely associated with risk of incident frailty.
+20% increase in protein intake associated with 12% (95% CI: 8%–16%) lower
+risk of frailty.
+Houston, Nicklas
+et al., 2008 [53]
+USA
+Longitudinal
+3-year III-2
+Male,
+Female
+75 year
+N = 2066
+Baseline protein intake 70 g/day in men, 61 g/day in women, both „0.9
+g/kg/day
+Muscle mass loss
+Higher protein intake associated with reduced lean mass loss.
+After 3 years, Q5 (91 g/day, 1.1 g/kg/day) lost 43% less LM and 39% less
+aLM than Q1 (57 g/day, 0.7 g/kg/day); p for trend <0.01.
+Meng, Zhu et al.,
+2009 [54]
+Australia
+Longitudinal
+5-year III-2 F
+75 year N = 862
+Baseline protein intake 81 g/day, 1.2 g/kg/day
+Muscle mass loss
+Higher protein intake associated with reduced whole body and aLM loss.
+T3 (mean 111 g/day, 1.6 g/kg/day) had 5.4%–6.0% higher LM and aLM and
+upper arm muscle area than T1 (mean 54 g/day, 0.8 g/kg/day).
+Scott, Blizzard et
+al., 2010 [55]
+Australia
+Longitudinal
+2.6-year III-2
+Male,
+Female
+63 year
+N = 740
+Baseline protein intake 88 g/day, „1.1 g/kg/day
+Muscle mass loss
+Higher protein intake (>Australian RDI) associated with higher appendicular
+lean mass cross-sectionally and follow-up.
+Protein intake positively associated with muscle mass (aLM) and rate of
+muscle loss, but not strength.
+Women: for < 70 year, intake at least 46 g/d (0.8 g/kg/day) and for > 70 years,
+at least 57 g/day (0.9 g/kg/day), +3.4% aLM levels after 2.6 years.
+Men: for < 70 year men, intake at least 64 g/day (0.8 g/kg/day) and for
+> 70 year, at least 81 g/day (1.1 g/kg/day), associated with +3.4% higher aLM
+levels after 2.6 years.
+Nutrients 2015, 7 6887
+Table 2. Cont.
+Author & Date
+Location
+Study Type Follow-up
+Duration
+NHMRC
+Grade # 1
+Gender,
+Mean Age N Mean Protein Intakes and Outcomes
+Intervention Studies (Supplement or Diet alone)
+Tieland, van de
+Rest et al.,
+2012 [50]
+Netherlands
+RCT
+6 months.
+Parallel 2-arm. 15 g
+milk-protein in 250 mL
+drink or placebo after
+breakfast and again
+after lunch.
+II
+Male,
+Female
+79 year
+N = 65
+Treatment = 34
+Placebo = 31
+Baseline protein intake 76 g/day, 1.0 g/kg/day; 30 g/day supplement increased
+intake to 1.4 g/kg/day
+Physical performance
+Protein supplementation signiﬁcantly improved physical performance;
+Protein-supplemented vs. placebo group: performance score improvement:
+12% vs. 1% (p = 0.02), reduction in time taken to rise from chair: 2.6 s vs. 2.3
+s (p = 0.055), leg extension strength improvement; 19% vs. 11%, p = 0.059.
+Leg extension strength tended to increase to a greater extent, but did not affect
+muscle mass or muscle ﬁber size.
+Kim et al.,
+2013 [60]
+Korea
+Randomized trial
+3 months.
+Parallel trial, 25 g
+protein in
+2 ˆ 200 mL/day
+multi-nutrient drink, no
+placebo.
+II
+Male,
+Female
+78 year
+N = 87
+Treatment = 43
+Control = 44
+Baseline protein intake 36 g/day, „0.8g/kg/day increased intake to 55 g/day,
+1.1 g/kg/day
+Physical performance
+Protein supplementation signiﬁcantly improved physical performance.
+Protein supplementation improved physical function (PF test of disability)
+(+5.9%), and maintained Short Physical Performance Battery test score
+(walking speed, balance tests etc.) at 12.5% higher than control. Protein
+supplementation improved Timed Up-and-Go by 7.2%; controls worsened
+by 3.4%.
+Espaulella, Guyer
+et al., 2000 [61]
+Spain
+RCT
+2 months.
+Double-blind, 2-arm
+trial. 20 g protein in
+200 mL/day drink or
+placebo at night.
+II
+Male,
+Female
+83 year
+N = 171
+Treatment = 85
+Placebo = 86
+Dietary protein intake not reported
+Physical performance
+Protein supplementation did not improve physical performance more
+than placebo.
+Hospital complication rate
+Protein supplementation reduced in-hospital and overall complication rate.
+Protein supplement group suffered fewer in-hospital complications (odds ratio
+1.88 (95% CI 1.01–3.53), p = 0.05) and total complications (odds ratio 1.94
+(95% CI 1.02–3.7), p = 0.04) than placebo.
+Nutrients 2015, 7 6888
+Table 2. Cont.
+Author & Date
+Location
+Study Type Follow-up
+Duration
+NHMRC
+Grade # 1
+Gender,
+Mean Age N Mean Protein Intakes and Outcomes
+Intervention Studies: Diet combined with Exercise
+Daly et al.,
+2014 [73]
+Australia
+RCT
+4 months.
+Parallel, 2-arm trial.
+RT 2 times/week plus
+2 ˆ 80 g /day lean red
+meat or 1 serve
+carbohydrate/day
+II Female
+72 year
+N = 100
+Treatment(meat
+diet) = 53
+Control = 47
+Protein intake 1.3 g/kg/day compared with 1.1 g/kg/day
+Muscle mass and Strength
+Protein-enriched (meat) group: greater gains in total body lean mass (mean
+0.45 kg), leg lean mass (0.22 kg) and muscle strength (18%).
+Tieland, Dirks et
+al., 2012 [64]
+Netherlands
+RCT
+6 months.
+Double-blind, parallel
+2-arm trial.
+RT 2 times /week plus
+15 g milk-protein in
+250 mL drink or
+placebo after breakfast
+and again after lunch
+II
+Male,
+Female
+78 year
+N = 62
+Treat = 31,
+Placebo = 31
+Protein intake 77 g/day, 1.0 g/kg/day; with extra 30 g protein/d, increased to
+1.3 g/kg/day
+Muscle mass change
+Protein supplementation: increased muscle mass more than exercise alone.
+Supplementary protein group gained mean 1.3 kg lean mass compared to
+´0.3 kg in exercise-only group (p = 0.006).
+Physical performance
+Protein supplementation: no extra improvement in strength and physical
+performance.
+Anarson et al.,
+2013 [66]
+Iceland
+RCT
+3 months.
+RT 3 times /week plus
+post-exercise 20 g milk
+protein in 250 mL
+drink or control.
+II
+Male,
+Female
+74 year
+N = 161
+Treatment = 83,
+Placebo = 78
+Protein intake 79 g/day, 1.0 g/kg/day increased to 1.0 g/kg/day
+Muscle mass change
+Protein supplementation immediately after training: no signiﬁcant effect on
+increase in lean mass. Protein-supplemented and placebo: gained on average
+0.8 kg LM and 0.6 kg aLM
+Physical performance
+Protein supplementation after training did not improve strength and
+performance more than exercise alone. Both groups increased quadriceps
+strength by 55 N and improved Timed-Up and Go test by 0.6 s.
+Nutrients 2015, 7 6889
+Table 2. Cont.
+Author & Date
+Location
+Study Type Follow-up
+Duration
+NHMRC
+Grade # 1
+Gender,
+Mean Age N Mean Protein Intakes and Outcomes
+Leenders, et al.,
+2013 [65]
+Netherlands
+RCT
+6 months.
+RT 3 times /week plus
+daily 15 g milk protein
+supplement in 250 mL
+drink or lower-energy
+placebo,
+post-breakfast.
+II
+Male,
+Female
+70 year
+N = 53
+completed
+Treatment = 27,
+Placebo = 26
+Baseline protein intake in women 1.2 g/kg/day, in men 1.1 g/kg/day increased
+to approx. 1.4 g/kg/day and 1.3 g/kg/day during intervention.
+Muscle mass change
+Protein supplementation: no effect on muscle mass beyond exercise alone.
+Protein-supplemented and placebo: similar increase in leg muscle mass
+(women, 3% ˘ 1% vs. 4% ˘ 1%; men, 3% ˘ 1% vs. 3% ˘ 1%) and in
+quadriceps cross-sectional area (women, 9% ˘ 1% vs. 9% ˘ 1%; men,
+10% ˘ 1% vs. 9% ˘ 1%) (NS).
+Physical performance
+Protein supplementation: no effect on physical strength and performance
+beyond exercise alone. Protein-supplemented and placebo: similar increases
+in One-RM strength: 40% ˘ 3% vs. 45% ˘ 6% (women) and 44% ˘ 3% vs.
+41% ˘ 4% (men), respectively (NS).
+Chalé, et al.,
+2013 [74]
+RCT
+6 months.
+RT 3 times /week, plus
+daily 2 ˆ 20 g milk
+protein supplement in
+powder form or
+iso-caloric control
+powder, post-breakfast
+and post-dinner.
+II
+Male,
+Female
+77 year
+N = 80
+Treatment = 42,
+Placebo = 38
+Baseline protein intake approx. 71 g/day, 1.0 g/kg/day in both, changed to
+1.2 g/kg/day in treatment and 0.9 g/kg/day in placebo groups
+Muscle mass change
+Lean mass increased 1.3% and 0.6% in treatment and placebo groups
+respectively but not signiﬁcant.
+Physical performance
+No difference in muscle strength (1RM) between groups. Greater increase in
+peak power for knee extensors in protein group. Otherwise, trend to greater
+improvement in all outcomes in protein group but NS.
+Nutrients 2015, 7 6890
+Table 2. Cont.
+Author & Date
+Location
+Study Type Follow-up
+Duration
+NHMRC
+Grade # 1
+Gender,
+Mean Age N Mean Protein Intakes and Outcomes
+Kukuljan S et al.,
+2009
+[75]
+RCT
+18 months.
+RT + 2 ˆ 200 mL
+fortiﬁed milk, am and
+pm (afternoon or
+evening as desired), or
+RT only for control
+II Male
+60.5 year
+N = 87
+completed
+Treatment = 43,
+Control = 44
+Baseline protein intake 1.26 g/kg/day for treatment and 1.32 g/kg/day for
+control groups, increased by 12 mo to 1.47 and 1.40 g/kg/day (p < 0.01 and
+p < 0.05), respectively.
+Muscle mass change
+Total body lean mass increased by 1.0 kg and 0.7 kg in treatment and placebo
+groups respectively, but no difference between groups.
+Physical performance
+No signiﬁcant difference between groups in functional tests.
+1 Australian NHMRC Levels of evidence: II Evidence obtained from at least one properly-designed randomised controlled trial; III-2 Evidence obtained from
+comparative studies (including systematic reviews of such studies) with concurrent controls and allocation not randomised, cohort studies, case-control studies, or
+interrupted time series with a control group; IV Evidence obtained from case series, either post-test or pre-test/post-test [76] g/day: grams per day; g/kg/day: grams
+per kilogram body weight per day; RDA: recommended dietary allowance; RDI: recommended dietary intake; LM: lean mass; (a)LM: (appendicular) LM; RT:
+resistance training. One (1) RM: One (1) repetition maximum; Q: quartile/quintile, T: tertile. Q1/T1 are lowest protein intakes; T3/Q4/Q5 are highest protein intakes
+(as appropriate). Mean of tertile/quartile/quintile is stated if provided by reference or else the calculated midpoint of upper and lower values in range is shown. CI:
+conﬁdence interval. ˜: approximately; NS: non-signiﬁcant.
+Nutrients 2015, 7 6891
+Evans et al., in their recent review of the studies by Tielandet al. [32,52,64], emphasise that these new
+trials conﬁrm indications from previous work that older persons require greater dietary protein intakes:
+between 1.0 and 1.5 g/kg/day. This is speciﬁcally required for an optimal increase in muscle mass and
+presumably long-term physical performance when undertaking regular resistance exercise. As 30 g/day
+of supplementary protein (twice a day as a component of two meals) does not result in a reduction in
+habitual energy intake and is not accompanied by any negative health outcomes such as an adverse effect
+on renal function, they recommend this approach for delivery of a modest increase in protein intake as
+a key nutritional strategy to improve physical performance and attenuate the progression to sarcopenia
+and frailty [32]. Although the study by Tieland et al. [64] looking at effects of protein-supplementation
+combined with twice-weekly progressive resistance training failed to show an incremental effect of
+protein on physical performance, data from the meta-analysis of randomised controlled trials assessing
+the combination of additional protein with resistance exercise has found a clear improvement in muscle
+strength [63]. Therefore, the optimistic assertion by the authors that an “increase in skeletal muscle
+mass in the protein as opposed to the placebo-supplemented group will likely allow a further increase
+in muscle strength and performance as time progresses” [64] does seem reasonable, despite the fact that
+there is only a weak relationship between muscle mass and strength in this frail population [77].
+Although changes in muscle mass have been shown to be poor predictors of clinical outcomes, they
+are strongly associated with strength, which in turn is strongly associated with mortality, “demonstrating
+that muscle strength as a marker of muscle quality is more important than quantity in estimating
+mortality risk” [78]. Although intervention studies which result in changes in muscle mass do not
+show a clear direct relationship with muscle strength and physical performance [77,79], these studies
+have not necessarily been powered to evaluate functional end points in healthy elderly persons [79]. A
+recent meta-analysis of nine RCTs (462 subjects; varying protocols) which assessed whether protein
+supplementation could optimize the effects of resistance training on muscle mass and strength in an aged
+population noted that the variation regarding supplementation protocols, protein sources, and amounts
+and timing of ingestion limited the results [80]. The authors, however, concluded that combining protein
+supplementation with resistance training is effective for eliciting gains in fat-free mass among older
+adults, but does not seem to increase muscle mass or strength, although two trials found generally
+consistent greater improvements in functional tests in protein-treated groups [64,74]. However, it is
+likely that larger trials that have demonstrated differences in chronic protein intake spanning the range
+from inadequate intakes to optimal intakes (<1 g/kg/day to ě1.2 g/kg/day) over a period of months are
+required to demonstrate statistical signiﬁcant functional beneﬁts.
+It should be acknowledged that the optimal level of daily protein intake is not yet clear and for
+individuals will depend on a range of factors, including amount and type of physical activity and exercise
+undertaken, distribution pattern of dietary protein throughout the day, protein source, etc. It is clear that
+data from studies of longer duration is required and that more attention needs to be paid to the quantity
+and quality of protein ingested with each meal [81]. It may be that frailer individuals have a greater
+response to such interventions in terms of physical performance, as they are more likely to be consuming
+low intakes of protein to begin with (<30 g protein per meal) [52]. It is also likely that with our current
+eating habits in Australia and other developed countries, many older people are consuming only small
+Nutrients 2015, 7 6892
+amounts of protein earlier in the day at breakfast and/or at lunch, and only consume a meaningful amount
+of protein (>25 g) at their evening meal.
+2.6. Future Studies
+The positive ﬁndings of the three relevant studies to date [50,64,73] provide strong support for
+conducting further longer-term studies. They raise the possibility that increased dietary protein may
+prevent mobility disability independently of muscle mass improvement [82] and may act on some
+other physiological process, possibly related to neural activation of skeletal muscle. Larger randomized
+clinical trials are needed to establish the optimal forms and timing of dietary protein, the dose ingested,
+and/or the type and timing of exercise. Any protein supplementation studies need to ensure an adequate
+energy intake to meet energy requirements, since supplementing protein without an adequate supply of
+energy will not result in increased protein synthesis as the protein will instead be metabolised as an
+energy source. An additional factor, often overlooked, is that any intervention found to be beneﬁcial
+needs to be achievable and acceptable to older people in the long-term, able to be incorporated into a
+dietary pattern that meets all their dietary requirements whilst enhancing their enjoyment in life. This
+is why food- and meal-based strategies, rather than supplemental drinks, would be recommended as
+the initial approach to optimising protein intake. Additionally, it is important that these studies are
+replicated in the range of elderly population groups and that interventions be evaluated in the long
+term for sustainability. As already emphasised [83], dietary protein intake and physical activity are the
+key modiﬁable means of stimulating muscle protein anabolism. However, there is only a tenuous link
+between highly-controlled, acute, mechanistic studies and longer-duration, outcome-focused trials. The
+trials by Daly et al., and Tieland et al. [64,73] have clearly demonstrated that making the translational
+leap from a successful acute, mechanistic result to longer-term improvement in outcomes such as muscle
+mass and function is possible. The ﬁnal leap is again to ensure that any lifestyle approach is sustainable
+in the long-term and meets the dietary requirements for all nutrients, whilst enhancing the enjoyment of
+life in individuals.
+3. Conclusions
+There is new evidence linking protein intake with sarcopenia and physical function, and recent
+metabolic and epidemiological studies indicate that the current Recommended Dietary Intakes for protein
+appear to be inadequate for maintenance of physical function and optimal health in older adults. The
+current body of evidence indicates that a dietary protein intake of at least 1.2 g/kg/day is required
+to maintain optimal muscle function in older people. Additional studies are required to establish the
+optimal amount and timing of protein intake for older people [31] within dietary patterns that can be
+readily achieved by older people living in the community and residential aged care.
+Acknowledgments
+Meat & Livestock Australia provided funds to undertake this review.
+Nutrients 2015, 7 6893
+Author Contributions
+Caryl Nowson designed and drafted the review. Stella O’Connell sourced and summarized the
+literature and contributed to the ﬁnal manuscript.
+Conﬂicts of Interest
+Caryl Nowson has received research and consultancy funds from Meat & Livestock Australia, Nestle
+Health Sciences and the Dairy Health and Nutrition Consortium. The authors declare no conﬂict
+of interest.
+References
+1. National Health and Medical Research Council. Recommended Dietary Intakes for Use in
+Australia; Australian Government Publishing Service: Canberra, Australia, 1991.
+2. Health, D.O. Dietary Reference Values of Food Energy and Nutrients for the United Kingdom:
+Report of the Panel on Dietary Reference Values of the Committee on Medical Aspects of Food
+Policy; Stationery Ofﬁce Books: London, UK, 1991.
+3. Food and Nutrition Board. Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty
+Acids, Cholesterol, Protein, and Amino Acids (Macronutrients); Institute of Medicine: Washington,
+DC, USA, 2005.
+4. Bauer, J.; Biolo, G.; Cederholm, T.; Cesari, M.; Cruz-Jentoft, A.J.; Morley, J.E.; Phillips, S.;
+Sieber, C.; Stehle, P.; Teta, D.;et al. Evidence-based recommendations for optimal dietary protein
+intake in older people: A position paper from the PROT-AGE Study Group. J. Am. Med. Dir.
+Assoc. 2013, 14, 542–559. [CrossRef] [PubMed]
+5. World Health Organization; Food and Agriculture Organization of the United Nations; United
+Nations University. Protein and Amino Acid Requirements in Human Nutrition ; WHO: Genevo,
+Switzerland, 2007; pp. 1–265.
+6. Tang, M.; McCabe, G.P.; Elango, R.; Pencharz, P.B.; Ball, R.O.; Campbell, W.W. Assessment
+of protein requirement in octogenarian women with use of the indicator amino acid oxidation
+technique. Am. J. Clin. Nutr. 2014, 99, 891–898. [CrossRef] [PubMed]
+7. Fukagawa, N.K. Protein requirements: Methodologic controversy amid a call for change. Am. J.
+Clin. Nutr. 2014, 99, 761–762. [CrossRef] [PubMed]
+8. Millward, D.J.; Jackson, A.A. Protein requirements and the indicator amino acid oxidation method.
+Am. J. Clin. Nutr. 2012, 95, 1498–1501. [CrossRef] [PubMed]
+9. Robinson, T.N.; Wu, D.S.; Sauaia, A.; Dunn, C.L.; Stevens-Lapsley, J.E.; Moss, M.;
+Stiegmann, G.V .; Gajdos, C.; Cleveland, J.C., Jr.; Inouye, S.K. Slower walking speed forecasts
+increased postoperative morbidity and 1-year mortality across surgical specialties. Ann. Surg.
+2013, 258, 582–588. [CrossRef] [PubMed]
+10. Studenski, S.; Perera, S.; Patel, K.; Rosano, C.; Faulkner, K.; Inzitari, M.; Brach, J.; Chandler, J.;
+Cawthon, P.; Connor, E.B.;et al. Gait speed and survival in older adults. JAMA 2011, 305, 50–58.
+[CrossRef] [PubMed]
+Nutrients 2015, 7 6894
+11. De Buyser, S.L.; Petrovic, M.; Taes, Y .E.; Toye, K.R.; Kaufman, J.M.; Goemaere, S. Physical
+function measurements predict mortality in ambulatory older men. Eur. J. Clin. Investig. 2013, 43,
+379–386. [CrossRef] [PubMed]
+12. Short, K.R.; Nair, K.S. The effect of age on protein metabolism. Curr. Opin. Clin. Nutr. Metab.
+Care 2000, 3, 39–44. [CrossRef] [PubMed]
+13. Montero-Fernandez, N.; Serra-Rexach, J.A. Role of exercise on sarcopenia in the elderly. Eur. J.
+Phys. Rehabil. Med. 2013, 49, 131–143. [PubMed]
+14. Manini, T.M. Energy expenditure and aging. Ageing Res. Rev. 2010, 9, 1–11. [CrossRef] [PubMed]
+15. Lexell, J. Human aging, muscle mass, and ﬁber type composition. J. Gerontol. A Biol. Sci. Med.
+Sci. 1995, 50, 11–16. [PubMed]
+16. Cederholm, T.; Cruz-Jentoft, A.J.; Maggi, S. Sarcopenia and fragility fractures. Eur. J. Phys.
+Rehabil. Med. 2013, 49, 111–117. [PubMed]
+17. Fried, L.P.; Tangen, C.M.; Walston, J.; Newman, A.B.; Hirsch, C.; Gottdiener, J.; Seeman, T.;
+Tracy, R.; Kop, W.J.; Burke, G.;et al. Frailty in older adults: Evidence for a phenotype.J. Gerontol.
+A Biol. Sci. Med. Sci. 2001, 56, M146–M156. [PubMed]
+18. Strandberg, T.E.; Pitkala, K.H. Frailty in elderly people. Lancet 2007, 369, 1328–1329. [CrossRef]
+19. Morley, J.E. Frailty: Diagnosis and management. J. Nutr. Health Aging 2011, 15, 667–670.
+[CrossRef] [PubMed]
+20. Fielding, R.A.; Vellas, B.; Evans, W.J.; Bhasin, S.; Morley, J.E.; Newman, A.B.; van Kan, A.G.;
+Andrieu, S.; Bauer, J.; Breuille, D.; et al. Sarcopenia: An undiagnosed condition in older adults.
+Current consensus deﬁnition: Prevalence, etiology, and consequences. International working group
+on sarcopenia. J. Am. Med. Dir. Assoc. 2011, 12, 249–256. [CrossRef] [PubMed]
+21. Paddon-Jones, D.; Short, K.R.; Campbell, W.W.; V olpi, E.; Wolfe, R.R. Role of dietary protein in
+the sarcopenia of aging. Am. J. Clin. Nutr. 2008, 87, 1562S–1566S. [PubMed]
+22. Morley, J.E.; Abbatecola, A.M.; Argiles, J.M.; Baracos, V .; Bauer, J.; Bhasin, S.; Cederholm, T.;
+Coats, A.J.; Cummings, S.R.; Evans, W.J.;et al. Sarcopenia with limited mobility: An international
+consensus. J. Am. Med. Dir. Assoc. 2011, 12, 403–409. [CrossRef] [PubMed]
+23. Markofski, M.M.; V olpi, E. Protein metabolism in women and men: Similarities and disparities.
+Curr. Opin. Clin. Nutr. Metab. Care 2011, 14, 93–97. [CrossRef] [PubMed]
+24. Dangin, M.; Boirie, Y .; Guillet, C.; Beaufrère, B. Inﬂuence of the protein digestion rate on protein
+turnover in young and elderly subjects. J. Nutr. 2002, 132, 3228S–3233S. [PubMed]
+25. Dangin, M.; Guillet, C.; Garcia-Rodenas, C.; Gachon, P.; Bouteloup-Demange, C.;
+Reiffers-Magnani, K.; Fauquant, J.; Ballèvre, O.; Beaufrère, B. The rate of protein digestion affects
+protein gain differently during aging in humans. J. Physiol. 2003, 549, 635–644. [CrossRef]
+[PubMed]
+26. Karelis, A.D.; Messier, V .; Suppère, C.; Briand, P.; Rabasa-Lhoret, R. Effect of cysteine-rich whey
+protein (Immunocal) supplementation in combination with resistance training on muscle strength
+and lean body mass in non-frail elderly subjects: A randomised, double-blind, controlled study.
+J. Nutr. Health Aging 2015, 19, 531–536. [CrossRef] [PubMed]
+Nutrients 2015, 7 6895
+27. Timmerman, K.L.; Lee, J.L.; Dreyer, H.C.; Dhanani, S.; Glynn, E.L.; Fry, C.S.; Drummond, M.J.;
+Shefﬁeld-Moore, M.; Rasmussen, B.B.; V olpi, E. Insulin stimulates human skeletal muscle protein
+synthesis via an indirect mechanism involving endothelial-dependent vasodilation and mammalian
+target of rapamycin complex 1 signaling. J. Clin. Endocrinol. Metab. 2010, 95, 3848–3857.
+[CrossRef] [PubMed]
+28. Petersen, A.M.W.; Magkos, F.; Atherton, P.; Selby, A.; Smith, K.; Rennie, M.J.; Pedersen, B.K.;
+Mittendorfer, B. Smoking impairs muscle protein synthesis and increases the expression of
+myostatin and MAFbx in muscle. Am. J. Physiol. Endocrinol. Metab. 2007, 293, E843–E848.
+[CrossRef] [PubMed]
+29. V olpi, E.; Lucidi, P.; Cruciani, G.; Monacchia, F.; Santoni, S.; Reboldi, G.; Brunetti, P.; Bolli, G.B.;
+de Feo, P. Moderate and Large Doses of Ethanol Differentially Affect. Hepatic Protein Metabolism
+in Humans. J. Nutr. 1998, 128, 198–203. [PubMed]
+30. Department of Health (UK). Report on Health and Social Subjects 41 Dietary Reference Values
+(DRVs) for Food Energy and Nutrients for the UK; Committee on Medical Aspects of Food Policy
+(COMA): London, UK, 1991.
+31. V olpi, E.; Campbell, W.W.; Dwyer, J.T.; Johnson, M.A.; Jensen, G.L.; Morley, J.E.; Wolfe, R.R.
+Is the Optimal Level of Protein Intake for Older Adults Greater Than the Recommended Dietary
+Allowance? J. Gerontol. A Biol. Sci. Med. Sci. 2013, 68, 677–681. [CrossRef] [PubMed]
+32. Evans, W.J.; Boccardi, V .; Paolisso, G. Perspective: Dietary protein needs of elderly people: Protein
+supplementation as an effective strategy to counteract sarcopenia. J. Am. Med. Dir. Assoc. 2013,
+14, 67–69. [CrossRef] [PubMed]
+33. Campbell, W.W.; Crim, M.C.; Dallal, G.E.; Young, V .R.; Evans, W.J. Increased protein
+requirements in elderly people: New data and retrospective reassessments. Am. J. Clin. Nutr.
+1994, 60, 501–509. [PubMed]
+34. Campbell, W.W.; Trappe, T.A.; Wolfe, R.R.; Evans, W.J. The recommended dietary allowance for
+protein may not be adequate for older people to maintain skeletal muscle. J. Gerontol. A Biol. Sci.
+Med. Sci. 2001, 56, M373–M380. [CrossRef] [PubMed]
+35. Rand, W.M.; Pellett, P.L.; Young, V .R. Meta-analysis of nitrogen balance studies for estimating
+protein requirements in healthy adults. Am. J. Clin. Nutr. 2003, 77, 109–127. [PubMed]
+36. Cuthbertson, D.; Smith, K.; Babraj, J.; Leese, G.; Waddell, T.; Atherton, P.; Wackerhage, H.;
+Taylor, P.M.; Rennie, M.J. Anabolic signaling deﬁcits underlie amino acid resistance of wasting,
+aging muscle. FASEB J.2005, 19, 422–424. [CrossRef] [PubMed]
+37. Koopman, R.; van Loon, L.J. Aging, exercise, and muscle protein metabolism. J. Appl. Physiol.
+2009, 106, 2040–2048. [CrossRef] [PubMed]
+38. Henderson, G.C.; Dhatariya, K.; Ford, G.C.; Klaus, K.A.; Basu, R.; Rizza, R.A.; Jensen, M.D.;
+Khosla, S.; O’Brien, P.; Nair, K.S. Higher muscle protein synthesis in women than men across the
+lifespan, and failure of androgen administration to amend age-related decrements. FASEB J.2009,
+23, 631–641. [CrossRef] [PubMed]
+Nutrients 2015, 7 6896
+39. Kumar, V .; Selby, A.; Rankin, D.; Patel, R.; Atherton, P.; Hildebrandt, W.; Williams, J.; Smith, K.;
+Seynnes, O.; Hiscock, N.;et al. Age-related differences in the dose-response relationship of muscle
+protein synthesis to resistance exercise in young and old men. J. Physiol. 2009, 587, 211–217.
+[CrossRef] [PubMed]
+40. Paddon-Jones, D.; Rasmussen, B.B. Dietary protein recommendations and the prevention of
+sarcopenia. Curr. Opin. Clin. Nutr. Metab. Care 2009, 12, 86–90. [CrossRef] [PubMed]
+41. Casperson, S.L.; Shefﬁeld-Moore, M.; Hewlings, S.J.; Paddon-Jones, D. Leucine supplementation
+chronically improves muscle protein synthesis in older adults consuming the RDA for protein.
+Clin. Nutr. 2012, 31, 512–519. [CrossRef] [PubMed]
+42. Bassil, M.S.; Gougeon, R. Muscle protein anabolism in type 2 diabetes. Curr. Opin. Clin. Nutr.
+Metab. Care 2013, 16, 83–88. [CrossRef] [PubMed]
+43. Bell, J.A.; Fujita, S.; V olpi, E.; Cadenas, J.G.; Rasmussen, B.B. Short-term insulin and nutritional
+energy provision do not stimulate muscle protein synthesis if blood amino acid availability
+decreases. Am. J. Physiol. Endocrinol. Metab 2005, 289, E999–E1006. [CrossRef] [PubMed]
+44. Symons, T.B.; Shefﬁeld-Moore, M.; Wolfe, R.R.; Paddon-Jones, D. A moderate serving of
+high-quality protein maximally stimulates skeletal muscle protein synthesis in young and elderly
+subjects. J. Am. Diet. Assoc. 2009, 109, 1582–1586. [CrossRef] [PubMed]
+45. Drummond, M.J.; Fry, C.S.; Glynn, E.L.; Dreyer, H.C.; Dhanani, S.; Timmerman, K.L.; V olpi, E.;
+Rasmussen, B.B. Rapamycin administration in humans blocks the contraction-induced increase in
+skeletal muscle protein synthesis. J. Physiol. 2009, 587, 1535–1546. [CrossRef] [PubMed]
+46. Paddon-Jones, D.; Shefﬁeld-Moore, M.; Zhang, X.J.; V olpi, E.; Wolf, S.E.; Aarsland, A.;
+Ferrando, A.A.; Wolfe, R.R. Amino acid ingestion improves muscle protein synthesis in the young
+and elderly. Am. J. Physiol. Endocrinol. Metab. 2004, 286, E321–E328. [CrossRef] [PubMed]
+47. Katsanos, C.S.; Kobayashi, H.; Shefﬁeld-Moore, M.; Aarsland, A.; Wolfe, R.R. Aging is associated
+with diminished accretion of muscle proteins after the ingestion of a small bolus of essential amino
+acids. Am. J. Clin. Nutr. 2005, 82, 1065–1073. [PubMed]
+48. Kiskini, A.; Hamer, H.M.; Wall, B.T.; Groen, B.B.; de Lange, A.; Bakker, J.A.; Senden, J.M.;
+Verdijk, L.B.; van Loon, L.J. The muscle protein synthetic response to the combined ingestion
+of protein and carbohydrate is not impaired in healthy older men. Age 2013, 35, 2389–2398.
+[CrossRef] [PubMed]
+49. Landi, F.; Marzetti, E.; Bernabei, R. Perspective: Protein: What kind, how much, when? J. Am.
+Med. Dir. Assoc. 2013, 14, 66–67. [CrossRef] [PubMed]
+50. Tieland, M.; van de Rest, O.; Dirks, M.L.; van der Zwaluw, N.; Mensink, M.; van Loon, L.J.;
+de Groot, L.C. Protein supplementation improves physical performance in frail elderly people: A
+randomized, double-blind, placebo-controlled trial. J. Am. Med. Dir. Assoc. 2012, 13, 720–726.
+[CrossRef] [PubMed]
+51. Wolfe, R.R. Perspective: Optimal protein intake in the elderly. J. Am. Med. Dir. Assoc. 2013, 14,
+65–66. [CrossRef] [PubMed]
+52. Tieland, M.; Borgonjen-Van den Berg, K.J.; van Loon, L.J.; de Groot, L.C. Dietary protein
+intake in community-dwelling, frail, and institutionalized elderly people: Scope for improvement.
+Eur. J. Nutr.2012, 51, 173–179. [CrossRef] [PubMed]
+Nutrients 2015, 7 6897
+53. Houston, D.K.; Nicklas, B.J.; Ding, J.; Harris, T.B.; Tylavsky, F.A.; Newman, A.B.; Lee, J.S.;
+Sahyoun, N.R.; Visser, M.; Kritchevsky, S.B.; et al. Dietary protein intake is associated with lean
+mass change in older, community-dwelling adults: The Health, Aging, and Body Composition
+(Health ABC) Study. Am. J. Clin. Nutr. 2008, 87, 150–155. [PubMed]
+54. Meng, X.; Zhu, K.; Devine, A.; Kerr, D.A.; Binns, C.W.; Prince, R.L. A 5-year cohort study of the
+effects of high protein intake on lean mass and BMC in elderly postmenopausal women. J. Bone
+Miner. R. 2009, 24, 1827–1834. [CrossRef] [PubMed]
+55. Scott, D.; Blizzard, L.; Fell, J.; Giles, G.; Jones, G. Associations between dietary nutrient intake
+and muscle mass and strength in community-dwelling older adults: The Tasmanian Older Adult
+Cohort Study. J. Am. Geriatr. Soc. 2010, 58, 2129–2134. [CrossRef] [PubMed]
+56. Bartali, B.; Frongillo, E.A.; Stipanuk, M.H.; Bandinelli, S.; Salvini, S.; Palli, D.; Morais, J.A.;
+V olpato, S.; Guralnik, J.M.; Ferrucci, L. Protein intake and muscle strength in older persons: Does
+inﬂammation matter? J. Am. Geriatr. Soc. 2012, 60, 480–484. [CrossRef] [PubMed]
+57. Vellas, B.J.; Hunt, W.C.; Romero, L.J.; Koehler, K.M.; Baumgartner, R.N.; Garry, P.J. Changes
+in nutritional status and patterns of morbidity among free-living elderly persons: A 10-year
+longitudinal study. Nutrition 1997, 13, 515–519. [CrossRef]
+58. Beasley, J.M.; LaCroix, A.Z.; Neuhouser, M.L.; Huang, Y .; Tinker, L.; Woods, N.; Michael, Y .;
+Curb, J.D.; Prentice, R.L. Protein intake and incident frailty in the Women’s Health Initiative
+observational study. J. Am. Geriatr. Soc. 2010, 58, 1063–1071. [CrossRef] [PubMed]
+59. Martin, H.; Aihie Sayer, A.; Jameson, K.; Syddall, H.; Dennison, E.M.; Cooper, C.; Robinson, S.
+Does diet inﬂuence physical performance in community-dwelling older people? Findings from the
+Hertfordshire Cohort Study. Age Ageing 2011, 40, 181–186. [CrossRef] [PubMed]
+60. Kim, C.O.; Lee, K.R. Preventive effect of protein-energy supplementation on the functional decline
+of frail older adults with low socioeconomic status: A community-based randomized controlled
+study. J. Gerontol. A Biol. Sci. Med. Sci. 2013, 68, 309–316. [CrossRef] [PubMed]
+61. Espaulella, J.; Guyer, H.; Diaz-Escriu, F.; Mellado-Navas, J.A.; Castells, M.; Pladevall, M.
+Nutritional supplementation of elderly hip fracture patients. A randomized, double-blind,
+placebo-controlled trial. Age Ageing 2000, 29, 425–431. [CrossRef] [PubMed]
+62. Nelson, M.E.; Rejeski, W.J.; Blair, S.N.; Duncan, P.W.; Judge, J.O.; King, A.C.; Macera, C.A.;
+Castaneda-Sceppa, C. Physical activity and public health in older adults: Recommendation from
+the American College of Sports Medicine and the American Heart Association. Circulation 2007,
+116, 1094–1105. [CrossRef] [PubMed]
+63. Cermak, N.M.; Res, P.T.; de Groot, L.C.; Saris, W.H.; van Loon, L.J. Protein supplementation
+augments the adaptive response of skeletal muscle to resistance-type exercise training: A
+meta-analysis. Am. J. Clin. Nutr. 2012, 96, 1454–1464. [CrossRef] [PubMed]
+64. Tieland, M.; Dirks, M.L.; van der Zwaluw, N.; Verdijk, L.B.; van de Rest, O.;
+de Groot, L.C.; van Loon, L.J. Protein supplementation increases muscle mass gain during
+prolonged resistance-type exercise training in frail elderly people: A randomized, double-blind,
+placebo-controlled trial. J. Am. Med. Dir. Assoc. 2012, 13, 713–719. [CrossRef] [PubMed]
+Nutrients 2015, 7 6898
+65. Leenders, M.; Verdijk, L.B.; van der Hoeven, L.; van Kranenburg, J.; Nilwik, R.; Wodzig, W.K.;
+Senden, J.M.; Keizer, H.A.; van Loon, L.J. Protein supplementation during resistance-type exercise
+training in the elderly. Med. Sci. Sports Exerc. 2013, 45, 542–552. [CrossRef] [PubMed]
+66. Arnarson, A.; Gudny Geirsdottir, O.; Ramel, A.; Briem, K.; Jonsson, P.V .; Thorsdottir, I. Effects
+of whey proteins and carbohydrates on the efﬁcacy of resistance training in elderly people: Double
+blind, randomised controlled trial. Eur. J. Clin. Nutr. 2013, 67, 821–826. [CrossRef] [PubMed]
+67. Nelson, M.E.; Fiatarone, M.A.; Morganti, C.M.; Trice, I.; Greenberg, R.A.; Evans, W.J. Effects of
+high-intensity strength training on multiple risk factors for osteoporotic fractures. A randomized
+controlled trial. JAMA 1994, 272, 1909–1914. [CrossRef] [PubMed]
+68. Fiatarone, M.A.; Marks, E.C.; Ryan, N.D.; Meredith, C.N.; Lipsitz, L.A.; Evans, W.J.
+High-intensity strength training in nonagenarians. Effects on skeletal muscle. JAMA 1990, 263,
+3029–3034. [CrossRef] [PubMed]
+69. Morais, J.A.; Chevalier, S.; Gougeon, R. Protein Turnover and Requirements in the Healthy and
+Frail Elderly. J. Nutr. Health. Aging 2006, 10, 272–283. [PubMed]
+70. Verreijen, A.M. A high whey protein-, leucine-, and vitamin D-enriched supplement preserves
+muscle mass during intentional weight loss in obese older adults: A double-blind randomized
+controlled trial. Am. J. Clin. Nutr. 2015, 101, 279–286. [CrossRef] [PubMed]
+71. Murphy, C.H.; Churchward-Venne, T.A.; Mitchell, C.J.; Kolar, N.M.; Kassis, A.; Karagounis, L.G.;
+Burke, L.M.; Hawley, J.A.; Phillips, S.M. Hypoenergetic diet-induced reductions in myoﬁbrillar
+protein synthesis are restored with resistance training and balanced daily protein ingestion in older
+men. Am. J. Physiol. Endocrinol. Metab. 2015. [CrossRef] [PubMed]
+72. Smith, G.I.; Mittendorfer, B. Slimming down in old age. Am. J. Clin. Nutr. 2015, 101, 247–248.
+[CrossRef] [PubMed]
+73. Daly, R.M.; O’Connell, S.L.; Mundell, N.L.; Grimes, C.A.; Dunstan, D.W.; Nowson, C.A.
+Protein-enriched diet, with the use of lean red meat, combined with progressive resistance training
+enhances lean tissue mass and muscle strength and reduces circulating IL-6 concentrations in
+elderly women: a cluster randomized controlled trial. Am. J. Clin. Nutr. 2014, 99, 899–910.
+[CrossRef] [PubMed]
+74. Chale, A.; Cloutier, G.J.; Hau, C.; Phillips, E.M.; Dallal, G.E.; Fielding, R.A. Efﬁcacy of whey
+protein supplementation on resistance exercise-induced changes in lean mass, muscle strength, and
+physical function in mobility-limited older adults. J. Gerontol. A Biol. Sci. Med. Sci. 2013, 68,
+682–690. [CrossRef] [PubMed]
+75. Kukuljan, S.; Nowson, C.A.; Sanders, K.; Daly, R.M. Effects of resistance exercise and fortiﬁed
+milk on skeletal muscle mass, muscle size, and functional performance in middle-aged and older
+men: An 18-mo randomized controlled trial. J. Appl. Physiol. 2009, 107, 1864–1873. [CrossRef]
+[PubMed]
+76. NHMRC (National Health and Medical Research Council). How to Use the Evidence: Assessment
+and Application of Scientiﬁc Evidence; NHMRC: Canberra, Australia, 2000.
+77. Cruz-Jentoft, A.J. Perspective: Protein and exercise for frailty and sarcopenia: Still learning. J. Am.
+Med. Dir. Assoc. 2013, 14, 69–71. [CrossRef] [PubMed]
+Nutrients 2015, 7 6899
+78. Newman, A.B.; Kupelian, V .; Visser, M.; Simonsick, E.M.; Goodpaster, B.H.; Kritchevsky, S.B.;
+Tylavsky, F.A.; Rubin, S.M.; Harris, T.B. Strength, but not muscle mass, is associated with mortality
+in the health, aging and body composition study cohort. J. Gerontol. A Biol. Sci. Med. Sci. 2006,
+61, 72–77. [CrossRef] [PubMed]
+79. Nass, R.; Pezzoli, S.S.; Oliveri, M.C.; Patrie, J.T.; Harrell, F.E., Jr.; Clasey, J.L.; Heymsﬁeld, S.B.;
+Bach, M.A.; Vance, M.L.; Thorner, M.O. Effects of an oral ghrelin mimetic on body composition
+and clinical outcomes in healthy older adults: A randomized trial. Ann. Intern. Med. 2008, 149,
+601–611. [CrossRef] [PubMed]
+80. Finger, D.; Goltz, F.R.; Umpierre, D.; Meyer, E.; Rosa, L.H.; Schneider, C.D. Effects of
+protein supplementation in older adults undergoing resistance training: A systematic review and
+meta-analysis. Sports Med. 2015, 45, 245–255. [CrossRef] [PubMed]
+81. Symons, T.B.; Shefﬁeld-Moore, M.; Mamerow, M.M.; Wolfe, R.R.; Paddon-Jones, D. The anabolic
+response to resistance exercise and a protein-rich meal is not diminished by age. J. Nutr. Health
+Aging 2011, 15, 376–381. [CrossRef] [PubMed]
+82. Cesari, M. Perspective: Protein supplementation against sarcopenia and frailty: Future perspectives
+from novel data. J. Am. Med. Dir. Assoc. 2013, 14, 62–63. [CrossRef] [PubMed]
+83. Paddon-Jones, D. Perspective: Exercise and protein supplementation in frail elders. J. Am. Med.
+Dir. Assoc. 2013, 14, 73–74. [CrossRef] [PubMed]
+© 2015 by the authors; licensee MDPI, Basel, Switzerland. This article is an open access article
+distributed under the terms and conditions of the Creative Commons Attribution license
+(http://creativecommons.org/licenses/by/4.0/).

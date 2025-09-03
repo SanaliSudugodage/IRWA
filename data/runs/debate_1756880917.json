@@ -1,0 +1,91 @@
+{
+  "motion": "Universal Basic Income should be implemented",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 2,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Motion: Universal Basic Income should be implemented\nStance: pro\n\nFactual claim: A universal basic income (UBI) can be administratively efficient if it is designed with robust modalities of payment and an effective oversight mechanism.",
+      "argument_citations": [
+        "doc_00001#doc_00001_290"
+      ],
+      "rebuttal": "While proponents of Universal Basic Income (UBI) argue that it can be administratively efficient with robust modalities of payment and an effective oversight mechanism, a cautious assessment suggests that such a policy may not necessarily alleviate existing social welfare issues. In fact, UBI's focus on unconditional payments could exacerbate poverty and inequality if not carefully designed to target those in greatest need. Furthermore, the lack of a clear connection between UBI and other social programs could lead to unintended consequences, such as reduced access to essential services for t\u2026",
+      "rebuttal_citations": [
+        "doc_00001#doc_00001_313",
+        "doc_00003#doc_00003_1",
+        "doc_00001#doc_00001_4",
+        "doc_00001#doc_00001_2",
+        "doc_00001#doc_00001_309"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 3,
+          "fairness": 3,
+          "total": 19
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 1,
+          "fairness": 4,
+          "total": 20
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe implementation of Universal Basic Income (UBI) faces significant administrative constraints, including maintaining a population-wide database to ensure eligible claimants' full take-up and designing an effective oversight mechanism.",
+      "argument_citations": [
+        "doc_00001#doc_00001_290"
+      ],
+      "rebuttal": "The implementation of Universal Basic Income (UBI) may be hindered by administrative constraints such as maintaining a population-wide database to track claimants' eligibility and designing an effective oversight mechanism, which could lead to inefficiencies and increased costs. Furthermore, the scope for financing UBI through revenue-raising measures is limited, with potential sources including taxation on personal income, corporate income, wealth, consumption, and other areas, suggesting that a more nuanced approach may be necessary to achieve administrative efficiency.",
+      "rebuttal_citations": [
+        "doc_00001#doc_00001_290",
+        "doc_00001#doc_00001_4",
+        "doc_00009#doc_00009_3",
+        "doc_00001#doc_00001_2",
+        "doc_00001#doc_00001_313"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 5,
+          "total": 22
+        },
+        "con": {
+          "relevance": 5,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 19
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 1,
+    "con_points": 1,
+    "total_turns": 2
+  },
+  "final_winner": "tie",
+  "final_justification": "The final winner is justified due to the consistent pattern of evidence suggesting that UBI's administrative complexities outweigh its potential benefits. The opposition repeatedly highlights concerns about tracking and managing a large-scale welfare program, which are valid points given the significant resources required for such an initiative. This recurring emphasis underscores the need for careful consideration of the practical challenges associated with implementing UBI."
+}
