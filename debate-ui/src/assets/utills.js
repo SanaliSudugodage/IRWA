@@ -1,3 +1,4 @@
+// Utility functions for text processing in Debate-UI
 export const splitLines = (text) =>
   (text || '')
     .split(/\r?\n/)
