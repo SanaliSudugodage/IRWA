@@ -7,7 +7,7 @@ from dataclasses import dataclass
 from typing import Optional
 import json
 import httpx
-from loguru import logger
+from loguru import logger #librabries
 from dotenv import load_dotenv
 
 load_dotenv()
