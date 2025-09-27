@@ -62,7 +62,7 @@ class LLM:
         return (self.client is not None) and (not self._disabled) and (self.cfg.provider in {"huggingface", "openai", "ollama"})
 
 #Calls Hugging Face Inference API with a single prompt; sets temperature and max tokens. On 401/403/404 it disables further remote calls to avoid repeated failures.
-    # ---------- Hugging Face ----------
+    # Hugging Face 
     def _hf_complete(self, prompt: str, max_tokens: int | None = None) -> str:
         assert isinstance(self.client, httpx.Client), "HF client not initialized"
         payload = {
@@ -94,7 +94,7 @@ class LLM:
         return str(data).strip()
 
 #Calls local Ollama /api/generate in non-stream mode, controlling num_predict and temperature. Returns the plain text from response.
-    # ---------- Ollama (local) ----------
+    #  Ollama (local) 
     def _ollama_complete(self, prompt: str, max_tokens: int | None = None) -> str:
         """Calls Ollama /api/generate (non-stream) with a single prompt string."""
         assert isinstance(self.client, httpx.Client), "Ollama client not initialized"

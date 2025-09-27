@@ -38,7 +38,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Exception handlers (optional)
+
+
+# Exception handlers ()
 try:
     from src.security.errors import (
         validation_exception_handler,
@@ -78,7 +80,7 @@ try:
 except Exception as e:
     logger.warning(f"Skipping IR admin router: {e}")
 
-# ---------- Swagger: Bearer auth everywhere ----------
+#  Swagger: Bearer auth everywhere 
 def custom_openapi():
     if app.openapi_schema:
         return app.openapi_schema
