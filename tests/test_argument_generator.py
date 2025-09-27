@@ -38,4 +38,4 @@ def test_generate_argument_works_without_stance():
     resp = client.post("/agents/argument", json=payload)
     assert resp.status_code == 200, resp.text
     data = resp.json()
-    assert "Position on" in data["thesis"] #########################
+    assert "Position on" in data["thesis"] 
