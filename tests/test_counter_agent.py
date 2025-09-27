@@ -38,4 +38,4 @@ def test_counter_contract_legacy_points_ok():
     data = r.json()
     assert "weaknesses" in data and "rebuttals" in data
     assert len(data["weaknesses"]) == 2
-    assert len(data["rebuttals"]) == 2 #########################
+    assert len(data["rebuttals"]) == 2 
