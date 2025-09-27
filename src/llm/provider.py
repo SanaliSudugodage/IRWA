@@ -22,7 +22,7 @@ class LLMConfig:
     temperature: float = float(os.getenv("LLM_TEMPERATURE", "0.2"))
     max_tokens: int = int(os.getenv("LLM_MAX_TOKENS", "400"))
     # Ollama base URL
-    ollama_base_url: str = os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434")
+    ollama_base_url: str = os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434") ##endpoint
 
 class LLM:
     """
@@ -122,6 +122,8 @@ class LLM:
         text = (data.get("response") or "").strip()
         return text
 
+
+#Unified entry point: formats a simple “system + user” prompt and routes to HF, Ollama, or OpenAI. If all providers fail or are off, falls back to the local summarizer so the app never breaks.
     # Unified public method 
     def complete(self, system: str, user: str, max_tokens: int | None = None) -> str:
         if self.cfg.provider == "huggingface" and isinstance(self.client, httpx.Client) and not self._disabled:
