@@ -30,6 +30,7 @@ from src.security.auth import require_api_key
 from src.security.sanitize import sanitize_text
 
 # Read global IR toggle (safe fallback)
+
 try:
     from src.ir.state import is_ir_enabled
 except Exception:

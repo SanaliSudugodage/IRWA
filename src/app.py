@@ -38,8 +38,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
-
 # Exception handlers ()
 try:
     from src.security.errors import (
