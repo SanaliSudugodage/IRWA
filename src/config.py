@@ -99,3 +99,9 @@ if settings.llm_max_tokens is not None and not os.getenv("LLM_MAX_TOKENS"):
     os.environ["LLM_MAX_TOKENS"] = str(settings.llm_max_tokens)
 if settings.log_level and not os.getenv("LOG_LEVEL"):
     os.environ["LOG_LEVEL"] = settings.log_level
+####
+###
+####
+########
+###########
+############
