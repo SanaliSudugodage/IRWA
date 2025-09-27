@@ -1,4 +1,5 @@
 # src/schemas/debate.py
+#libraries
 from __future__ import annotations
 
 from typing import List, Literal, Optional
@@ -19,7 +20,7 @@ class DebateSettings(BaseModel):
 
 
 class DebateRunRequest(BaseModel):
-    motion: str = Field(..., min_length=4, max_length=500)
+    motion: str = Field(..., min_length=4, max_length=500)   #motion added
     stance: Optional[str] = Field(default=None, description="Optional opener for turn 1: 'pro' or 'con'.")
     settings: DebateSettings = Field(default_factory=DebateSettings)
 
@@ -40,13 +41,13 @@ class TurnScores(BaseModel):
 
 class TurnItem(BaseModel):
     turn_index: int
-    side: Literal["pro", "con"]                 # who opened the turn
+    side: Literal["pro", "con"]  # who opened the turn
     argument_point: str
     argument_citations: List[str] = Field(default_factory=list)
     rebuttal: Optional[str] = None
     rebuttal_citations: List[str] = Field(default_factory=list)
     turn_winner: Optional[Literal["pro", "con", "tie"]] = None
-    turn_scores: Optional[TurnScores] = None    # nicer Swagger than Dict[str, Dict[str,int]]
+    turn_scores: Optional[TurnScores] = None # nicer Swagger than Dict[str, Dict[str,int]]
 
 
 class DebateScoreboard(BaseModel):
