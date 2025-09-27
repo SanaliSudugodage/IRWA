@@ -8,7 +8,7 @@ from typing import Optional
 import json
 import httpx
 from loguru import logger #librabries
-from dotenv import load_dotenv
+from dotenv import load_dotenv #load_det_nev
 
 load_dotenv()
 
