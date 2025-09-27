@@ -26,4 +26,4 @@ def test_judge_schema_and_winner():
     assert "pro_breakdown" in data and "con_breakdown" in data
     assert "winner" in data and data["winner"] in ["pro", "con"]
     for crit in data["pro_breakdown"]:
-        assert 0 <= crit["score"] <= 5 and len(crit["explanation"]) > 0
+        assert 0 <= crit["score"] <= 5 and len(crit["explanation"]) > 0 #########################
