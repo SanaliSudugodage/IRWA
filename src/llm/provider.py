@@ -14,7 +14,6 @@ load_dotenv()
 #Initializes the chosen client: HF via httpx, OpenAI via official SDK, or Ollama via local HTTP
 @dataclass
 class LLMConfig:
-    # "huggingface" | "openai" | "ollama" | "none"
     provider: str = os.getenv("LLM_PROVIDER", "none").strip().lower()  #used LLM
     model: str = os.getenv("LLM_MODEL", "TinyLlama/TinyLlama-1.1B-Chat-v1.0")
     # Keys (used for HF/OpenAI only)
