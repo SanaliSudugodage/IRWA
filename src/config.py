@@ -87,11 +87,12 @@ class Settings(BaseSettings):
 # Create the singleton object
 settings = Settings()
 
+
 # Mirror to os.environ for libs that read raw env vars
 if settings.huggingface_api_token and not os.getenv("HUGGINGFACE_API_TOKEN"):
     os.environ["HUGGINGFACE_API_TOKEN"] = settings.huggingface_api_token
 if settings.openai_api_key and not os.getenv("OPENAI_API_KEY"):
-    os.environ["OPENAI_API_KEY"] = settings.openai_api_key
+    os.environ["OPENAI_API_KEY"] = settings.openai_api_key #added multiple keys 
 if settings.llm_provider and not os.getenv("LLM_PROVIDER"):
     os.environ["LLM_PROVIDER"] = settings.llm_provider
 if settings.llm_model and not os.getenv("LLM_MODEL"):
