@@ -80,6 +80,7 @@ try:
 except Exception as e:
     logger.warning(f"Skipping IR admin router: {e}")
 
+
 #  Swagger: Bearer auth  
 def custom_openapi():
     if app.openapi_schema:
