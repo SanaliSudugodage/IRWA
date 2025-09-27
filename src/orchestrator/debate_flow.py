@@ -13,8 +13,8 @@ import httpx
 from fastapi import APIRouter, Depends, Query
 from loguru import logger
 
-from src.schemas.debate import (
-    DebateRunRequest,
+from src.schemas.debate import ( #imports
+    DebateRunRequest,  
     DebateReport,
     DebateSettings,
     TurnItem,
@@ -22,6 +22,7 @@ from src.schemas.debate import (
     DebateScoreboard,
     ScoreDetail,
 )
+
 from src.schemas.argument import ArgumentPoint, ArgumentResponse
 from src.schemas.counter import CounterRequest, Opponent, OpponentPoint
 from src.schemas.judge import JudgeRequest, SideArgument
