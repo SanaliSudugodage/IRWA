@@ -29,6 +29,7 @@ def _parse_list_from_env(value: Optional[str]) -> List[str]:
     if s.startswith("[") and s.endswith("]"):
         try:
             parsed = json.loads(s)
+
             if isinstance(parsed, list) and all(isinstance(x, str) for x in parsed):
                 return parsed or ["*"]
         except Exception:
@@ -37,7 +38,9 @@ def _parse_list_from_env(value: Optional[str]) -> List[str]:
 
     # Otherwise treat as comma-separated
     parts = [p.strip() for p in s.split(",") if p.strip()]
+
     return parts or ["*"]
+
 
 
 class Settings(BaseSettings):
@@ -45,7 +48,7 @@ class Settings(BaseSettings):
     app_name: str = "AI Debate System"
     app_version: str = "0.1.0"
 
-    # CORS (read raw string; we’ll parse ourselves)
+    # CORS 
     allowed_origins_raw: Optional[str] = Field(
         default="*",
         alias="ALLOWED_ORIGINS",
@@ -81,7 +84,7 @@ class Settings(BaseSettings):
         return _parse_list_from_env(self.allowed_origins_raw)
 
 
-# Create the singleton
+# Create the singleton object
 settings = Settings()
 
 # Mirror to os.environ for libs that read raw env vars
