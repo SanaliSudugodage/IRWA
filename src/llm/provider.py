@@ -15,7 +15,7 @@ load_dotenv()
 @dataclass
 class LLMConfig:
     # "huggingface" | "openai" | "ollama" | "none"
-    provider: str = os.getenv("LLM_PROVIDER", "none").strip().lower()
+    provider: str = os.getenv("LLM_PROVIDER", "none").strip().lower()  #used LLM
     model: str = os.getenv("LLM_MODEL", "TinyLlama/TinyLlama-1.1B-Chat-v1.0")
     # Keys (used for HF/OpenAI only)
     api_key: Optional[str] = os.getenv("HUGGINGFACE_API_TOKEN") or os.getenv("OPENAI_API_KEY")
