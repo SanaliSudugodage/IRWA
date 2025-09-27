@@ -94,7 +94,7 @@ class LLM:
         return str(data).strip()
 
 #Calls local Ollama /api/generate in non-stream mode, controlling num_predict and temperature. Returns the plain text from response.
-    #  Ollama (local) 
+    #Ollama (local) 
     def _ollama_complete(self, prompt: str, max_tokens: int | None = None) -> str:
         """Calls Ollama /api/generate (non-stream) with a single prompt string."""
         assert isinstance(self.client, httpx.Client), "Ollama client not initialized"
