@@ -9,4 +9,3 @@ export function ResultCard({ title, right, children }) {
     </div>
   )
 }
-##################################
