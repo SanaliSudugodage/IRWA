@@ -1,0 +1,1122 @@
+Review began
+ 07/28/2023 
+Review ended
+ 08/04/2023 
+Published
+ 08/05/2023
+© Copyright 
+2023
+Khalaf et al. This is an open access article
+distributed under the terms of the Creative
+Commons Attribution License CC-BY 4.0.,
+which permits unrestricted use, distribution,
+and reproduction in any medium, provided
+the original author and source are credited.
+The Impact of Social Media on the Mental Health
+of Adolescents and Young Adults: A Systematic
+Review
+Abderrahman M. Khalaf 
+ 
+, 
+Abdullah A. Alubied 
+ 
+, 
+Ahmed M. Khalaf 
+ 
+, 
+Abdallah A. Rifaey 
+1.
+ Psychiatry Department, Saudi Commission for Health Specialties, Ministry of Health, Riyadh, SAU 
+2.
+ College of
+Medicine, Imam Mohammad Ibn Saud Islamic University, Riyadh, SAU 
+3.
+ College of Medicine, Almaarefa University,
+Riyadh, SAU
+Corresponding author: 
+Abderrahman M. Khalaf, 
+ar.m.k_speed@hotmail.com
+Abstract
+Adolescents increasingly find it difficult to picture their lives without social media. Practitioners need to be
+able to assess risk, and social media may be a new component to consider. Although there is limited
+empirical evidence to support the claim, the perception of the link between social media and mental health
+is heavily influenced by teenage and professional perspectives. Privacy concerns, cyberbullying, and bad
+effects on schooling and mental health are all risks associated with this population's usage of social media.
+However, ethical social media use can expand opportunities for connection and conversation, as well as
+boost self-esteem, promote health, and gain access to critical medical information. Despite mounting
+evidence of social media's negative effects on adolescent mental health, there is still a scarcity of empirical
+research on how teens comprehend social media, particularly as a body of wisdom, or how they might
+employ wider modern media discourses to express themselves. Youth use cell phones and other forms of
+media in large numbers, resulting in chronic sleep loss, which has a negative influence on cognitive ability,
+school performance, and socio-emotional functioning. According to data from several cross-sectional,
+longitudinal, and empirical research, smartphone and social media use among teenagers relates to an
+increase in mental distress, self-harming behaviors, and suicidality. Clinicians can work with young people
+and their families to reduce the hazards of social media and smartphone usage by using open,
+nonjudgmental, and developmentally appropriate tactics, including education and practical problem-
+solving.
+Categories:
+ Family/General Practice, Psychiatry, Public Health
+Keywords:
+ systematic review, young adults, adolescents, mental health, social media
+Introduction And Background
+Humans are naturally social species that depend on the companionship of others to thrive in life. Thus,
+while being socially linked with others helps alleviate stress, worry, and melancholy, a lack of social
+connection can pose major threats to one's mental health 
+[1]
+. Over the past 10 years, the rapid emergence of
+social networking sites like Facebook, Twitter, Instagram, and others has led to some significant changes in
+how people connect and communicate (Table 
+1
+). Over one billion people are currently active users of
+Facebook, the largest social networking website, and it is anticipated that this number will grow significantly
+over time, especially in developing countries. Facebook is used for both personal and professional
+interaction, and its deployment has had a number of positive effects on connectivity, idea sharing, and
+online learning 
+[2]
+. Furthermore, the number of social media users globally in 2019 was 3.484 billion, a 9%
+increase year on year 
+[3]
+.
+1
+1
+2
+3
+ 
+ Open Access Review
+Article
+ 
+DOI:
+ 10.7759/cureus.42990
+How to cite this article
+Khalaf A M, Alubied A A, Khalaf A M, et al. (August 05, 2023) The Impact of Social Media on the Mental Health of Adolescents and Young Adults: A
+Systematic Review. Cureus 15(8): e42990. 
+DOI 10.7759/cureus.42990
+Social media applications
+Examples
+Social networks
+Facebook, Twitter, Instagram, Snapchat
+Media sharing
+WhatsApp, Instagram, YouTube, Snapchat, TikTok
+Messengers
+Facebook Messenger, WhatsApp, Telegram, Viber, iMessage
+Blogging platforms
+WordPress, Wikipedia
+Discussion forums
+Reddit, Twitter
+Fitness & lifestyle
+Fitbit
+TABLE
+ 1: List of social media applications available on the internet
+Mental health is represented as a state of well-being in which individuals recognize their potential,
+successfully navigate daily challenges, perform effectively at work, and make a substantial difference in the
+lives of others 
+[4]
+. There is currently debate over the benefits and drawbacks of social media on mental
+health 
+[5]
+. Social networking is an important part of safeguarding our mental health. Mental health, health
+behavior, physical health, and mortality risk are all affected by the quantity and quality of social contacts 
+[5]
+.
+Social media use and mental health may be related, and the displaced behavior theory could assist in
+clarifying why. The displaced behavior hypothesis is a psychology theory that suggests people have limited
+self-control and, when confronted with a challenging or stressful situation, may engage in behaviors that
+bring instant gratification but are not in accordance with their long-term objectives 
+[6]
+. In addition, when
+people are unable to deal with stress in a healthy way, they may act out in ways that temporarily make them
+feel better but ultimately harm their long-term goals and wellness 
+[7,8]
+. In the 1990s, social psychologist
+Roy Baumeister initially suggested the displaced behavior theory 
+[9]
+. Baumeister suggested that self-control
+is a limited resource that can be drained over time and that when self-control resources are low, people are
+more likely to engage in impulsive or self-destructive conduct 
+[9]
+. This can lead to a cycle of bad behaviors
+and outcomes, as individuals may engage in behaviors that bring short respite but eventually add to their
+stress and difficulties 
+[9]
+. According to the hypothetical terms, those who participate in sedentary behaviors,
+including social media, engage in fewer opportunities for in-person social interaction, both of which have
+been demonstrated to be protective against mental illnesses 
+[10]
+. Social theories, on the other hand,
+discovered that social media use influences mental health by affecting how people interpret, maintain, and
+interact with their social network 
+[4]
+.
+Numerous studies on social media's effects have been conducted, and it has been proposed that prolonged
+use of social media sites like Facebook may be linked to negative manifestations and symptoms of
+depression, anxiety, and stress 
+[11]
+. A distinct and important time in a person's life is adolescence.
+Additionally, risk factors such as family issues, bullying, and social isolation are readily available at
+this period, and it is crucial to preserve social and emotional growth. The growth of digital technology has
+affected numerous areas of adolescent lives. Nowadays, teenagers' use of social media is one of their most
+apparent characteristics. Being socially connected with other people is a typical phenomenon, whether at
+home, school, or a social gathering, and adolescents are constantly in touch with their classmates via social
+media accounts. Adolescents are drawn to social networking sites because they allow them to publish
+pictures, images, and videos on their platforms. It also allows teens to establish friends, discuss ideas,
+discover new interests, and try out new kinds of self-expression. Users of these platforms can freely like and
+comment on posts as well as share them without any restrictions. Teenagers now frequently post insulting
+remarks on social media platforms. Adolescents frequently engage in trolling for amusement without
+recognizing the potentially harmful consequences. Trolling on these platforms focuses on body shaming,
+individual abilities, language, and lifestyle, among other things. The effects that result from trolling might
+cause anxiety, depressive symptoms, stress, feelings of isolation, and suicidal thoughts. The authors explain
+the influence of social media on teenage well-being through a review of existing literature and provide
+intervention and preventative measures at the individual, family, and community levels 
+[12]
+.
+Review
+Although there is a "generally correlated" link between teen social media use and depression, certain
+outcomes have been inconsistent (such as the association between time spent on social media and mental
+health issues), and the data quality is frequently poor 
+[13]
+. Browsing social media could increase your risk of
+self-harm, loneliness, and empathy loss, according to a number of research studies. Other studies either
+concluded that there is no harm or that some people, such as those who are socially isolated or marginalized,
+may benefit from using social media 
+[10]
+. Because of the rapid expansion of the technological landscape in
+recent years, social media has become increasingly important in the lives of young people. Social
+networking has created both enormous new challenges and interesting new opportunities. Research is
+2023 Khalaf et al. Cureus 15(8): e42990. DOI 10.7759/cureus.42990
+2
+ of 
+10
+beginning to indicate how specific social media interactions may impair young people's mental health 
+[14]
+.
+Teenagers could communicate with one another on social media platforms, as well as produce, like, and
+share content. In most cases, these individuals are categorized as active users. On the other hand, teens can
+also use social media in a passive manner by "lurking" and focusing entirely on the content that is posted by
+others. The difference between active and passive social media usage is sometimes criticized as a false
+dichotomy because it does not necessarily reveal whether a certain activity is goal-oriented or indicative of
+procrastination 
+[15]
+. However, the text provides no justification for why this distinction is wrong 
+[16]
+. For
+instance, one definition of procrastination is engaging in conversation with other people to put off working
+on a task that is more important. The goal of seeing the information created by other people, as opposed to
+participating with those same individuals, may be to keep up with the lives of friends. One of the most
+important distinctions that can be made between the various sorts is whether the usage is social. When it
+comes to understanding and evaluating all these different applications of digital technology, there are a lot
+of obstacles to overcome. Combining all digital acts into a single predictor of pleasure would, from both a
+philosophical and an empirical one, invariably results in a reduction in accuracy 
+[17]
+.
+Methodology
+This systematic review was carried out and reported in accordance with the Preferred Reporting Items for
+Systematic Reviews and Meta-Analyses (PRISMA) statement and standard practices in the field. The purpose
+of this study was to identify studies on the influence of technology, primarily social media, on the
+psychosocial functioning, health, and well-being of adolescents and young adults.
+The MEDLINE bibliographical database, PubMed, Google Scholar, CINAHL (Cumulative Index to Nursing and
+Allied Health Literature), and Scopus were searched between 1 January 2000 and 30 May 2023. Social media
+AND mental health AND adolescents AND young adults were included in the search strategy (impact or
+relation or effect or influence).
+Two researchers (AK and AR) separately conducted a literature search utilizing the search method and
+evaluated the inclusion eligibility of the discovered papers based on their titles and abstracts. Then, the full
+texts of possibly admissible publications were retrieved and evaluated for inclusion. Disagreements among
+the researchers were resolved by debate and consensus.
+The researchers included studies that examined the impact of technology, primarily social media, on the
+psychosocial functioning, health, and well-being of adolescents and young adults. We only considered
+English publications, reviews, longitudinal surveys, and cross-sectional studies. We excluded studies that
+were not written in English, were not comparative, were case reports, did not report the results of interest,
+or did not list the authors' names. We also found additional articles by looking at the reference lists of the
+retrieved articles.
+Using a uniform form, the two researchers (AK and AA) extracted the data individually and independently.
+The extracted data include the author, publication year, study design, sample size and age range, outcome
+measures, and the most important findings or conclusions.
+A narrative synthesis of the findings was used to analyze the data, which required summarizing and
+presenting the results of the included research in a logical and intelligible manner. Each study's key findings
+or conclusions were summarized in a table.
+Results
+Study Selection
+A thorough search of electronic databases, including PubMed, Embase, and Cochrane Library, was done from
+1 January 2000 to 20 May 2023. Initial research revealed 326 potentially relevant studies. After deleting
+duplicates and screening titles and abstracts, the eligibility of 34 full-text publications was evaluated. A
+total of 23 papers were removed for a variety of reasons, including non-comparative studies, case reports,
+and studies that did not report results of interest (Figure 
+1
+).
+2023 Khalaf et al. Cureus 15(8): e42990. DOI 10.7759/cureus.42990
+3
+ of 
+10
+FIGURE
+ 1: The PRISMA figure showing the steps to choose the studies
+for systematic review
+PRISMA: Preferred Reporting Items for Systematic Reviews and Meta-Analyses.
+This systematic review identified 11 studies that examined the connection between social media use and
+depression symptoms in children and adolescents. The research demonstrated a modest but statistically
+significant association between social media use and depression symptoms. However, this relationship's
+causality is unclear, and additional study is required to construct explanatory models and hypotheses for
+inferential studies 
+[18]
+.
+Additional research studied the effects of technology on the psychosocial functioning, health, and well-
+being of adolescents and young adults. Higher levels of social media usage were connected with worse
+mental health outcomes 
+[19]
+, and higher levels of social media use were associated with an increased risk of
+internalizing and externalizing difficulties among adolescents, especially females 
+[20]
+. The use of social
+media was also connected with body image problems and disordered eating, especially among young women
+[21]
+, and social media may be a risk factor for alcohol consumption and associated consequences among
+adolescents and young adults 
+[22]
+.
+It was discovered that cyberbullying victimization is connected with poorer mental health outcomes in
+teenagers, including an increased risk of sadness and anxiety 
+[23]
+. The use of social media was also
+connected with more depressive symptoms and excessive reassurance-seeking, but also with greater
+popularity and perceived social support 
+[24]
+, as well as appearance comparisons and body image worries,
+especially among young women 
+[25]
+. Children and adolescents' bedtime media device use was substantially
+related to inadequate sleep quantity, poor sleep quality, and excessive daytime drowsiness 
+[26]
+.
+Online friends can be a significant source of social support, but in-person social support appears to provide
+greater protection against persecution 
+[27]
+. Digital and social media use offers both benefits and risks to the
+health of children and adolescents, and an individualized family media use plan can help strike a balance
+between screen time/online time and other activities, set boundaries for accessing content, promote digital
+literacy, and support open family communication and consistent media use rules (Tables 
+2
+, 
+3
+) 
+[28]
+.
+2023 Khalaf et al. Cureus 15(8): e42990. DOI 10.7759/cureus.42990
+4
+ of 
+10
+Authors
+Year
+Study design
+Sample size and age range
+Outcome measures
+McCrae et al.
+[18]
+2017
+Systematic
+review
+11 empirical studies examining the relationship between social
+media use and depressive symptoms in children and adolescents
+Correlation between social media use and depressive symptoms, with limited consensus on phenomena for
+investigation and causality
+Przybylski et al.
+[19]
+2020
+Cross-sectional
+National Survey of Children’s Health (NSCH): 50,212 primary
+caregivers
+Psychosocial functioning and digital engagement, including a modified version of the Strengths and Difficulties
+Questionnaire and caregiver estimates of daily television- and device-based engagement
+Riehm et al. 
+[20]
+2019
+Longitudinal
+cohort study
+Population Assessment of Tobacco and Health study: 6,595
+adolescents aged 12-15 years
+Internalizing and externalizing problems assessed via household interviews using audio computer-assisted self-
+interviewing
+Holland and
+Tiggemann et
+al. 
+[21]
+2016
+Systematic
+review
+20 peer-reviewed articles on social networking sites use
+and body image and eating disorders
+Body image and disordered eating
+Moreno et al.
+[22]
+2016
+Review
+Studies focused on the intersection of alcohol content and social
+media
+Alcohol behaviors and harms associated with alcohol use
+Fisher et al. 
+[23]
+2016
+Systematic
+review and meta-
+analysis
+239 effect sizes from 55 reports, representing responses from
+257,678 adolescents
+Peer cybervictimization and internalizing and externalizing problems
+Nesi and
+Prinstein 
+[24]
+2015
+Longitudinal
+619 adolescents aged 14.6 years
+Depressive symptoms, frequency of technology use (cell phones, Facebook, and Instagram), excessive reassurance-
+seeking, technology-based social comparison, and feedback-seeking, and sociometric nominations of popularity
+Fardouly and
+Vartanian 
+[25]
+2016
+Review
+Correlational and experimental studies on social media usage
+and body image concerns among young women and men
+Body image concerns and appearance comparisons
+Carter et al. 
+[26]
+2016
+Systematic
+review and meta-
+analysis
+20 cross-sectional studies involving 125,198 children aged 6-19
+years
+Bedtime media device use and inadequate sleep quantity, poor sleep quality, and excessive daytime sleepiness
+Ybarra et al.
+[27]
+2015
+Cross-sectional
+5,542 US adolescents aged 14-19 years
+Online and in-person peer victimization and sexual victimization, and the role of social support from online and in-
+person friends
+Chassiakos et
+al. 
+[28]
+2016
+Systematic
+review
+Empirical research on traditional and digital media use and
+health outcomes in children and adolescents
+Opportunities and risks of digital and social media use, including effects on sleep, attention, learning, obesity,
+depression, exposure to unsafe content and contacts, and privacy
+TABLE
+ 2: Studies on the impact of technology on adolescents and young adults' psychosocial
+functioning, health, and well-being
+2023 Khalaf et al. Cureus 15(8): e42990. DOI 10.7759/cureus.42990
+5
+ of 
+10
+Authors
+Main results or conclusions
+McCrae et
+al. 
+[18]
+There is a small but statistically significant correlation between social media use and depressive symptoms in young people, but causality is not clear and further research is needed to develop explanatory models and
+hypotheses for inferential studies. Qualitative methods can also play an important role in understanding the mental health impact of internet use from young people's perspectives.
+Przybylski et
+al. 
+[19]
+Higher levels of social media use were associated with poorer mental health outcomes, but this relationship was small and may be due to other factors.
+Riehm et al.
+[20]
+Greater social media use was associated with an increased risk of internalizing and externalizing problems among adolescents, particularly among females.
+Holland and
+Tiggemann
+et al. 
+[21]
+Social media use is associated with body image concerns and disordered eating, particularly among young women.
+Moreno et
+al. 
+[22]
+Social media may be a risk factor for alcohol use and associated harms among adolescents and young adults.
+Fisher et al.
+[23]
+Cyberbullying victimization is associated with poorer mental health outcomes among adolescents, including increased risk of depression and anxiety.
+Nesi and
+Prinstein
+[24]
+Social media use is associated with greater depressive symptoms and excessive reassurance-seeking, but also with greater popularity and perceived social support.
+Fardouly
+and
+Vartanian
+[25]
+Social media use is associated with appearance comparisons and body image concerns, particularly among young women.
+Carter et al.
+[26]
+Bedtime media device use is strongly associated with inadequate sleep quantity, poor sleep quality, and excessive daytime sleepiness in children and adolescents. An integrated approach involving teachers, healthcare
+providers, and parents is needed to minimize device access and use at bedtime.
+Ybarra et al.
+[27]
+Online friends can be an important source of social support, but in-person social support appears to be more protective against victimization. Online social support did not reduce the odds of any type of victimization
+assessed.
+Chassiakos
+et al. 
+[28]
+Digital and social media use offers both benefits and risks to the health of children and teenagers. A healthy family media use plan that is individualized for a specific child, teenager, or family can identify an appropriate
+balance between screen time/online time and other activities, set boundaries for accessing content, guide displays of personal information, encourage age-appropriate critical thinking and digital literacy, and support open
+family communication and implementation of consistent rules about media use.
+TABLE
+ 3: Main results or conclusions of studies on the impact of social media on adolescents
+and young adults' mental health, substance use, peer victimization, and technology-based
+behaviors
+Discussion
+Does Social Media Have a Positive or Negative Impact on Adolescents and Young Adults?
+Adults frequently blame the media for the problems that younger generations face, conceptually bundling
+different behaviors and patterns of use under a single term when it comes to using media to increase
+acceptance or a feeling of community 
+[29,30]
+. The effects of social media on mental health are complex, as
+different goals are served by different behaviors and different outcomes are produced by distinct patterns of
+use 
+[31]
+. The numerous ways that people use digital technology are often disregarded by policymakers and
+the general public, as they are seen as "generic activities" that do not have any specific impact 
+[32]
+. Given
+this, it is crucial to acknowledge the complex nature of the effects that digital technology has on
+adolescents' mental health 
+[19]
+. This empirical uncertainty is made worse by the fact that there are not many
+documented metrics of how technology is used. Self-reports are the most commonly used method for
+measuring technology use, but they can be prone to inaccuracy. This is because self-reports are based on
+people's own perceptions of their behavior, and these perceptions can be inaccurate 
+[33]
+. At best, there is
+simply a weak correlation between self-reported smartphone usage patterns and levels that have been
+objectively verified 
+[34,35]
+.
+When all different kinds of technological use are lumped together into a single behavioral category, not only
+does the measurement of that category contribute to a loss of precision, but the category also contributes to
+a loss of precision. To obtain precision, we need to investigate the repercussions of a wide variety of
+applications, ideally guided by the findings of scientific research 
+[36]
+. The findings of this research have
+2023 Khalaf et al. Cureus 15(8): e42990. DOI 10.7759/cureus.42990
+6
+ of 
+10
+frequently been difficult to interpret, with many of them suggesting that using social media may have a
+somewhat negative but significantly damaging impact on one's mental health 
+[36]
+. There is a growing corpus
+of research that is attempting to provide a more in-depth understanding of the elements that influence the
+development of mental health, social interaction, and emotional growth in adolescents 
+[20]
+.
+It is challenging to provide a succinct explanation of the effects that social media has on young people
+because it makes use of a range of different digital approaches 
+[37,38]
+. To utilize and respond to social media
+in either an adaptive or maladaptive manner, it is crucial to first have a solid understanding of personal
+qualities that some children may be more likely to exhibit than others 
+[39]
+. In addition to this, the specific
+behaviors or experiences on social media that put teenagers in danger need to be recognized.
+When a previous study particularly questioned teenagers in the United States, the authors found that 31% of
+them believe the consequences are predominantly good, 45% believe they are neither positive nor harmful,
+and 24% believe they are unfavorable 
+[21]
+. Teens who considered social media beneficial reported that they
+were able to interact with friends, learn new things, and meet individuals who shared similar interests
+because of it. Social media is said to enhance the possibility of (i) bullying, (ii) ignoring face-to-face contact,
+and (iii) obtaining incorrect beliefs about the lives of other people, according to those who believe the
+ramifications are serious 
+[21]
+. In addition, there is the possibility of avoiding depression and suicide by
+recognizing the warning signs and making use of the information 
+[40]
+. A common topic that comes up in this
+area of research is the connection that should be made between traditional risks and those that can be
+encountered online. The concept that the digital age and its effects are too sophisticated, rapidly shifting, or
+nuanced for us to fully comprehend or properly shepherd young people through is being questioned, which
+challenges the traditional narrative that is sent to parents 
+[41]
+. The last thing that needs to be looked at is
+potential mediators of the link between social factors and teenage depression and suicidality (for example,
+gender, age, and the participation of parents) 
+[22]
+.
+The Dangers That Come With Young Adults Utilizing Social Media
+The experiences that adolescents have with their peers have a substantial impact on the onset and
+maintenance of psychopathology in those teenagers. Peer relationships in the world of social media can be
+more frequent, intense, and rapid than in real life 
+[42]
+. Previous research 
+[22]
+ has identified a few distinct
+types of peer interactions that can take place online as potential risk factors for mental health. Being the
+target of cyberbullying, also known as cyber victimization, has been shown to relate to greater rates of self-
+inflicted damage, suicidal ideation, and a variety of other internalizing and externalizing issues 
+[43]
+.
+Additionally, young people may be put in danger by the peer pressure that can be found on social
+networking platforms 
+[44]
+. This can take the form of being rejected by peers, engaging in online fights, or
+being involved in drama or conflict 
+[45]
+. Peer influence processes may also be amplified among teenagers
+who spend time online, where they have access to a wider diversity of their peers as well as content that
+could be damaging to them 
+[46]
+. If young people are exposed to information on social media that depicts
+risky behavior, their likelihood of engaging in such behavior themselves (such as drinking or using other
+drugs) may increase 
+[22]
+. It may be simple to gain access to online materials that deal with self-harm and
+suicide, which may result in an increase in the risk of self-harm among adolescents who are already at risk
+[22]
+. A recent study found that 14.8% of young people who were admitted to mental hospitals because they
+posed a risk to others or themselves had viewed internet sites that encouraged suicide in the two weeks
+leading up to their admission 
+[24]
+. The research was conducted on young people who were referred to mental
+hospitals because they constituted a risk to others or themselves 
+[24]
+. They prefer to publish pictures of
+themselves on social networking sites, which results in a steady flow of messages and pictures that are often
+and painstakingly modified to present people in a favorable light 
+[24]
+. This influences certain young
+individuals, leading them to begin making unfavorable comparisons between themselves and others,
+whether about their achievements, their abilities, or their appearance 
+[47,48]
+.
+There is a correlation between higher levels of social networking in comparison and depressed symptoms in
+adolescents, according to studies 
+[25]
+. When determining how the use of technology impacts the mental
+health of adolescents, it is essential to consider the issue of displacement. This refers to the question of
+what other important activities are being replaced by time spent on social media 
+[49]
+. It is a well-established
+fact that the circadian rhythms of children and adolescents have a substantial bearing on both their physical
+and mental development.
+However, past studies have shown a consistent connection between using a mobile device before bed and
+poorer sleep quality results 
+[50]
+. These results include shorter sleep lengths, decreased sleep quality, and
+daytime tiredness 
+[50]
+. Notably, 36% of adolescents claim they wake up at least once over the course of the
+night to check their electronic devices, and 40% of adolescents say they use a mobile device within five
+minutes of going to bed 
+[25]
+. Because of this, the impact of social media on the quality of sleep continues to
+be a substantial risk factor for subsequent mental health disorders in young people, making it an essential
+topic for the continuation of research in this area 
+[44]
+.
+Most studies that have been conducted to investigate the link between using social media and experiencing
+depression symptoms have concentrated on how frequently and problematically people use social media 
+[4]
+.
+2023 Khalaf et al. Cureus 15(8): e42990. DOI 10.7759/cureus.42990
+7
+ of 
+10
+Most of the research that was taken into consideration for this study found a positive and reciprocal link
+between the use of social media and feelings of depression and, on occasion, suicidal ideation 
+[51,52]
+.
+Additionally, it is unknown to what extent the vulnerability of teenagers and the characteristics of
+substance use affect this connection 
+[52]
+. It is also unknown whether other aspects of the environment, such
+as differences in cultural norms or the advice and support provided by parents, have any bearing on this
+connection 
+[25]
+. Even if it is probable that moderate use relates to improved self-regulation, it is not
+apparent whether this is the result of intermediate users having naturally greater self-regulation 
+[25]
+.
+Gains From Social Media
+Even though most of the debate on young people and new media has centered on potential issues, the
+unique features of the social media ecosystem have made it feasible to support adolescent mental health in
+more ways than ever before 
+[39]
+. Among other benefits, using social media may present opportunities for
+humor and entertainment, identity formation, and creative expression 
+[53]
+. More mobile devices than ever
+before are in the hands of teenagers, and they are using social media at never-before-seen levels 
+[27]
+. This
+may not come as a surprise given how strongly young people are drawn to digital devices and the affordances
+they offer, as well as their heightened craving for novelty, social acceptance, and affinity 
+[27]
+. Teenagers are
+interacting with digital technology for longer periods of time, so it is critical to comprehend the effects of
+this usage and use new technologies to promote teens' mental health and well-being rather than hurt it 
+[53]
+.
+Considering the ongoing public discussion, we should instead emphasize that digital technology is neither
+good nor bad in and of itself 
+[27]
+.
+One of the most well-known benefits of social media is social connection; 81% of students say it boosts their
+sense of connectedness to others. Connecting with friends and family is usually cited by teenagers as the
+main benefit of social media, and prior research typically supports the notion that doing so improves
+people's well-being. Social media can be used to increase acceptance or a feeling of community by providing
+adolescents with opportunities to connect with others who share their interests, beliefs, and
+experiences 
+[29]
+. Digital media has the potential to improve adolescent mental health in a variety of ways,
+including cutting-edge applications in medical screening, treatment, and prevention 
+[28]
+. In terms of
+screening, past research has suggested that perusing social media pages for signs of melancholy or drug
+abuse may be viable. More advanced machine-learning approaches have been created to identify mental
+disease signs on social media, such as depression, post-traumatic stress disorder, and suicidality. Self-report
+measures are used in most studies currently conducted on adolescent media intake. It is impossible to draw
+firm conclusions on whether media use precedes and predicts negative effects on mental health because
+research has only been conducted once. Adults frequently blame the media for the problems that younger
+generations face 
+[30]
+. Because they are cyclical, media panics should not just be attributed to the novel and
+the unknown. Teenagers' time management, worldview, and social interactions have quickly and
+dramatically changed as a result of technology. Social media offers a previously unheard-of opportunity to
+spread awareness of mental health difficulties, and social media-based health promotion programs have
+been tested for a range of cognitive and behavioral health conditions. Thanks to social media's instant
+accessibility, extensive possibilities, and ability to reach remote areas, young people with mental health
+issues have exciting therapy options 
+[54]
+. Preliminary data indicate that youth-focused mental health
+mobile applications are acceptable, but further research is needed to assess their usefulness and
+effectiveness. Youth now face new opportunities and problems as a result of the growing significance of
+digital media in their life. An expanding corpus of research suggests that teenagers' use of social media may
+have an impact on their mental health. But more research is needed 
+[18]
+ considering how swiftly the digital
+media landscape is changing.
+Conclusions
+In the digital era, people efficiently employ technology; it does not "happen" to them. Studies show that the
+average kid will not be harmed by using digital technology, but that does not mean there are no situations
+where it could. In this study, we discovered a connection between social media use and adolescent
+depression. Since cross-sectional research represents the majority, longitudinal studies are required. The
+social and personal life of young people is heavily influenced by social media. Based on incomplete and
+contradictory knowledge on young people and digital technology, professional organizations provide
+guidance to parents, educators, and institutions. If new technologies are necessary to promote social
+interaction or develop digital and relational (digitally mediated) skills for growing economies, policies
+restricting teen access to them may be ineffective. The research on the impact of social media on mental
+health is still in its early stages, and more research is needed before we can make definitive
+recommendations for parents, educators, or institutions. Reaching young people during times of need and
+when assistance is required is crucial for their health. The availability of various friendships and services
+may improve the well-being of teenagers.
+Additional Information
+Disclosures
+Conflicts of interest:
+ In compliance with the ICMJE uniform disclosure form, all authors declare the
+following: 
+Payment/services info:
+ All authors have declared that no financial support was received from
+2023 Khalaf et al. Cureus 15(8): e42990. DOI 10.7759/cureus.42990
+8
+ of 
+10
+any organization for the submitted work. 
+Financial relationships:
+ All authors have declared that they have
+no financial relationships at present or within the previous three years with any organizations that might
+have an interest in the submitted work. 
+Other relationships:
+ All authors have declared that there are no
+other relationships or activities that could appear to have influenced the submitted work.
+References
+1
+. 
+Mohamad M, Juahir H, Ali NAM, Kamarudin MKA, Karim F, Badarilah N: 
+Developing health status index
+using factor analysis
+. J Fundam Appl Sci. 2018, 9:82. 
+10.4314/jfas.v9i2s.6
+2
+. 
+Pantic I: 
+Online social networking and mental health
+. Cyberpsychol Behav Soc Netw. 2014, 17:652-7.
+10.1089/cyber.2014.0070
+3
+. 
+Kim HH: 
+The impact of online social networking on adolescent psychological well-being (WB): a population-
+level analysis of Korean school-aged children
+. Int J Adolesc Youth. 2017, 22:364-76.
+10.1080/02673843.2016.1197135
+4
+. 
+Karim F, Oyewande AA, Abdalla LF, Chaudhry Ehsanullah R, Khan S: 
+Social media use and its connection to
+mental health: a systematic review
+. Cureus. 2020, 12:e8627. 
+10.7759/cureus.8627
+5
+. 
+Martinsen EW: 
+Physical activity in the prevention and treatment of anxiety and depression
+. Nord J
+Psychiatry. 2008, 62:25-9. 
+10.1080/08039480802315640
+6
+. 
+Duckworth AL, Gendler TS, Gross JJ: 
+Situational strategies for self-control
+. Perspect Psychol Sci. 2016,
+11:35-55. 
+10.1177/1745691615623247
+7
+. 
+Edú-Valsania S, Laguía A, Moriano JA: 
+Burnout: a review of theory and measurement
+. Int J Environ Res
+Public Health. 2022, 19:1780. 
+10.3390/ijerph19031780
+8
+. 
+McEwen BS: 
+Neurobiological and systemic effects of chronic stress
+. Chronic Stress (Thousand Oaks). 2017,
+1:
+10.1177/2470547017692328
+9
+. 
+Baumeister RF, Bratslavsky E, Muraven M, Tice DM: 
+Ego depletion: is the active self a limited resource?
+. J
+Pers Soc Psychol. 1998, 74:1252-65. 
+10.1037/0022-3514.74.5.1252
+10
+. 
+Berryman C, Ferguson CJ, Negy C: 
+Social media use and mental health among young adults
+. Psychiatr Q.
+2018, 89:307-14. 
+10.1007/s11126-017-9535-6
+11
+. 
+O'Reilly M, Dogra N, Whiteman N, Hughes J, Eruyar S, Reilly P: 
+Is social media bad for mental health and
+wellbeing? Exploring the perspectives of adolescents
+. Clin Child Psychol Psychiatry. 2018, 23:601-13.
+10.1177/1359104518775154
+12
+. 
+Ulvi O, Karamehic-Muratovic A, Baghbanzadeh M, Bashir A, Smith J, Haque U: 
+Social media use and mental
+health: a global analysis
+. Epidemiologia (Basel). 2022, 3:11-25. 
+10.3390/epidemiologia3010002
+13
+. 
+Kraut R, Patterson M, Lundmark V, Kiesler S, Mukophadhyay T, Scherlis W: 
+Internet paradox: a social
+technology that reduces social involvement and psychological well-being?
+. Am Psychol. 1998, 53:1017-31.
+10.1037/0003-066X.53.9.1017
+14
+. 
+Nesi J: 
+The impact of social media on youth mental health: challenges and opportunities
+. N C Med J. 2020,
+81:116-21. 
+10.18043/ncm.81.2.116
+15
+. 
+Meier A, Reinecke L, Meltzer CE: 
+“Facebocrastination”? Predictors of using Facebook for procrastination
+and its effects on students’ well-being
+. Comput Human Behav. 2016, 64:65-76. 
+10.1016/j.chb.2016.06.011
+16
+. 
+Corkin DM, Yu SL, Lindt SF: 
+Comparing active delay and procrastination from a self-regulated learning
+perspective
+. Learn Individ Differ. 2011, 21:602-6. 
+10.1016/j.lindif.2011.07.005
+17
+. 
+Clark JL, Algoe SB, Green MC: 
+Social network sites and well-being: the role of social connection
+. Curr Dir
+Psychol Sci. 2018, 27:32-7. 
+10.1177/0963721417730833
+18
+. 
+McCrae N, Gettings S, Purssell E: 
+Social media and depressive symptoms in childhood and adolescence: a
+systematic review
+. Adolesc Res Rev. 2017, 2:315-30. 
+10.1007/s40894-017-0053-4
+19
+. 
+Przybylski AK, Orben A, Weinstein N: 
+How much is too much? Examining the relationship between digital
+screen engagement and psychosocial functioning in a confirmatory cohort study
+. J Am Acad Child Adolesc
+Psychiatry. 2020, 59:1080-8. 
+10.1016/j.jaac.2019.06.017
+20
+. 
+Riehm KE, Feder KA, Tormohlen KN, et al.: 
+Associations between time spent using social media and
+internalizing and externalizing problems among us youth
+. JAMA Psychiatry. 2019, 76:1266-73.
+10.1001/jamapsychiatry.2019.2325
+21
+. 
+Holland G, Tiggemann M: 
+A systematic review of the impact of the use of social networking sites on body
+image and disordered eating outcomes
+. Body Image. 2016, 17:100-10. 
+10.1016/j.bodyim.2016.02.008
+22
+. 
+Moreno MA, D’Angelo J, Whitehill J: 
+Social media and alcohol: summary of research, intervention ideas and
+future study directions
+. Media Commun. 2016, 4:50-9. 
+10.17645/mac.v4i3.529
+23
+. 
+Fisher BW, Gardella JH, Teurbe-Tolon AR: 
+Peer cybervictimization among adolescents and the associated
+internalizing and externalizing problems: a meta-analysis
+. J Youth Adolesc. 2016, 45:1727-43.
+10.1007/s10964-016-0541-z
+24
+. 
+Nesi J, Prinstein MJ: 
+Using social media for social comparison and feedback-seeking: gender and popularity
+moderate associations with depressive symptoms
+. J Abnorm Child Psychol. 2015, 43:1427-38.
+10.1007/s10802-015-0020-0
+25
+. 
+Fardouly J, Vartanian LR: 
+Social media and body image concerns: current research and future directions
+.
+Curr Opin Psychol. 2016, 9:1-5. 
+10.1016/j.copsyc.2015.09.005
+26
+. 
+Carter B, Rees P, Hale L, Bhattacharjee D, Paradkar MS: 
+Association between portable screen-based media
+device access or use and sleep outcomes: a systematic review and meta-analysis
+. JAMA Pediatr. 2016,
+170:1202-8. 
+10.1001/jamapediatrics.2016.2341
+27
+. 
+Ybarra ML, Mitchell KJ, Palmer NA, Reisner SL: 
+Online social support as a buffer against online and offline
+peer and sexual victimization among U.S. LGBT and non-LGBT youth
+. Child Abuse Negl. 2015, 39:123-36.
+10.1016/j.chiabu.2014.08.006
+28
+. 
+Reid Chassiakos YL, Radesky J, Christakis D, Moreno MA, Cross C: 
+Children and adolescents and digital
+media
+. Pediatrics. 2016, 138:e20162593. 
+10.1542/peds.2016-2593
+29
+. 
+Nesi J, Wolff JC, Hunt J: 
+Patterns of social media use among adolescents who are psychiatrically
+hospitalized
+. J Am Acad Child Adolesc Psychiatry. 2019, 58:635-9.e1. 
+10.1016/j.jaac.2019.03.009
+2023 Khalaf et al. Cureus 15(8): e42990. DOI 10.7759/cureus.42990
+9
+ of 
+10
+30
+. 
+Lyubomirsky S, Sheldon KM, Schkade D: 
+Pursuing happiness: the architecture of sustainable change
+. Rev
+Gen Psychol. 2005, 9:111-31. 
+10.1037/1089-2680.9.2.111
+31
+. 
+Baddeley M: 
+Herding, social influence and economic decision-making: socio-psychological and
+neuroscientific analyses
+. Philos Trans R Soc Lond B Biol Sci. 2010, 365:281-90. 
+10.1098/rstb.2009.0169
+32
+. 
+Palaiologou I: 
+Children under five and digital technologies: implications for early years pedagogy
+. Eur Early
+Child Educ Res J. 2016, 24:5-24. 
+10.1080/1350293X.2014.929876
+33
+. 
+Boase J, Ling R: 
+Measuring mobile phone use: self-report versus log data
+. J Comput Commun. 2013, 18:508-
+19. 
+10.1111/jcc4.12021
+34
+. 
+Ellis DA, Davidson BI, Shaw H, Geyer K: 
+Do smartphone usage scales predict behavior?
+. Int J Hum Comput
+Stud. 2019, 130:86-92. 
+10.1016/j.ijhcs.2019.05.004
+35
+. 
+Coyne P, Voth J, Woodruff SJ: 
+A comparison of self-report and objective measurements of smartphone and
+social media usage
+. Telemat Inform Rep. 2023, 10:100061. 
+10.1016/j.teler.2023.100061
+36
+. 
+Scharkow M: 
+The accuracy of self-reported internet use—a validation study using client log data
+. Commun
+Methods Meas. 2016, 10:13-27. 
+10.1080/19312458.2015.1118446
+37
+. 
+Dienlin T, Johannes N: 
+The impact of digital technology use on adolescent well-being
+. Dialogues Clin
+Neurosci. 2020, 22:135-42. 
+10.31887/DCNS.2020.22.2/tdienlin
+38
+. 
+Abi-Jaoude E, Naylor KT, Pignatiello A: 
+Smartphones, social media use and youth mental health
+. CMAJ.
+2020, 192:E136-41. 
+10.1503/cmaj.190434
+39
+. 
+Gupta C, Jogdand DS, Kumar M: 
+Reviewing the impact of social media on the mental health of adolescents
+and young adults
+. Cureus. 2022, 14:e30143. 
+10.7759/cureus.30143
+40
+. 
+Ng CW, How CH, Ng YP: 
+Depression in primary care: assessing suicide risk
+. Singapore Med J. 2017, 58:72-7.
+10.11622/smedj.2017006
+41
+. 
+Bohnert M, Gracia P: 
+Emerging digital generations? Impacts of child digital use on mental and
+socioemotional well-being across two cohorts in Ireland, 2007-2018
+. Child Indic Res. 2021, 14:629-59.
+10.1007/s12187-020-09767-z
+42
+. 
+Nesi J, Choukas-Bradley S, Prinstein MJ: 
+Transformation of adolescent peer relations in the social media
+context: part 1—a theoretical framework and application to dyadic peer relationships
+. Clin Child Fam
+Psychol Rev. 2018, 21:267-94. 
+10.1007/s10567-018-0261-x
+43
+. 
+Maurya C, Muhammad T, Dhillon P, Maurya P: 
+The effects of cyberbullying victimization on depression and
+suicidal ideation among adolescents and young adults: a three year cohort study from India
+. BMC
+Psychiatry. 2022, 22:599. 
+10.1186/s12888-022-04238-x
+44
+. 
+Bozzola E, Spina G, Agostiniani R, et al.: 
+The use of social media in children and adolescents: scoping review
+on the potential risks
+. Int J Environ Res Public Health. 2022, 19:9960. 
+10.3390/ijerph19169960
+45
+. 
+Nesi J, Choukas-Bradley S, Prinstein MJ: 
+Transformation of adolescent peer relations in the social media
+context: part 2—application to peer group processes and future directions for research
+. Clin Child Fam
+Psychol Rev. 2018, 21:295-319. 
+10.1007/s10567-018-0262-9
+46
+. 
+Ciranka S, van den Bos W: 
+Social influence in adolescent decision-making: a formal framework
+. Front
+Psychol. 2019, 10:1915. 
+10.3389/fpsyg.2019.01915
+47
+. 
+Pedalino F, Camerini AL: 
+Instagram use and body dissatisfaction: the mediating role of upward social
+comparison with peers and influencers among young females
+. Int J Environ Res Public Health. 2022,
+19:1543. 
+10.3390/ijerph19031543
+48
+. 
+Jiotsa B, Naccache B, Duval M, Rocher B, Grall-Bronnec M: 
+Social media use and body image disorders:
+association between frequency of comparing one’s own physical appearance to that of people being
+followed on social media and body dissatisfaction and drive for thinness
+. Int J Environ Res Public Health.
+2021, 18:2880. 
+10.3390/ijerph18062880
+49
+. 
+Winstone L, Mars B, Haworth CM, Kidger J: 
+Social media use and social connectedness among adolescents
+in the United Kingdom: a qualitative exploration of displacement and stimulation
+. BMC Public Health. 2021,
+21:1736. 
+10.1186/s12889-021-11802-9
+50
+. 
+Alshobaili FA, AlYousefi NA: 
+The effect of smartphone usage at bedtime on sleep quality among Saudi non-
+medical staff at King Saud University Medical City
+. J Family Med Prim Care. 2019, 8:1953-7.
+10.4103/jfmpc.jfmpc_269_19
+51
+. 
+Srivastava K, Chaudhury S, Prakash J, Dhamija S: 
+Social media and mental health challenges
+. Ind Psychiatry
+J. 2019, 28:155-9. 
+10.4103/ipj.ipj_154_20
+52
+. 
+Vidal C, Lhaksampa T, Miller L, Platt R: 
+Social media use and depression in adolescents: a scoping review
+.
+Int Rev Psychiatry. 2020, 32:235-53. 
+10.1080/09540261.2020.1720623
+53
+. 
+Ge J: 
+Social media-based visual humour use in tourism marketing: a semiotic perspective
+. Eur J Humour Res.
+2019, 7:6-25. 
+10.7592/EJHR2019.7.3.ge
+54
+. 
+Trepte S, Dienlin T, Reinecke L: 
+Influence of social support received in online and offline contexts on
+satisfaction with social support and satisfaction with life: a longitudinal study
+. Media Psychol. 2015, 18:74-
+105. 
+10.1080/15213269.2013.838904
+2023 Khalaf et al. Cureus 15(8): e42990. DOI 10.7759/cureus.42990
+10
+ of 
+10

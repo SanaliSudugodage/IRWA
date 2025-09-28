@@ -1,0 +1,91 @@
+{
+  "motion": "Cricket is thefamous sport in the world",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 2,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nCricket is not mentioned as one of the sports or activities discussed in the passage, which highlights various forms of physical and mental exercises, including archery, cycling, dancing, golf, running, shooting, diving, weightlifting, and many more.",
+      "argument_citations": [
+        "doc_00006#doc_00006_1"
+      ],
+      "rebuttal": "While it's true that cricket isn't explicitly mentioned in the passage, one could argue that the absence of cricket doesn't necessarily mean it's not relevant to the discussion on physical and mental exercises. In fact, the emphasis on early introduction of sports into our lives through education suggests that cricket, as a popular sport with a long history of being taught in schools, might be an oversight waiting to be addressed.",
+      "rebuttal_citations": [
+        "doc_00006#doc_00006_5",
+        "doc_00005#doc_00005_5",
+        "doc_00000#doc_00000_5",
+        "doc_00006#doc_00006_2",
+        "doc_00005#doc_00005_2"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 15
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe global significance of sports is evident in the widespread participation and interest in various sporting events, with athletes and fans from around the world competing and attending tournaments annually.",
+      "argument_citations": [
+        "doc_00006#doc_00006_1"
+      ],
+      "rebuttal": "While it's undeniable that sports have global significance and widespread participation, one might cautiously suggest that this emphasis on sports in education may inadvertently overshadow other essential aspects of learning, potentially leading to a neglect of academic rigor and a disproportionate allocation of resources.",
+      "rebuttal_citations": [
+        "doc_00006#doc_00006_5",
+        "doc_00005#doc_00005_5",
+        "doc_00000#doc_00000_5",
+        "doc_00006#doc_00006_2",
+        "doc_00005#doc_00005_2"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 16
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 1,
+          "fairness": 3,
+          "total": 12
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 1,
+    "con_points": 1,
+    "total_turns": 2
+  },
+  "final_winner": "tie",
+  "final_justification": "The final tie is justified because both sides presented valid points. The pro initially argued that cricket's absence from a passage didn't necessarily mean it wasn't relevant, highlighting the importance of considering context. Meanwhile, the con countered by emphasizing the global significance of sports, which could imply that cricket, as a popular sport, would likely be included in such discussions."
+}

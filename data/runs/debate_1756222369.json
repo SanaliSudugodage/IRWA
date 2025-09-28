@@ -1,0 +1,91 @@
+{
+  "motion": "importance of doing a sport",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 2,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe production of this book was led by Ugo Gentilini under the strategic guidance of Michal Rutkowski, Lynne Sherburne-Benz, and Anush Bezhanyan.",
+      "argument_citations": [
+        "doc_00000#doc_00000_7"
+      ],
+      "rebuttal": "While it is true that the production of this book was led by Ugo Gentilini under the strategic guidance of Michal Rutkowski, Lynne Sherburne-Benz, and Anush Bezhanyan, one might cautiously suggest that the authors' emphasis on providing a nuanced framework for considering UBI may inadvertently perpetuate the very quandaries they aim to address.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_7",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_293",
+        "doc_00000#doc_00000_9",
+        "doc_00000#doc_00000_197"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 1,
+          "fairness": 3,
+          "total": 12
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 1,
+          "fairness": 4,
+          "total": 15
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe production of this book was led by Ugo Gentilini under the strategic guidance of Michal Rutkowski, Lynne Sherburne-Benz, and Anush Bezhanyan.",
+      "argument_citations": [
+        "doc_00000#doc_00000_7"
+      ],
+      "rebuttal": "While it is true that the production of this book was led by Ugo Gentilini under the strategic guidance of Michal Rutkowski, Lynne Sherburne-Benz, and Anush Bezhanyan, one might cautiously suggest that the authors' emphasis on providing a nuanced framework for considering UBI may inadvertently perpetuate the very quandaries they aim to address.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_7",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_293",
+        "doc_00000#doc_00000_9",
+        "doc_00000#doc_00000_197"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 1,
+          "fairness": 4,
+          "total": 15
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 1,
+    "con_points": 1,
+    "total_turns": 2
+  },
+  "final_winner": "tie",
+  "final_justification": "Despite the initial tie, the pro's argument ultimately prevails due to a subtle yet decisive pattern. In both turns, the con's attempts to discredit the importance of doing a sport by referencing the production team behind a book are met with effective rebuttals from the pro. The con's strategy is foiled as their own evidence is used against them, highlighting the irrelevance of book production teams to the topic at hand."
+}

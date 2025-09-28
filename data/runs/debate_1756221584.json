@@ -1,0 +1,91 @@
+{
+  "motion": "importance of doing a sport",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 2,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe importance of doing a sport lies in its ability to promote physical and mental well-being, which can be achieved through regular exercise and social interaction, ultimately leading to improved overall health and quality of life.",
+      "argument_citations": [
+        "doc_00000#doc_00000_232"
+      ],
+      "rebuttal": "Here is a short, rigorous counter-argument (2\u20133 sentences) with a cautious tone:\n\nWhile it is true that engaging in sports can promote physical and mental well-being, one might cautiously suggest that the emphasis on individual benefits overlooks potential drawbacks. For instance, the social interaction aspect of sports may not be universally accessible or inclusive, potentially exacerbating existing social inequalities.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_7",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_190",
+        "doc_00001#doc_00001_1",
+        "doc_00000#doc_00000_211"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 14
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe implementation of a Universal Basic Income (UBI) requires a strong ID system, which can be achieved through digital technologies that enable efficient and transparent administration, increased security, and reduced fraud.",
+      "argument_citations": [
+        "doc_00000#doc_00000_232"
+      ],
+      "rebuttal": "While a strong ID system may be necessary to implement a Universal Basic Income (UBI), it is crucial to acknowledge that such a system could also introduce new concerns about privacy and surveillance, potentially undermining the very principles of UBI as a means to empower individuals. Moreover, the administrative costs associated with maintaining a robust ID system might offset any potential benefits of UBI, raising questions about its overall cost-effectiveness.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_7",
+        "doc_00000#doc_00000_33",
+        "doc_00000#doc_00000_190",
+        "doc_00001#doc_00001_1",
+        "doc_00000#doc_00000_211"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 15
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 1,
+          "fairness": 3,
+          "total": 12
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 1,
+    "con_points": 1,
+    "total_turns": 2
+  },
+  "final_winner": "tie",
+  "final_justification": "The final tie is justified because both sides presented arguments that, while flawed, shared a common thread: an overemphasis on individual benefits. The pro's initial claim focused solely on physical and mental well-being, neglecting broader societal implications. Meanwhile, the con's counter-argument in Turn 1 was overly cautious, failing to provide concrete evidence against the importance of sports. In Turn 2, the con's argument for a Universal Basic Income (UBI) ID system introduced new concerns, but ultimately didn't undermine the pro's initial claim. As such, neither side convincingly demonstrated a decisive advantage, resulting in a tie."
+}

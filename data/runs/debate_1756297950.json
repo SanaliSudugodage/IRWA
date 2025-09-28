@@ -1,0 +1,126 @@
+{
+  "motion": "Loq calorie foods are healthy option for adults",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 3,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "of the most common recommendations made by medical \nspecialists who specialize in mental health. Recreation Leaders have a method to waste time, \nrelax, and enjoy themselves due to the availability of a large variety of sports and activities at \ntheir disposal. This is because of the wide number of sports and activities that are at their \ndisposal.",
+      "argument_citations": [
+        "doc_00006#doc_00006_4"
+      ],
+      "rebuttal": "While the opponent claims: \u201cof the most common recommendations made by medical  specialists who specialize in mental health. Recreation Leaders have a method to waste time,  relax, and enjoy themselves due to the availability of\u2026\u201d, the available evidence highlights caveats and mixed results. Specifically: IJFANS INTERNATIONAL JOURNAL OF FOOD AND NUTRITIONAL SCIENCES  ISSN PRINT 2319 1775 Online 2320 7876  Research paper \u00a9 2012 IJFANS. All Rights Reserved, UGC CARE Listed ( Group -I) Journal Volume 11, Iss 12, 2022                             IJFANS INTERNATIONAL JOURNAL OF FOOD AND NUTRITIONA\u2026",
+      "rebuttal_citations": [
+        "doc_00006#doc_00006_0",
+        "doc_00005#doc_00005_0",
+        "doc_00000#doc_00000_0",
+        "doc_00005#doc_00005_4",
+        "doc_00000#doc_00000_4"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 16
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 3,
+          "fairness": 4,
+          "total": 17
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "of the most common recommendations made by medical \nspecialists who specialize in mental health. Recreation Leaders have a method to waste time, \nrelax, and enjoy themselves due to the availability of a large variety of sports and activities at \ntheir disposal. This is because of the wide number of sports and activities that are at their \ndisposal.",
+      "argument_citations": [
+        "doc_00006#doc_00006_4"
+      ],
+      "rebuttal": "While it is true that Recreation Leaders have access to a wide variety of sports and activities, caution should be exercised in assuming this abundance directly translates to relaxation and enjoyment. In fact, research suggests that excessive focus on sports and physical activity can actually exacerbate mental health concerns, such as anxiety and burnout, if not balanced with other aspects of life (Importance of Sports in Education and Life, 2022).",
+      "rebuttal_citations": [
+        "doc_00006#doc_00006_0",
+        "doc_00005#doc_00005_0",
+        "doc_00000#doc_00000_0",
+        "doc_00005#doc_00005_4",
+        "doc_00000#doc_00000_4"
+      ],
+      "turn_winner": "tie",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 5,
+          "total": 16
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 16
+        }
+      }
+    },
+    {
+      "turn_index": 3,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe current educational system places an unusually high emphasis on intellectual development, often neglecting students' physical well-being and overall health.",
+      "argument_citations": [
+        "doc_00006#doc_00006_4"
+      ],
+      "rebuttal": "While it is true that the current educational system may prioritize intellectual development over physical well-being, it is essential to acknowledge that this emphasis has yielded significant improvements in academic achievement and economic outcomes. Furthermore, the benefits of a strong foundation in cognitive skills can have long-term positive impacts on overall health and wellness, making it difficult to definitively conclude that neglecting students' physical well-being is the most effective approach.",
+      "rebuttal_citations": [
+        "doc_00001#doc_00001_266",
+        "doc_00006#doc_00006_0",
+        "doc_00005#doc_00005_0",
+        "doc_00000#doc_00000_0",
+        "doc_00002#doc_00002_15"
+      ],
+      "turn_winner": "tie",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 5,
+          "fairness": 3,
+          "total": 16
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 16
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 0,
+    "con_points": 1,
+    "total_turns": 3
+  },
+  "final_winner": "con",
+  "final_justification": "The final winner of the debate is justified because the con side successfully challenged the pro's initial claim by highlighting the importance of caution in assuming a direct correlation between Recreation Leaders' access to various activities and healthy options. The con's argument also effectively countered the pro's subsequent factual claim about the educational system, emphasizing that prioritizing intellectual development does not necessarily mean neglecting physical well-being."
+}

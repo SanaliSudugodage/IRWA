@@ -1,0 +1,56 @@
+{
+  "motion": "Low Calorie foods are healthy option for adults in Late 60's",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 3,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\n\"Elderly adults in their late 60s can benefit from consuming higher amounts of dietary protein to reduce age-related muscle loss and improve health outcomes.\"",
+      "argument_citations": [
+        "doc_00008#doc_00008_10"
+      ],
+      "rebuttal": "While increasing dietary protein intake may help reduce age-related muscle loss in elderly adults, it is essential to consider potential unintended consequences, such as exacerbating dehydration or malnutrition if not properly balanced with adequate hydration and overall nutritional planning. Furthermore, individual factors like medication side effects, eating obstacles, and institutionalized settings must also be taken into account to ensure that any protein supplementation does not inadvertently impede adequate nutrition.",
+      "rebuttal_citations": [
+        "doc_00005#doc_00005_2",
+        "doc_00005#doc_00005_8",
+        "doc_00008#doc_00008_10",
+        "doc_00005#doc_00005_5",
+        "doc_00005#doc_00005_4"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 4,
+          "fairness": 4,
+          "total": 16
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 15
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 1,
+    "con_points": 0,
+    "total_turns": 1
+  },
+  "final_winner": "pro",
+  "final_justification": "Cancelled by user after 1 turn(s)."
+}

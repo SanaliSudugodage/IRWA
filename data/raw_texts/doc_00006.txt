@@ -1,0 +1,1747 @@
+RESEARCH Open Access
+© The Author(s) 2025. Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, 
+sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and 
+the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included 
+in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will 
+need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  h t t p  : / /  c r e a  t i  v e c  o m m  o n s .  o r  g / l i c e n s e s / b y / 4 . 0 /.
+Davies et al. BMC Public Health         (2025) 25:3067 
+https://doi.org/10.1186/s12889-025-23897-5
+BMC Public Health
+*Correspondence:
+Jade Davies
+jade.davies@manchester.ac.uk
+1Manchester Institute of Education, School of Environment, Education 
+and Development, University of Manchester, Manchester, UK
+2School of Social Sciences, University of Manchester, Manchester, UK
+Abstract
+Background The rapid rise in social media use among adolescents has led to widespread public and academic 
+debate about its potential risks, especially concerning mental health. Media representations are integral in shaping 
+public and policy attitudes towards such issues. This study therefore critically examines how UK newspapers portray 
+the risks and benefits of adolescent social media use.
+Methods We systematically searched for articles discussing adolescent social media use published in UK newspapers 
+or on the BBC News website between 2014 and 2024. In total, 307 met our criteria for inclusion. We conducted a 
+content analysis of the included articles, paying attention to the specific risks and benefits discussed, the sources 
+of information used, and the sentiment of the headlines. We used cross-tabulation analyses to examine how 
+representations varied across different newspapers, analysing associations between publication type, use of research 
+evidence and quotations, and reporting of risks/benefits.
+Results Most headlines (58%) were negatively framed, with tabloids generally adopting a more negative tone than 
+broadsheets. The overwhelming majority of articles (98%) discussed potential risks, with mental health concerns, 
+exposure to harmful content, online conflict, and inappropriate adult contact being the most frequently cited 
+concerns. Almost one in every four articles (24%) discussed suicidality and/or suicide in relation to adolescent social 
+media use. In contrast, only 16% of articles discussed any potential benefits of adolescent social media use. Fewer 
+than one-third of articles (31%) used evidence to support claims. When evidence was included, grey literature, such as 
+reports from charities or government bodies, was used more than twice as often as academic research.
+Conclusions Our findings highlight a disproportionate focus on the potential risks of adolescent social media use 
+relative to the potential benefits, especially regarding mental health. This framing is somewhat inconsistent with the 
+current empirical evidence and may contribute to increased public anxiety. This framing also has the potential to 
+shape policy agendas in ways that do not fully reflect young people’s lived experiences. We call for more balanced, 
+evidence-based media coverage to foster a more informed public conversation. Improving the accuracy and 
+sensitivity of reporting could, in turn, support the development of more effective policy responses and interventions.
+Keywords Social media, Adolescent, Mass media, Risk factors, Mental health
+The representation of adolescent social media 
+use: a systematic review and content analysis 
+of UK newspaper articles
+Jade Davies1*, Sean Cadwallader1,2, Louise Black1, Jo Hickman Dunne1 and Margarita Panayiotou1
+Page 2 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+Introduction
+More young people are using social media now than 
+ever before. In the UK, social media usage among eight 
+to 11-year-olds rose from 18% in 2018 to 63% in 2022, 
+while usage among 12- to 15-year-olds increased from 69 
+to 93% over the same period [ 85, 86]. The impact of this 
+digital transformation is complex, with research point -
+ing toward both potential benefits and risks. For exam -
+ple, some research suggests these platforms offer young 
+people opportunities to connect and communicate with 
+family and friends, access information, and seek enter -
+tainment in ways that previous generations could not 
+[9, 49, 64, 99, 109, 127]. At the same time, studies have 
+identified potential negative experiences such as cyber -
+bullying, sexting, and exposure to inappropriate content 
+[67, 112]. Research examining the relationship between 
+social media use and adolescent mental health reveals a 
+similarly mixed picture, with some studies finding links 
+to worsening mental health (e.g., depression, anxiety or 
+wellbeing), and others finding no significant relationship, 
+or even potentially the reverse relationship [ 21, 56, 91, 
+111, 115, 121, 131].
+The rapid proliferation of research in this field has 
+outpaced methodological rigour, with many studies suf -
+fering from small sample sizes and an overreliance on 
+cross-sectional designs, resulting in difficulties in estab -
+lishing causal relationships [ 89]. As a result, current 
+understanding of the overall consequences of social media 
+use on adolescents remains tentative. Despite the mixed 
+evidence base and research limitations, public percep -
+tion appears to be characterised by widespread concern 
+about the potential psychological harm associated with 
+adolescent social media use [ 89]. Indeed, in a survey ask -
+ing UK adults to select the most important reasons for 
+the increase in adolescent mental health problems, 65% 
+selected the increased use of social media [ 31].
+The role of mass media in shaping panic
+Concerns regarding the potential harmful effects of social 
+media use on adolescent development reflect a long-
+standing pattern of public anxiety surrounding emerg -
+ing technologies. Throughout history, technological 
+advances have consistently sparked corresponding waves 
+of concern, from fears of ‘reading addiction’ in the eigh -
+teenth century to fears of ‘radio addiction’ in the 1940's, 
+and later concerns about television and games [88]. These 
+reactions may be conceptualised as moral panics [ 17], in 
+which certain individuals, groups, or practices – in this 
+case, new technologies – are perceived as significant 
+threats to societal norms, values, and social order. Cen -
+tral to moral panic theory [ 17] is the role of mass media 
+(e.g., television, newspapers), which is posited to amplify 
+public fear by sensationalising issues and prompting 
+responses from policymakers and ‘moral entrepreneurs’ , 
+which further reinforce a sense of crisis.
+The belief that media can influence societal atti -
+tudes and behaviours is long held. A central mechanism 
+through which this influence may occur is the use of 
+media narratives. Media narratives are stories or fram -
+ings that take place in time and serve as a means through 
+which we (the audience) learn about the world and our -
+selves [ 4]. Through the repetition of narratives, media 
+outlets can signal which topics are most important, effec-
+tively setting the public agenda [ 75, 76]. The way these 
+narratives frame issues – whether positively or negatively 
+– can then shape how they are understood and inter -
+preted [ 34]. Over time, persistent exposure to the same 
+media narratives can lead to their widespread acceptance 
+as reality [44], and result in the adoption of new attitudes, 
+values, and behaviours [2].
+These media effects are, however, not uniform. For 
+example, The Differential Susceptibility to Media Effects 
+Model [118] suggests that media impact varies based on 
+existing dispositional, developmental, and social suscep -
+tibilities. Audiences are also increasingly recognised as 
+active participants in interpreting media messages. For 
+example, Livingstone [ 66] argues that audiences are not 
+“gullible, homogenous, and unthinking” (p.172) but that 
+they actively interpret, negotiate, and sometimes resist 
+media content based on their own experiences and social 
+positions. Thus, media has the potential reinforce exist -
+ing beliefs as well as shape new ones. Gavin’s [ 43] review 
+of media effects on British politics lends credence to 
+these ideas, concluding that mass media play a powerful 
+role in shaping public attitudes toward highly salient mat-
+ters (e.g., national immigration, climate change) through 
+both attitude formation and reinforcement. It is there -
+fore plausible that the widespread anxiety about adoles -
+cent social media use, is, at least in part, shaped by media 
+reporting on the issue.
+The potential impact of media panic
+The way media portray adolescent social media use is 
+important, not just for public opinion, but for adoles -
+cents’ lived experiences. According to Bronfenbrenner’s 
+[15] Ecological Systems Theory, adolescent development 
+is shaped by four key systems: the microsystem which 
+includes close, direct influences (e.g., parents, peers, 
+teachers), the mesosystem which includes connections 
+between environments (e.g., interactions between par -
+ents and teachers), the exosystem which includes indi -
+rect environments (e.g., local government), and finally 
+the macrosystem, which encompasses broader cultural 
+norms and societal and values.
+Mass media reside within the exosystem, influencing 
+the cultural narratives adolescents encounter and, sub -
+sequently, their experiences. For example, if adolescents 
+Page 3 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+repeatedly encounter narratives portraying social media 
+as inherently harmful, they may internalise these mes -
+sages, a mindset associated with poorer psychological 
+wellbeing [ 62]. Neal and Neal's [ 77] networked model 
+extends Ecological Systems Theory by highlighting the 
+dynamic interplay between systems. In this model, mass 
+media are positioned not as passive broadcasters but as 
+dynamic agents that interact with other ecological sys -
+tems. For example, media narratives about social media 
+risks (which occur within the exosystem) may shape par -
+ents' digital supervision practices (which occur within 
+the microsystem), ultimately affecting adolescents'online 
+experiences. See Fig.  1 for a visual representation of 
+potential pathways between media narratives regarding 
+adolescent social media use and adolescent experiences.
+Media narratives may also influence policymakers, 
+impacting the political agenda (in the macrosystem) 
+and driving tangible policy change [ 57, 119, 122]. This 
+was demonstrated in the case of the ‘Blue Planet Effect’ 
+where media coverage on plastic pollution during the 
+BBC documentary series Blue Planet II  resulted in key 
+policy shifts [ 104]. Indeed, Google searches for “ocean 
+plastic” significantly increased after the series aired, and 
+the series and/or its host were referenced in 11 of 41 sub-
+sequent government discussions, prompting a series of 
+policy changes [ 26–28, 71]. While this example demon -
+strates the potential for media to drive positive govern -
+ment action, the potential for policy interventions based 
+on predominantly negative media narratives regarding 
+adolescent social media use is concerning, especially 
+when the research evidence remains fundamentally 
+inconclusive. Indeed, while targeted regulations based 
+on such reporting might aim to protect young people, 
+hasty or overly restrictive policies – including blanket 
+social media bans for adolescents (e.g., [ 95]) – could 
+inadvertently limit the potential positive aspects of digital 
+connectivity, potentially constraining adolescents' social 
+experiences and opportunities for digital literacy and 
+social interaction.
+Newspapers as a key source of information
+Since their emergence in the early seventeenth century, 
+newspapers have played a pivotal role in public informa -
+tion dissemination. Initially catering to a literate elite, 
+their reach expanded dramatically in the nineteenth cen -
+tury with advances in printing technology, which enabled 
+mass circulation and prompted the diversification of 
+content [129]. The rise of the tabloid press in the 1970 s 
+further transformed the landscape, with these papers 
+using accessible language and human-interest stories 
+to engage a broader, more diverse readership [ 129]. The 
+pursuit of mass readership also introduced sensationalist 
+reporting practices, with publishers recognising that dra -
+matic headlines and scandalous coverage was effective in 
+boosting circulation and thus revenue [ 55]. This style of 
+reporting prioritises emotional impact over factual accu -
+racy, often amplifying negative events to capture public 
+attention [ 107]. Contemporary research demonstrates 
+that these sensationalist tendencies persist (e.g., [ 14]), 
+and, while once confined to the tabloid press, there are 
+growing concerns of a broader 'tabloidisation' across the 
+entire news media landscape [18, 92].
+Newspaper readership in the UK reached its peak 
+in the early 1950 s, with around 85% of the population 
+reportedly reading a paper every day, more than any 
+other nation [ 7]. The subsequent rise of internet has, 
+however, fundamentally challenged the traditional news -
+paper industry, leading to declines in readership as audi -
+ences have moved to online platforms that offer instant, 
+free access to news content [ 40, 82]. While newspapers 
+Fig. 1 Visual representation of potential pathways between media narratives and adolescent social media experiences
+ 
+Page 4 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+have responded by launching digital editions, mobile 
+applications, and online subscription models, these adap-
+tation efforts have achieved limited success in attracting 
+younger generations, who increasingly bypass newspa -
+pers entirely in favour of consuming news through alter -
+native means (e.g., social media) [87].
+Nevertheless, newspapers continue to represent a key 
+source of information for a substantial proportion of 
+the UK adult population [ 87]. Indeed, most people per -
+ceive newspapers as high-quality, accurate, and trust -
+worthy [87], demonstrating the continued importance of 
+their influence. Moreover, newspaper content continues 
+to shape wider public discourse by being shared, sum -
+marised, or cited across social media platforms, thereby 
+influencing audiences who may not engage with newspa -
+pers directly [ 54]. This enduring presence highlights the 
+continued importance of newspapers in informing civic 
+life and setting the broader media agenda, and points 
+toward the need to understand how newspapers repre -
+sent adolescent social media use.
+Newspaper representations of adolescent social media use
+Emerging research points toward a panicked media dis -
+course surrounding adolescent social media use. Stern 
+and Burke Odland [ 108] analysed 339 American print 
+and online news articles published between 2013 and 
+2014, finding that teenagers' relationships with social 
+media were overwhelmingly framed as ‘dysfunctional’ 
+and ‘dangerous’ , with teenagers represented as lacking 
+agency and having universally negative experiences. Even 
+where articles did mention more positive aspects of use, 
+these were typically counterbalanced by negative com -
+mentary, while negatively framed articles were rarely 
+given the same balanced treatment [ 108]. A similar trend 
+was observed in Denmark, where media coverage pre -
+dominantly focused on potential negative consequences 
+of adolescent screen time, such as mental health risks, 
+addiction and distraction [ 110]. Nonetheless, to our 
+knowledge, no such research has been conducted in the 
+UK context.
+Given the outlined role of mass media in shaping both 
+public discourse and policy, and the potential impact of 
+coverage on adolescent’s lives and experiences (Fig.  1), 
+there is a pressing need to understand how adolescent 
+social media use is portrayed in UK newspapers. The cur-
+rent study seeks to fill this gap, paying particular atten -
+tion to the benefits and risks represented. Our specific 
+questions are as follows: (1) how do UK newspapers 
+frame adolescent social media use (positive/negative/
+neutral)? (2) what are the risks of adolescent social media 
+use represented to be? And (3) what are the benefits of 
+adolescent social media use represented to be?
+Methods
+We pre-registered a study protocol, before conducting 
+the initial searches in June 2024 [ 23]. We conducted a 
+systematic review and content analysis of UK news arti -
+cles (in print or online) that discussed young people’s use 
+of social media and were published between 2014 and 
+2024. We selected this timeframe to capture the most 
+recent representations of adolescent social media use, 
+while also affording the capacity to assess potential dif -
+ferences in representations over time. This timeframe is 
+also in line with the widespread adoption of social media 
+among adolescents in the UK (e.g., Ofcom [86]).
+Data corpus
+We conducted a systematic search of the Factiva data -
+base, a database of global news content that includes 
+archives of UK newspapers across the political spectrum. 
+We searched the database using keywords in a search 
+string to capture articles about adolescent social media 
+use and experiences (see Table 1).
+To ensure the relevancy of the search results and main-
+tain a feasible scope, we restricted the search in several 
+ways: by national newspapers only, subject (social media), 
+region (United Kingdom), language (English), and date 
+(01 January 2014 to 21 June 2024, when the search was 
+conducted). More information regarding these restric -
+tions can be found in the Supplementary file  (   h t t p s : / / o s 
+f . i o / q x d y p     ) . In trial searches before implementing these 
+restrictions, we found many articles contained passing 
+references to social media and young people within the 
+body text but were irrelevant for the aims of this study 
+(i.e., did not mention risks or benefits of adolescent social 
+media use). To avoid capturing such tangential mentions, 
+we also restricted the search to headline only. This search 
+identified 397 articles.
+Although not formally classified as a newspaper, the 
+British Broadcasting Corporation (BBC) website/app is 
+the most commonly used online source for news among 
+adults in the UK [ 87]. As the UK’s oldest national broad -
+caster, the BBC is widely regarded as the most trustwor -
+thy media outlet by the British public [ 133]. High levels 
+of trust and widespread consumption mean that the BBC 
+is critical in shaping national discourse. As the Factiva 
+database does not index BBC News, we conducted a 
+separate search of the BBC News website, using Google 
+Table 1 Search string
+Concept Search terms
+Adolescents ("teen"or"youth"or"adolescen*” or"young 
+people"or"child"or “kid” or “boy” or “girl” or “stu-
+dent” or “pupil”)
+Social media ("social media"or"social network"or"tiktok"or"sna
+pchat"or"instagram"or “youtube” or “whatsapp” or
+"facebook"or"screen"or"digital"or"smartphone")a
+aYouTube, WhatsApp, TikTok, Snapchat, Instagram and Facebook are the most 
+commonly used social media platforms among young people in the UK [ 86]
+Page 5 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+advanced search. Google advanced search does not allow 
+for as many search terms or restrictions as the Factiva 
+database. As such, we used the search terms we perceived 
+as most relevant, based on our preliminary searches: 
+(“teen” or “child”) and (“social media” or “smartphone”), 
+and restricted the search by domain:  h t t p s : / / w w w . b b c . c 
+o . u k / n e w s     . This search identified 254 BBC News articles 
+in our specified timeframe (i.e., since 2014). See Fig.  2 for 
+a flowchart illustrating the full article selection process.
+Article screening
+JD exported the results from both searches and removed 
+duplicate articles. Where articles appeared extremely 
+similar but were not identical in content (e.g., where an 
+article was published both in print and online, with one 
+version containing more information), only the article 
+with the highest word count was retained. In total, 55 
+duplicates were identified, and removed, resulting in 
+596 articles for screening. To be included for analy -
+sis, articles had to contain data pertaining to the risks/
+benefits of adolescent social media use (i.e., address 
+research question 2 and/or 3). We defined adolescence 
+as the ages between 10 and 24 years, inclusive [ 102], and 
+social media as “any online resource that is designed to 
+facilitate engagement between individuals” [ 8], p. 63). 
+Based on these definitions, we excluded articles that 
+(a) represented risks/benefits of social media use for 
+non-adolescents (i.e., aged < 10  years or > 24  years), (b) 
+reported more broadly on risks/benefits of the internet or 
+smartphones, with no reference to specific social media 
+platforms or engagement between individuals, or (c) 
+reported generally on adolescent social media use, with -
+out discussion of risks/benefits.
+All articles were screened by JD and SC for inclusion. 
+Both authors screened a sub-set of the articles together 
+(n = 20) to establish the utility of the inclusion/exclusion 
+criteria, before independently screening the remaining 
+articles ( n = 576). The authors met at regular points to 
+discuss discrepancies. Where they were unsure about the 
+inclusion of particular articles, or could not reach agree -
+ment, other authors supported the discussion and made 
+the final judgement. Agreement was substantial (86.1%, 
+κ = 0.72) [61]. In total, 307 articles were included for 
+analysis.
+Data extraction
+JD and SC both reviewed the first 40 articles using an 
+a-priori data extraction template. The template included 
+general details about each article including the title, pub -
+lishing date, and article type (i.e., news, opinion, or news-
+paper-led research). We noted whether the article used 
+research evidence in its discussion of adolescent social 
+media use and, if so, whether it provided sufficient details 
+to locate the research, and/or any information about the 
+participants, methodology, or limitations of the research. 
+We also recorded any mentions of specific social media 
+platforms in the headline or body text. Finally, we cap -
+tured broader characteristics about the newspapers the 
+Fig. 2 Flowchart of article selection
+ 
+Page 6 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+articles were published in, including whether they were 
+tabloids or broadsheets, as well as their political bias (left-
+wing, left-centre, right-centre, right-wing, least biased) 
+and credibility (high, medium, low), as assessed by  h t t p  
+s : /  / m e d  i a  b i a  s f a  c t c h  e c  k . c o m. We also recorded monthly 
+online readership of the newspapers, as reported by 
+https://pressgazette.co.uk.
+After reviewing the first 40 articles independently, JD 
+and SC met to review the extraction and discuss changes 
+that should be made to improve the utility of the tem -
+plate. Changes made at this stage included broadening 
+the criteria for determining whether articles provided 
+sufficient details to locate referenced research (expand -
+ing from only hyperlinks to also including authors, pub -
+lishers, or report titles) and adding the extraction of the 
+type of research cited (academic, grey literature, unclear 
+origin). A full list of changes can be found in V2 of the 
+protocol, and the final extraction template can be found 
+in the Supplementary file.
+The full articles were then uploaded to nVivo [ 69] for 
+analysis. During the analysis, we also extracted the use 
+of quotes (e.g., from young people, parents, law enforce -
+ment) to illustrate potential risks and benefits of ado -
+lescent social media use. Each quote was coded for: (a) 
+who was being quoted, and (b) the risk or benefit men -
+tioned (see data analysis for further detail). We used an 
+a-priori list of potential quote sources (see protocol V1), 
+which included categories such as ‘parent or other family 
+member’ , ‘young person’ , and ‘teacher or other education 
+professional’ . We refined this list as necessary (see proto-
+col V2). For example, expanding the ‘government official’ 
+category to ‘government or public official’ to better cap -
+ture the variety of voices represented.
+Data analysis
+Before conducting the formal analyses, we conducted a 
+descriptive overview of the coverage regarding adoles -
+cent social media use. For example, examining the fre -
+quency of publications over time and across different 
+newspapers to identify broader trends in reporting.
+To address research question one ( how do UK news -
+papers frame adolescent social media use (positive/nega -
+tive/neutral)?) we conducted a sentiment analysis of 
+article headlines. Sentiment analysis is a technique used 
+to determine the emotional tone or sentiment expressed 
+in text, often classifying it as positive, negative, or neu -
+tral [ 94]. We focused specifically on headlines since 
+they are people’s first – and, sometimes, only – point 
+of engagement, and play a critical role in shaping initial 
+perceptions [ 33, 41]. Given the apparent unreliability of 
+automated sentiment analysis tools for news research 
+[13], JD manually categorised each headline as positive, 
+negative, or neutral based on its tone and framing. Head -
+lines that portrayed social media use among adolescents 
+as beneficial, empowering, or having a constructive 
+impact were coded as positive. Conversely, those that 
+focused on risks, dangers, or adverse effects of adolescent 
+social media use were coded as negative. Headlines that 
+neither leaned towards a positive nor negative framing 
+(e.g., simply reported facts or posed questions without 
+evaluative language) were coded as neutral.
+To address research questions two ( what are the risks 
+of adolescent social media use represented to be?)  and 
+three (what are the benefits of adolescent social media use 
+represented to be?)  we conducted a qualitative content 
+analysis [50]. We began by applying a directed approach, 
+using two broad a-priori categories of ‘risks’ and ‘ben -
+efits’ , derived directly from our research questions (see 
+protocol V2 for full details). Within these categories, we 
+developed a detailed coding framework comprising the 
+following sub-categories: (a) 'negative social media expe -
+riences' (7 codes, e.g., exposure to harmful content); (b) 
+'negative outcomes of social media use' (12 codes, e.g., 
+poor mental health); (c) ‘positive social media experi -
+ences’ (5 codes, e.g., form new relationships), and (d) 
+‘positive outcomes of social media use’ (9 codes, e.g., 
+learning). These sub-categories and codes were informed 
+by existing literature on media representations of adoles -
+cent social media use (e.g., [ 108]), and our own research 
+examining the social media experiences of adolescents in 
+the UK (e.g., [ 49]). As coding progressed, we also took a 
+conventional approach, inductively generating new cat -
+egories and refining existing ones to better capture what 
+was presented in the articles [ 50]. For example, the origi-
+nal ‘grooming’ risk category was refined to the broader 
+category of ‘inappropriate contact with adults’ to encom -
+pass a wider range of predatory behaviours.
+To ensure rigour in our content analysis, JD and SC 
+both independently coded the first 10% of the articles 
+before meeting to compare their coding decisions. 
+Minor discrepancies (e.g., interpretations of ‘exposure to 
+harmful content’) were discussed in depth until the two 
+authors agreed on the interpretation and application of 
+each code. Once agreement was reached, they divided 
+the remaining articles, and each author independently 
+coded half the corpus, with periodic consistency checks 
+to prevent coding drift. Before writing up the findings, JD 
+reviewed all content within each code to confirm internal 
+consistency, though no recoding was necessary.
+Finally, we performed a series of exploratory cross-tab -
+ulation analyses to assess if, and how, representations of 
+adolescent social media use varied across different news -
+papers. This involved examining associations between (1) 
+newspaper type and the sentiment of article headlines; 
+(2) newspaper type and the use of research evidence; (3) 
+newspaper type and the use of quotes; (4) newspaper 
+type and the reporting of risks and/or benefits, and (5) 
+who is quoted and whether the quote focused on risks or 
+Page 7 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+benefits. Chi-square analyses were conducted using R, 
+with plots created using the ggplot2 package [ 128]. For 
+brevity, only significant associations are reported here, 
+with further details of all cross-tabulations available in 
+the OSF Supplementary file.
+Reporting decisions
+A large portion of our findings involve sensitive topics, 
+most notably adolescent suicide. Previous research [ 52, 
+74] suggests that media reporting on these topics often 
+fails to adhere to established guidelines for ethical and 
+responsible journalism, which caution against sensation -
+alism, stigmatisation, glorification, and gratuitous report-
+ing [32, 101, 130]. Such irresponsible reporting on suicide 
+is not only associated with increases in suicide attempts 
+but can also compound the distress experienced by griev-
+ing families, friends, and wider communities [ 16, 47, 80, 
+106].
+While our research differs from general media report -
+ing, we were acutely aware of the linguistic and narrative 
+power in how we chose to present our findings. To ensure 
+our own reporting does not inadvertently reinforce irre -
+sponsible, insensitive, and potentially harmful narratives, 
+we made two key methodological decisions. First, we 
+chose not to include identifiable extracts or quotations 
+from specific articles. Our rationale in this regard was 
+twofold: (1) to avoid singling out individual instances of 
+problematic reporting and instead demonstrate broader 
+patterns of discourse present in our data corpus, and (2) 
+to prevent the potential – unintentional – legitimisation 
+of stigmatising discourse through repetition. Second, we 
+intentionally omitted the names of specific young people 
+and cases mentioned in the original newspaper coverage. 
+Although these details may already be public, we felt the 
+sensationalist and sometimes disrespectful nature of the 
+reports risked compounding harm and wanted to priori -
+tise preserving the dignity of those involved.
+Results
+Characteristics of the articles
+The sample comprised 307 articles from 13 different 
+UK news sources. Articles spanned the entire range of 
+the period included (2014–2024), with a sharp increase 
+in publications between 2014 and 2019, followed by a 
+slight decline in recent years. As seen in Table  2, BBC 
+News published almost half the included articles (n = 142, 
+46.3%), followed by the Daily Mail/Mail Online ( n = 61, 
+19.9 %), and the Sun/Sun Online ( n = 29, 9.4%). Broad -
+sheet newspapers and their online counterparts com -
+prised the majority of the sample ( n = 207, 67.4%), with 
+tabloids accounting for the remainder ( n = 100, 32.6%). 
+The political leaning of the sources was relatively bal -
+anced, with 176 left-leaning sources (including left-
+centre, 57.3%), and 128 right-leaning sources (including 
+right-centre, 41.7%). Around half the articles came from 
+high credibility sources ( n = 156, 50.8%). Monthly online 
+readership ranged from BBC News's 2.9 billion monthly 
+readers to the Financial Times's 15 million. Articles 
+were predominantly news articles ( n = 286, 93.2%), 
+with the remainder being opinion pieces ( n = 16, 5.2%) 
+Table 2 Characteristics of included articles (n = 307)
+Newspaper Number of 
+included 
+articles
+Tabloid/Broadsheet Biasa Credibilityb Monthly 
+online 
+readershipc
+BBC News 142 (46.3%) Broadsheetd Left-Centre High 2.9 billion
+Daily Mail/Mail Online 61 (19.9%) Tabloid Right Low 512.4 million
+The Sun/The Sun Online 29 (9.4%) Tabloid Right Medium 282.1 million
+The Telegraph/The Telegraph Online/The 
+Sunday Telegraph
+20 (6.5%) Broadsheet Right Medium 200.3 million
+The Independent/
+Independent Online
+17 (5.5%) Broadsheet Left-Centre Medium 90.4 million
+The Times/Sunday Times/Times Online 13 (4.2%) Broadsheet Right-Centre High 40.4 million
+The Guardian 12 (3.9%) Broadsheet Left-Centre Medium 238.4 million
+The Daily Express 4 (1.3%) Tabloid Right Medium 127.6 million
+Metro 4 (1.3%) Tabloid Left-Centre Medium 54.9 million
+i 2 (0.7%) Broadsheet Unavailable Unavailable Unavailable
+Daily Star 1 (0.3%) Tabloid Right-Centre Low 25.3 million
+Financial Times 1 (0.3%) Broadsheet Least biased High 15 million
+The Daily Mirror 1 (0.3%) Tabloid Left-Centre Medium 166.3 million
+a Bias is a representation of political leaning and is taken from Media Bias Fact Check (  h t t p  s : /  / m e d  i a  b i a  s f a  c t c h  e c  k . c o m, accessed 15th August 2024)
+b Credibility is a representation of how factual the reporting is and is taken from Media Bias Fact Check (  h t t p s :   /  / m e d i a  b i a  s f a  c t c h  e c   k . c o m, accessed 15th August 2024)
+c Monthly online readership is taken from Ipsos Iris, published by the Press Gazette ( https://pressgazette.co.uk ) in July 2024, for the period 1–30 June 2024
+d While BBC News is primarily an online and broadcast news source, it has been classified as a broadsheet in this study due to its content depth, formal style, and 
+reputation for quality journalism, which align more closely with characteristics of broadsheets than tabloids
+Page 8 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+or newspaper-led research ( n = 5, 1.6%), Examples of 
+newspaper-led research include articles where journal -
+ists went undercover as adolescents on social media and 
+reported on their experience.
+Most headlines ( n = 201, 65.5%) referred generally to 
+'social media' or the 'online' world, 1 while the remainder 
+(n = 106, 34.5%) referenced specific platforms. Among 
+those, Facebook ( n = 42 of 106, 39.6%), Instagram ( n = 36 
+of 106, 34.0%), and TikTok (n = 19 of 106, 17.9%) were the 
+most referenced. Three-quarters ( n = 233, 75.9%) of arti -
+cles mentioned specific platforms within the body text, 
+most frequently Facebook ( n = 143 of 233, 61.4%), Insta -
+gram ( n = 143 of 233, 61.4%) and/or Snapchat ( n = 73 of 
+233, 31.3%).
+Sentiment of headlines
+Over half the headlines were negatively framed ( n = 177, 
+57.7%), while almost 40% ( n = 120, 39.1%) were neutral. 
+Headlines with a positive sentiment were rare ( n = 10, 
+3.3%). As seen in Fig.  3a, negative headlines dominated 
+throughout the study period, while articles with posi -
+tive headlines remained uncommon throughout. A 
+chi-square analysis revealed a statistically significant 
+association between newspaper type (broadsheet vs. tab -
+loid) and headline tone: χ 2(2, n = 307) = 22.73, p < 0.001, 
+V = 0.272. Broadsheets had significantly fewer nega -
+tive headlines, and significantly more neutral headlines, 
+while tabloids had significantly more negative headlines, 
+and significantly fewer neutral headlines (see Fig.  3b). 
+A statistically significant association was also found 
+between bias (left-leaning vs. right-leaning) and head -
+line sentiment, χ 2(2, n = 304) = 30.33, p < 0.001, V = 0.316. 
+Left-leaning newspapers had significantly fewer negative 
+headlines, and significantly more neutral headlines, while 
+right-leaning newspapers had significantly more negative 
+headlines, and significantly fewer neutral headlines (see 
+Fig. 3c).
+Use of research evidence
+Less than one-third of the articles ( n = 96, 31.3%) used 
+research evidence to support their discussion of the 
+potential risks and/or benefits of adolescent social 
+media use. Of those, 13 articles referenced more than 
+one research output, resulting in a total of 122 relevant 
+research references across the entire corpus. Grey litera -
+ture (e.g., charity-led research, government reports) was 
+drawn upon the most ( n = 73 of 122, 59.8%), followed by 
+academic literature ( n = 38 of 122, 31.2%). A minority of 
+1 Note: BBC News articles were included in the dataset via Google advanced 
+search, which does not allow search restriction to headline only. Conse -
+quently, some articles with broad headlines referencing the ‘online’ world 
+were captured. These articles were only included in the analysis if the body 
+text specifically discussed social media, in accordance with our inclusion 
+criteria.
+references (n = 11 of 122, 9.0%) drew upon literature with 
+an unclear origin. These references made vague claims 
+about research findings, without specifying their sources. 
+For example, one article claimed almost half the young 
+people in a study said social media negatively impacted 
+their mood or mental health but failed to provide any 
+information on the source of these findings. Reporting of 
+research details was inconsistent, with 78 (of 122, 63.9%) 
+references including details regarding the sample, 63 (of 
+122, 51.6%) including details of the research methodol -
+ogy, and only 22 (of 122, 18.0%) mentioning any limita -
+tions or caveats of the research. Less than half ( n = 57 
+of 122, 46.7%) provided sufficient details about where 
+to access the research (e.g., a report title, author, or 
+hyperlink).
+Use of quotes
+Quotes were used in 215 articles (70.0%) to illustrate 
+potential risks and/or benefits of adolescent social media 
+use. The most frequently quoted sources included gov -
+ernment/public officials ( n = 59 of 215, 27.4%), charity/
+not-for-profit representatives ( n = 52 of 215, 24.2%), and 
+parents or other family members ( n = 50 of 215, 23.3%). 
+Young people’s voices were represented in 34 articles (of 
+215, 15.8%), followed by medical professionals ( n = 23 
+of 215, 10.7%) and police and law enforcement ( n = 23 
+of 215, 10.7%). Researchers ( n = 22 of 215, 10.2%), social 
+media representatives ( n = 15 of 215, 7.0%), and teachers 
+and other education professionals ( n = 13 of 215, 6.0%) 
+were also drawn upon, albeit less frequently. A small 
+number of articles ( n = 12 of 215, 5.6%) included quotes 
+from ‘other’ sources, such as celebrities.
+There was a statistically significant association between 
+newspaper type (broadsheet vs. tabloid) and the sources 
+quoted: χ 2 (9, n = 327) = 20.04, p = 0.017, V = 0.248. 
+Broadsheet articles quoted government/public officials, 
+police or legal experts, researchers, and young people 
+more often, and social media representatives and ‘other’ 
+sources less often. Tabloids, on the other hand, quoted 
+parents or family members, social media representa -
+tives, and ‘other’ sources more often, while quoting 
+government/public officials and police or legal experts 
+less often. A statistically significant association between 
+newspaper bias (left-leaning vs. right-leaning) and quoted 
+sources was also found: χ 2(9, n = 327) = 22.81, p < 0.001, 
+V = 0.266. Left-leaning newspapers quoted government/
+public officials, police or legal experts, researchers, and 
+young people more frequently, and parents or family 
+members, medical professionals, and ‘other’ sources less 
+frequently. In contrast, right-leaning papers quoted med-
+ical professionals, parents or family members, and ‘other’ 
+sources more frequently, while quoting government/pub-
+lic officials, police or legal experts, and researchers less 
+frequently.
+Page 9 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+Representation of risks and benefits
+Almost all articles ( n = 302 of 307, 98.4%) mentioned at 
+least one risk associated with young people’s use of social 
+media (see Table  3), while only 16.3% ( n = 50) discussed 
+any potential benefits (see Table  4). Discussion of risks 
+was more common than discussion of benefits through -
+out the entire study period (see Fig.  3a). Most articles 
+only discussed risks (n = 257, 83.7%), with a small number 
+(n = 45, 14.7%) mentioning both risks and benefits, and 
+only 1.6% ( n = 5) discussing benefits alone. In discussing 
+these risks and benefits, the articles drew on a variety of 
+sources. A statistically significant association was found 
+between who was quoted and the nature of the quoted 
+content (risk vs. benefit): χ 2(9, n = 448) = 93.86, p < 0.001, 
+Fig. 3 a Sentiment and representation of risks and benefits over time, b Sentiment and representation of risks and benefits over time: Broadsheet versus 
+tabloid, c Sentiment and representation of risks and benefits over time: Left versus right
+ 
+Page 10 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+V = 0.458. Quotes from charity representatives, govern -
+ment officials, and family members were significantly 
+more likely to represent risks. Conversely, researchers, 
+social media representatives, and young people were sig -
+nificantly more likely to be quoted on benefits.
+What are the risks of adolescent social media use represented 
+to be?
+In total, we identified 20 different risks associated with 
+adolescent social media use, including potential negative 
+experiences while using social media, as well as potential 
+negative outcomes associated with social media use (see 
+Table 3). While a broad range of risks were mentioned, 
+four key concerns dominated the coverage: negative 
+consequences for mental health, exposure to harmful 
+content, online conflict, and inappropriate contact with 
+adults. These risks were not only the most frequently 
+discussed but were also often framed as being intercon -
+nected, with each risk compounding another. The fol -
+lowing sections provide an in-depth examination of how 
+these four key risks were represented.
+Negative consequences for mental health  The poten -
+tial for social media use to negatively impact mental 
+health was the most prevalent concern, featuring in 
+over half the articles that discussed risks ( n = 157 of 302, 
+52.0%). The articles varied in how they framed the rela -
+tionship between social media use and mental health out-
+comes. Some made explicit causal claims, suggesting that 
+society has ‘long known’ about the ‘damaging’ effects of 
+social media on young people’s mental health. Other arti-
+cles linked social media use to poor mental health, with -
+out explicitly attributing causality. A minority of articles 
+acknowledged ongoing academic debate regarding cau -
+sality, often using quotes from researchers and/or charity 
+representatives.
+Within the context of risks for mental health, suicide 
+was identified as a major concern. Of the articles that 
+identified poor mental health as a risk, almost half dis -
+cussed suicidality and/or death by suicide ( n = 73 of 157, 
+46.5%), representing almost one in four of all the included 
+articles ( n = 73 of 307, 23.8%).  These articles frequently 
+referenced high-profile cases, with more than two-thirds 
+(n = 49 of 73, 67.1%) referencing the case of a specific, 
+named teenager whose suicide was linked to social media 
+by a coroner. Beyond suicide-related concerns, articles 
+addressed a range of other potential mental health risks. 
+General references to mental health and wellbeing, with -
+out specification of particular conditions, appeared in 57 
+articles (of 157 36.3%). Where articles were more spe -
+cific, they highlighted concerns about self-esteem and 
+body image ( n = 24 of 157, 15.3%), anxiety ( n = 23 of 157, 
+14.7%), depression ( n = 22 of 157, 14.0%) and self-harm 
+(n = 15 of 157, 9.6%). Other identified risks for mental 
+health included loneliness ( n = 11 of 157, 7.0%), fear of 
+missing out ( n = 9 of 157, 5.7%), general low mood ( n = 9 
+of 157, 5.7%), eating disorders ( n = 6 of 157, 3.8%) and 
+reduced life satisfaction (n = 3 of 157, 1.9%).
+In one-quarter ( n = 40 of 157, 25.5%) of the cases, the 
+article did not specify the mechanism through which 
+social media was purported to negatively impact adoles -
+cent mental health. Where mechanisms were specified, 
+exposure to harmful content, such as material promoting 
+self-harm or eating disorders, was the most frequently 
+cited ( n = 56 of 157, 35.7%). Behavioural mechanisms 
+included excessive time spent on social media ( n = 25 
+of 157, 15.9%) and social media addiction ( n = 5 of 157, 
+Table 3 Summary of all risks represented (n = 302)
+Risk N (%)
+Risks – experiences and activities (n = 224, 74.2%)
+ Access/exposure to harmful content 109 (36.1%)
+ Online conflict (including cyberbullying) 78 (25.8%)
+ Inappropriate contact with adults 67 (22.2%)
+ Exposure to misinformation 25 (8.3%)
+ Access to and/or creation of extreme content 20 (6.6%)
+ Privacy concerns 16 (5.3%)
+ Sexting and revenge porn 14 (4.6%)
+ Social media is an echo chamber 4 (1.3%)
+ Stalking 3 (1.0%)
+Risks – outcomes of social media use (n = 199, 65.9%)
+ Poor mental health 157 (52.0%)
+ Addiction 46 (15.2%)
+ Poor physical health (e.g., poor diet, sleep) 26 (8.6%)
+ Engaging in anti-social or illegal activities 13 (4.3%)
+ Engaging in risky behaviour 13 (4.3%)
+ Distraction 8 (2.7%)
+ Damaged relationships 7 (2.3%)
+ Poor finances 7 (2.3%)
+ Reduced social skills 6 (2.0%)
+ Regretting social media activity/posts 2 (0.7%)
+ Poor educational outcomes 2 (0.7%)
+Table 4 Summary of all benefits represented (n = 50)
+Benefit N (%)
+Benefits – experiences and activities (n = 43, 86.0%)
+ Social connection and support 39 (78.0%)
+ Self-expression 10 (20.0%)
+ Positive messaging 4 (8.0%)
+ Coping 3 (6.0%)
+ Representation 3 (6.0%)
+Benefits – outcomes of social media use (n = 29, 58.0%)
+ Benefits for mental health 15 (30.0%)
+ Making money and/or social media as a career 8 (16.0%)
+ Improved confidence 6 (12.0%)
+ Learning 5 (10.0%)
+ Improved social skills 3 (6.0%)
+ Creativity 2 (4.0%)
+ Pro-social behaviour 1 (2.0%)
+Page 11 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+3.2%). Social mechanisms encompassed online conflict 
+(e.g., cyberbullying) ( n = 16 of 157, 10.2%), self-compar -
+ison ( n = 14 of 157, 8.9%), and pressures of maintaining 
+an online presence ( n = 12 of 157, 7.6%). Less frequently 
+mentioned mechanisms included displacement of health-
+ier activities ( n = 4 of 157, 2.6%), inappropriate contact 
+with adults ( n = 3 of 157, 1.9%), the need for validation 
+(n = 2 of 157, 1.3%), engagement in risky behaviour ( n = 1 
+of 157, 0.6%), and passive social media use ( n = 1 of 157, 
+0.6%).
+Exposure to harmful content  Articles ( n = 109 of 302, 
+36.1%) commonly highlighted the risk of exposure to 
+harmful content. Here too, portrayals varied. Some arti -
+cles referred vaguely to ‘dangerous’ or ‘harmful’ content, 
+while others provided specific examples. For example, 
+several articles quoted a coroner who spoke of the ‘dis -
+turbing’ and ‘graphic’ content one teenager who died by 
+suicide accessed before their death, ruling that it should 
+not have been available for any child to see. The perceived 
+degree of user agency in encountering such content also 
+varied in coverage. For example, some articles described 
+young people as being ‘bombarded’ with harmful content, 
+including content about suicide. Others suggested some 
+young people may actively seek out such content. For 
+example, a journalist who went undercover as a teenager 
+on social media explained that, despite some platforms' 
+attempts to block harmful material, it remains easily 
+accessible to those looking for it on other platforms.
+Online conflict  Online conflict was the third most fre -
+quently mentioned risk, appearing in 78 (of 302, 25.8%) 
+articles. Many references to online conflict were vague, 
+referring generally to ‘cyberbullying’ without providing 
+additional detail. Those that were more specific tended to 
+focus on lower-level online conflict, such as ‘nasty’ com -
+ments being left on one’s posts, while a minority of articles 
+highlighted more extreme cases. For example, one article 
+detailed the story of a teenager who was murdered fol -
+lowing a dispute on social media. Although, in the article, 
+the teenager’s father suggested social media was not guilty 
+of the murder, the article’s headline attributed blame to 
+social media.
+Inappropriate contact with adults  Inappropriate con -
+tact with adults was mentioned in almost one-quarter 
+of the articles mentioning potential risks ( n = 67 of 302, 
+22.2%). The degree to which social media platforms were 
+held responsible for facilitating such behaviour varied. 
+Some articles suggested social media play an active role, 
+citing instances where naked men were suggested as 
+friends to teenagers. Other articles portrayed platforms 
+as simply being tools misused by predators.
+What are the benefits of adolescent social media use 
+represented to be?
+We identified 12 different benefits that were reported 
+to be associated with adolescent social media use (see 
+Table 4). As with the presentation of risks, these ben -
+efits included both potential positive experiences while 
+using social media as well as potential positive outcomes 
+of social media use. Most commonly, articles discussed 
+the potential for social connection and support, posi -
+tive impacts on mental health, and self-expression. The 
+following sections examine how these key benefits were 
+represented.
+Social connection and support  The most commonly 
+discussed benefit was social media’s ability to facilitate 
+social connection and support, which appeared in over 
+three-quarters of the articles discussing potential benefits 
+(n = 39 of 50, 78.0%). The portrayal of social connection 
+varied in nature and specificity. Some articles spoke gen -
+erally about social media allowing young people to ‘build 
+communities’ and ‘keep up friendships’ , while other arti -
+cles highlighted more specific ways that groups of young 
+people benefit from connecting with like-minded peers. 
+For example, a young person interviewed in one article 
+explained how they were able to connect and relate with 
+other LGBT people they found online, something they 
+were not able to do in ‘real’ life.
+Positive impacts on mental health Some articles (n = 15 
+of 50, 30.0%) presented the potential for social media to 
+have positive impacts on mental health, though these per-
+spectives were often counterbalanced with potential risks. 
+For example, one article suggested social media may pro -
+vide a ‘temporary’ improvement for wellbeing for certain 
+young people, but that the longer-term effects are nega -
+tive. Another article suggested that social media has ‘the 
+potential’ to contribute to good mental health, but there 
+are significant risks that must be addressed if this is the 
+case. Other articles suggested mental health benefits may 
+be limited to certain platforms, most commonly YouTube.
+Self-expression Self-expression was identified as another 
+key benefit of adolescent social media use ( n = 10 of 50, 
+20.0%). Most of these articles made general claims about 
+social media promoting self-expression, though some did 
+highlight specific platforms that may be particularly sup -
+portive of this benefit. In particular, TikTok was noted as a 
+popular avenue for young people to express themselves in 
+ways they might not feel comfortable doing offline.
+Discussion
+This study critically examined how UK newspapers por -
+tray adolescent social media use, with particular refer -
+ence to the risks and benefits represented. We identified 
+Page 12 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+a dominant narrative of panic that frames social media 
+as fundamentally threatening for adolescents. Headlines 
+were frequently negatively framed (RQ1), and the over -
+all discourse focused predominantly on risks, including 
+(but not limited to) compromised mental health, expo -
+sure to harmful content, and online conflict (RQ2). These 
+concerns were amplified through provocative headlines, 
+quotes from government officials and charities, and 
+limited engagement with academic research evidence. 
+Although benefits like social connection and self-expres -
+sion (RQ3) were occasionally acknowledged  – often by 
+young people themselves – they remained subsumed by 
+an overarching narrative of caution and risk [ 108]. In the 
+following sections, we critically examine our findings in 
+relation to existing research, and make recommendations 
+for future research, policy, and practice.
+The representation of social media use and adolescent 
+mental health
+Newspaper portrayals of social media's impact on ado -
+lescent mental health consistently emphasised poten -
+tial harms, with some articles suggesting causal links 
+between social media use and poor mental health. Given 
+that not all articles were based on empirical evidence, 
+and of those that were, the majority failed to provide suf -
+ficient details of the studies reported, this framing can -
+not be substantiated. More generally, this is inconsistent 
+with the current empirical evidence base. Indeed, cross-
+sectional studies, which are unable to establish causal 
+relationships, have dominated much of the research land-
+scape to date [ 89], and longitudinal designs frequently 
+find no evidence for a direct relationship between social 
+media use and poor adolescent mental health [ 3, 21, 37, 
+96]. Some studies even suggest the reverse – that poor 
+mental health may predict increased social media use – 
+and/or that any predictive effects are limited to specific 
+subgroups [11, 93, 98, 103]. Notably, in one study which 
+explored the interrelationships of social media use and 
+other factors such as bullying, family support, and aca -
+demic dissatisfaction, social media ranked among the 
+least influential predictors in the system [ 93]. This more 
+nuanced understanding is further supported by Yang and 
+Feng’s [131] meta-analysis of 73 studies which found no 
+substantive support for direct associations between social 
+media use and subjective well-being, instead suggesting 
+that psychological factors like perceived social support 
+and self-esteem had considerably stronger effects. Such 
+crucial nuances in the impact of social media use on ado -
+lescent mental health were largely absent in the articles 
+reviewed.
+The tendency to overstate and/or oversimplify the rela -
+tionship between social media use and adolescent men -
+tal health was also reflected in the specific mental health 
+risks identified. Nearly 25% of all the included articles 
+mentioned suicidality and/or suicide in their discussion 
+of adolescent social media use. This is despite evidence 
+suggesting that social media use shows only weak, if any, 
+correlations with self-reported mental health and wellbe -
+ing among adolescents [ 90, 124]. The focus on suicide in 
+relation to adolescent social media use appears especially 
+disproportionate given that research highlights much 
+stronger associations between structural social factors – 
+such as income inequality and fatherlessness – and poor 
+mental health outcomes, than social media and poor 
+mental health outcomes (Ferguson, 2025).
+Beyond the lack of empirical justification for the focus 
+on suicide as a potential consequence of adolescent social 
+media use, the way this was discussed raised serious ethi -
+cal concerns. Indeed, these articles often used sensation -
+alist language, framing the deaths as being a direct result 
+of the young person being ‘hooked’ on social media, or 
+their ‘quest’ to get likes and validation. This reductive 
+framing obscures the complex and multifaceted contrib -
+utors to adolescent suicide – such as bullying, family con-
+flict, trauma, pre-existing mental health conditions, and 
+systemic factors like socioeconomic disadvantage, dis -
+crimination, and barriers to mental health care – that are 
+well-documented in empirical research [ 1, 45, 60, 65, 72, 
+97, 114, 132]. Some articles also employed dehumanising 
+language when talking about the impact of social media 
+use on adolescent mental health, including multiple arti -
+cles that referred to a young person who died by suicide 
+as 'suicide girl'. Others went further, explicitly mention -
+ing suicide methods and/or providing graphic details of 
+the circumstances surrounding the young person’s death 
+in the article headline or body text. Such practices are not 
+only insensitive and disrespectful to the young people 
+and families involved, but also directly contradict guide -
+lines on responsible suicide reporting, which emphasise 
+the importance of avoiding sensationalism, stigmatisa -
+tion, glorification, and gratuitous reporting [32, 101, 130]. 
+Sadly, this is not an isolated issue – research has repeat -
+edly shown that British media reporting on suicide con -
+sistently fails to meet ethical journalistic standards [ 52, 
+74].
+While the loss of young lives to suicide is an incred -
+ibly serious and important topic that unquestionably 
+warrants media attention, our findings highlight wide -
+spread problematic reporting practices that are inaccu -
+rate, insensitive and potentially harmful. Indeed, some 
+evidence suggests that irresponsible media reporting may 
+contribute to increased suicide attempts (the Werther 
+effect) and exacerbate the distress of grieving families 
+and friends [ 16, 47, 80, 106]. Conversely, responsible 
+reporting may be positive (the Papageno effect), reduc -
+ing suicidal ideation and stimulating help-seeking behav -
+iours among people considering suicide [ 78, 79, 81, 113]. 
+Empirical evidence regarding these effects varies: most 
+Page 13 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+studies point toward the Werther effect ( n = 69 of 98, 
+70.4%) or the Papageno effect ( n = 4 of 98, 4.1%) while 
+others show no effect ( n = 16 of 98, 16.3%) or conflict -
+ing results ( n = 9 of 98, 9.2%) [ 30]. Nonetheless, experts 
+broadly agree that sensationalist reporting should be 
+avoided [ 30]. As such, we posit that the identified sen -
+sationalist reporting on this issue represents a critical 
+missed opportunity to foster a more constructive pub -
+lic dialogue – one that acknowledges the complex reali -
+ties of adolescent suicide, and the preventative measures 
+needed to address it. Moving forward, journalists must 
+seek to adhere to established guidelines on responsible 
+reporting of suicide and mental health, ensuring their 
+coverage is evidence-based, compassionate, and aligned 
+with ethical standards.
+Discussions of the potential benefits of adolescent 
+social media use, such as social connection, were not 
+only rare but often counterbalanced by risks [108]. It may 
+be that this framing reflects an underlying truth – that 
+social media poses significant risks to adolescents and 
+very few benefits. However, in the absence of a mature 
+evidence base, it is near impossible to make judgements 
+about this balance. It is also important to acknowledge 
+that young people themselves often point toward ‘good’ 
+sides of social media, alongside potential negatives [ 49, 
+83, 84, 125]. This discrepancy between media narratives 
+and young people's lived experiences raises questions 
+about whether the risks are being overemphasised at the 
+expense of exploring potential benefits. This same prob -
+lem has already been illustrated in the case of violent 
+video games, with negative findings – rather than large 
+effect sizes or high methodological quality – increasing 
+the likelihood of receiving news media coverage, suggest -
+ing this is a perennial problem for news media [20].
+At the same time, other reviews have highlighted the 
+relative lack of research attention paid toward examin -
+ing potential positive aspects of adolescent social media 
+use [ 105]. This lack of research attention to benefits 
+may reflect a broader pattern shaped by moral panic, in 
+which heightened public concern over perceived harms 
+fuels demand for research into negative outcomes [ 36, 
+42]. This, in turn, directs funding and scholarly interest 
+toward adverse effects, reinforcing the cycle and poten -
+tially overlooking more balanced or beneficial dimen -
+sions of adolescent social media use [ 36, 42]. Ultimately, 
+however, this imbalance may limit our understanding of 
+how social media can be leveraged as a tool to support 
+adolescent development and wellbeing, leaving a critical 
+gap in both research and public discourse.
+This limited and often one-sided discourse also over -
+looks potential variation in adolescents’ experiences 
+with social media, presenting a blanket narrative that 
+fails to capture their diverse realities. For example, mar -
+ginalised groups such as young people who identify as 
+LGBTQ + report finding social media a vital source of 
+community support and identity affirmation, which can 
+positively impact their mental health [ 5, 35]. Conversely, 
+victims of cyberbullying may experience particularly neg-
+ative effects [12, 51, 63, 120].
+Potential implications of such biased media reporting
+The potential implications of the outlined biased media 
+reporting are far-reaching. At the microsystem level, the 
+pervasive media focus on the potential harms of adoles -
+cent social media use may contribute to increased con -
+cern among parents and caregivers. In response to such 
+concerns, some parents may turn to more restrictive 
+digital parenting strategies. Evidence of this phenomenon 
+can be seen with the rise of movements like “smartphone-
+free childhood” which promote limiting or even eliminat-
+ing digital devices from children's lives to protect them 
+from perceived harms. Yet, evidence regarding whether 
+restrictive digital parenting approaches are effective in 
+reducing harm remains mixed (see [ 123] for a review). 
+Within the mesosystem, schools may follow a similar 
+pattern, implementing restrictive mobile phone policies 
+in line with dominant media narratives. However, the 
+limited available evidence suggests these policies are not 
+effective [46]. As such, while biased media narratives may 
+push parents and schools toward restrictive practices, 
+these such approaches may not always be effective and 
+may, in some cases, exacerbate the very issues they seek 
+to address.
+Biased media reporting may also influence the attitudes 
+and practices of mental health professionals, situated in 
+the exosystem. In the UK, studies suggest clinicians rarely 
+engage young people in meaningful discussions about 
+their online lives, and when they do, such interactions 
+are often perceived as judgmental or overly simplistic [10, 
+29, 100]. Practitioners have also been reported to rec -
+ommend complete withdrawal or blocking strategies in 
+response to negative online experiences, approaches that 
+young people say increase their isolation and disconnect 
+them from supportive online communities [ 29]. These 
+challenges are compounded by a lack of training and a 
+widely expressed need among practitioners for guidance 
+on how to effectively discuss social media use with young 
+people [ 29]. Without this support, well-intentioned 
+adults may risk missing opportunities for collaborative 
+dialogue and unintentionally undermine the trust essen -
+tial to effective therapeutic relationships.
+These biased media narratives may also impact young 
+people’s own perceptions and behaviours. Adults may 
+inadvertently pass their concerns on to young peo -
+ple, leading them to internalise negative beliefs about 
+their own social media use [ 48]. Such negative mind -
+sets around social media use are associated with poorer 
+psychological wellbeing [ 62] and may influence how 
+Page 14 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+adolescents evaluate and manage their own social media 
+use, as well as how they evaluate efforts to reduce their 
+use. For example, anecdotally, some adolescents report 
+that engaging in a digital detox (i.e., abstaining from 
+using digital devices and social media or reducing time 
+spent on social media) has a positive impact on their 
+sleep, concentration, and mood (e.g., Johnson [ 53],). 
+However, this is not entirely surprising, given the perva -
+sive message that social media is inherently harmful, and 
+that such actions are necessary.
+This pattern is reminiscent of concerns surround -
+ing mental health awareness campaigns, which may 
+cause young people to identify low-level symptomology 
+as indicative of disorder, and/or create a self-fulfilling 
+prophecy through which young people do develop clini -
+cal symptomology [ 39]. Here, it is possible that con -
+sistently telling young people that social media harms 
+their mental health might itself increase their anxiety 
+about their social media use and/or make them more 
+likely to attribute negative emotions and psychological 
+experiences to their social media use. This is problem -
+atic because it could lead to young people experiencing 
+unnecessary feelings of guilt, make them less likely to 
+seek help, and undermine their ability to develop bal -
+anced, healthy relationships with social media. More -
+over, this creates potential challenges for researchers, as 
+it becomes increasingly difficult to differentiate between 
+what are genuine effects of reduced social media use, and 
+what are perceived effects influenced by one’s expecta -
+tions and mindset. The potential for these unintended 
+effects may be an important avenue for future research.
+Finally, at the macrosystem level, these biased media 
+narratives may shape political discourse and policy -
+making. In line with media framing, political parties in 
+the UK have taken increasingly firmer stances on the 
+risks associated with its use. The Conservative Party's 
+2024 manifesto pledged urgent consultation on further 
+parental controls and stricter enforcement of the Online 
+Safety Act [ 19] while Labour similarly spoke of protect -
+ing young people from “significant harm online” [ 59], (p. 
+103). Globally, restrictive measures are gaining momen -
+tum. For example, in November 2024, the Australian 
+Government passed legislation to ban social media for 
+people under 16 [95], with the Senator stating that “social 
+media … is … contributing to a growing crisis in our chil-
+dren’s mental health” [58], p. 5472). In the United States, 
+the Surgeon General has spoken of the need for robust 
+protections against the harms of social media [ 116], and 
+several states have explored and/or implemented legis -
+lation to further regulate social media for young people 
+(e.g., Florida [38], Utah [117]).
+While some of these measures respond to genuine risks 
+(e.g. exposure to harmful content), others, especially 
+those that are more restrictive (e.g. complete bans), risk 
+oversimplifying the complex relationship between social 
+media and adolescent mental health. Such policies may 
+exacerbate existing fears among parents and carers while 
+marginalising young people's voices in shaping discus -
+sions about their digital lives. Indeed, blanket restrictions 
+ignore the reality that social media is where most young 
+people conduct a significant portion of their socialisa -
+tion, with research suggesting these platforms can actu -
+ally strengthen adolescent relationships when used 
+appropriately [ 126]. These restrictive approaches also 
+risk reinforcing the notion that young people are inca -
+pable of managing technology responsibly, a narrative 
+that contrasts with evidence that young people are not 
+only capable of navigating online risks but are actively 
+engaged in managing their privacy and safety on social 
+media platforms [22, 68, 70, 73]. Recognising young peo -
+ple’s capacity to manage risks does not, however, negate 
+their need for support in building resilience, autonomy, 
+and the skills necessary to navigate difficulties online [ 6]. 
+Future initiatives should seek to find an appropriate bal -
+ance between safeguarding young people from genuine 
+harm and empowering them to develop the knowledge 
+and skills required to navigate digital spaces safely.
+Limitations
+This study is not without limitations. First, the findings 
+of this study are necessarily limited to the UK context 
+and may not be directly generalisable to other countries. 
+While similarities were found with analyses conducted in 
+other Western nations [ 108, 110], differences in cultural, 
+political, and regulatory environments could lead to dis -
+tinct media narratives and public perceptions in other 
+regions. As such, caution should be taken when apply -
+ing these findings to other contexts, and further research 
+could explore how media narratives surrounding social 
+media and mental health differ across diverse global set -
+tings. Second, the study period (2014–2024) coincides 
+with several high-profile adolescent suicides, as well as 
+high-profile legislative events, such as the publication of 
+the Online Harms White Paper in 2019 and the Online 
+Safety Act in 2023 [ 24, 25]. Indeed, media coverage 
+peaked in 2019, coinciding with the release of the Online 
+Harms White Paper. While these events likely influenced 
+the tone and framing of the media coverage analysed, it 
+is also important to recognise that media narratives are 
+likely to be shaped by multiple systems (Fig.  1). Third, 
+the focus of this study was limited to newspaper rep -
+resentations, which may not reflect discourse in other 
+media formats (e.g., news broadcasts) which are subject 
+to government regulation. Fourth, we did not examine 
+reader comments or public responses to the articles. 
+These forms of engagement could offer valuable insights 
+into how the narratives were received, interpreted, and 
+acted upon by the public. This may be a fruitful avenue 
+Page 15 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+for future research. Finally, it is important to acknowl -
+edge that the analysis presented here is based on our own 
+interpretations of the news coverage, which are inevita -
+bly shaped by our own beliefs, experiences, and contexts, 
+as well as our position as adults. Young people’s read -
+ings of these articles may have yielded different results. 
+For example, we categorised headlines that posed ques -
+tions (e.g., is social media causing depression?) as neu -
+tral. Yet, young people may not interpret headlines in this 
+same way. Similarly, young people may have had different 
+interpretations of the risks/benefits represented. Future 
+research would benefit from including adolescents as 
+collaborators in the process of interpreting and critiqu -
+ing news narratives, as this could offer a more nuanced 
+understanding of how media content is received and 
+understood by the very demographic being discussed.
+Conclusion
+Over the past decade, British news articles have consis -
+tently painted social media as a dangerous influence on 
+adolescents, often neglecting any potential benefits. By 
+emphasising risks without fully exploring the nuances of 
+adolescent’s social media use, these narratives contribute 
+to a skewed public perception that may shape ineffec -
+tive policies and interventions. Such narratives may also 
+increase the divide between adolescents and adults, mak -
+ing open conversations and mutual trust more difficult 
+to foster. Future research, clinical practice, and policy 
+development must seek to adopt a more balanced and 
+evidence-based approach, considering both the risks and 
+potential benefits of social media use in adolescents' lives.
+Acknowledgements
+We would like to thank Ola Demkowicz for her guidance regarding the 
+sensitive and ethical reporting of our findings.
+Authors’ contributions
+JD contributed to the conceptualisation, methodology, formal analysis, 
+visualisation, investigation, writing the original draft, and reviewing and 
+editing the manuscript. SC contributed to the methodology, investigation, 
+writing the original draft, and reviewing and editing the manuscript. LB, 
+JHD, and MP contributed to the methodology, reviewing and editing the 
+manuscript, and supervision.
+Funding
+We wish to thank the University of Manchester for providing funding for the 
+second author through the Student Experience Internship.
+Data availability
+The dataset supporting the conclusions of this article is available to access at: 
+https://osf.io/qxdyp.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Received: 6 March 2025 / Accepted: 7 July 2025
+References
+1. Assari S, Moghani Lankarani M, Caldwell CH. Discrimination increases suicidal 
+ideation in black adolescents regardless of ethnicity and gender. Behav Sci. 
+2017;7(4):75.  h t t p  s : /  / d o i  . o  r g /  1 0 .  3 3 9 0  / b  s 7 0 4 0 0 7 5.
+2. Bandura, A. Social cognitive theory of mass communication. In Media effects 
+(pp. 110–140). Routledge, New York, US; 2009.
+3. Beeres DT, Andersson F, Vossen HG, Galanti MR. Social media and mental 
+health among early adolescents in Sweden: a longitudinal study with 2-year 
+follow-up (KUPOL study). J Adolesc Health. 2021;68(5):953–60.  h t t p  s : /  / d o i  . o  r g 
+/  1 0 .  1 0 1 6  / j  . j a  d o h  e a l t  h .  2 0 2 0 . 0 7 . 0 4 2.
+4. Berger AA. Narratives in popular culture, media, and everyday life. Sage 
+Publications, California, US; 1996.
+5. Berger MN, Taba M, Marino JL, Lim MS, Skinner SR. Social media use and 
+health and well-being of lesbian, gay, bisexual, transgender, and queer youth: 
+systematic review. J Med Internet Res. 2022;24(9): e38449.  h t t p  s : /  / d o i  . o  r g /  1 0 .  
+2 1 9 6  / 3  8 4 4 9.
+6. Bibizadeh RE, Procter R, Girvan C, Webb H, Jirotka M. Digitally un/free: the 
+everyday impact of social media on the lives of young people. Learn Media 
+Technol. 2023.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 8 0  / 1  7 4 3  9 8 8  4 . 2 0  2 3  . 2 2 3 7 8 8 3.
+7. Bingham A. Reading newspapers: cultural histories of the popular press in 
+modern Britain. Hist Compass. 2012;10(2):140–50.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 1 1  / j  . 1 4  
+7 8 -  0 5 4 2  . 2  0 1 1 . 0 0 8 2 8 . x.
+8. Bishop M. Healthcare social media for consumer informatics. Consumer infor-
+matics and digital health: Solutions for health and health care. 2019; 61–86.
+9. Boczkowski P , Mitchelstein E & Matassi M. Incidental news: How young 
+people consume news on social media. 2017.
+10. Bojanić L, Kenworthy J, Moon T, Turnbull P , Ibrahim S, Kapur N, Appleby L, 
+Hunt IM, Flynn S. Suicide-related internet use of mental health patients: what 
+clinicians know. BJPsych Open. 2024;10(6): e195.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 9 2  / b  j o . 
+2 0 2 4 . 7 9 3.
+11. Booker CL, Kelly YJ, Sacker A. Gender differences in the associations between 
+age trends of social media interaction and well-being among 10–15 year olds 
+in the UK. BMC Public Health. 2018;18:1–12.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 8 6  / s  1 2 8 8 9 - 0 
+1 8 - 5 2 2 0 - 4.
+12. Bottino SMB, Bottino C, Regina CG, Correia AVL, Ribeiro WS. Cyberbully-
+ing and adolescent mental health: systematic review. Cad Saude Publica. 
+2015;31:463–75.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 5 9 0  / 0  1 0 2 - 3 1 1 X 0 0 0 3 6 1 1 4.
+13. Boukes M, Van de Velde B, Araujo T, Vliegenthart R. What’s the tone? Easy 
+doesn’t do it: analyzing performance and agreement between off-the-shelf 
+sentiment analysis tools. Commun Methods Meas. 2020;14(2):83–104.  h t t p  s : /  
+/ d o i  . o  r g /  1 0 .  1 0 8 0  / 1  9 3 1  2 4 5  8 . 2 0  1 9  . 1 6 7 1 9 6 6.
+14. Brackley D, Wells R. The portrayal of panic-buying and stockpiling in English 
+newspapers during Covid, a mixed-method content analysis. PLoS One. 
+2025;20(2): e0315142.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 3 7 1  / j  o u r  n a l  . p o n  e .  0 3 1 5 1 4 2.
+15. Bronfenbrenner, U. The ecology of human development: Experiments by 
+nature and design. Harvard University Press, Massachusetts, US; 1979.
+16. Chapple A, Ziebland S, Simkin S, Hawton K. How people bereaved by 
+suicide perceive newspaper reporting: qualitative study. Br J Psychiatry. 
+2013;203(3):228–32.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 9 2  / b  j p . b p . 1 1 2 . 1 1 4 1 1 6.
+17. Cohen S. Folk devils and moral panics. Routledge; 1972.
+18. Conboy M. Tabloid culture: Parameters and debates. In Global Tabloid: Rout-
+ledge; 2021.  h t t p  s : /  / d o i  . o  r g /  1 0 .  4 3 2 4  / 9  7 8 0 4 2 9 3 2 0 8 8 0.
+19. Conservative Party. Conservative manifesto 2024.  h t t p  s : /  / p u b  l i  c . c  o n s  e r v a  t i  v e 
+s  . c o  m / p u  b l  i c w  e b /  G E 2 0  2 4  / A c  c e s  s i b l  e -  M a n  i f e  s t o /  A c  c e s  s i b  l e - P  D F  - C o  n s e  r v a t  i v  
+e - M a n i f e s t o - 2 0 2 4 . p d f
+20. Copenhaver A, Mitrofan O, Ferguson CJ. For video games, bad news is good 
+news: News reporting of violent video game studies. Cyberpsychol Behav 
+Soc Netw. 2017;20(12):735–9.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 8 9  / c  y b e r . 2 0 1 7 . 0 3 6 4.
+21. Coyne SM, Rogers AA, Zurcher JD, Stockdale L, Booth M. Does time spent 
+using social media impact mental health?: An eight year longitudinal study. 
+Comput Human Behav. 2020;104: 106160.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . c h b . 2 0 1 9 . 
+1 0 6 1 6 0.
+Page 16 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+22. D’Lima P , Higgins A. Social media engagement and fear of missing out 
+(FOMO) in primary school children. Educ Psychol Pract. 2021;37(3):320–38.  h t t 
+p  s : /  / d o i  . o  r g /  1 0 .  1 0 8 0  / 0  2 6 6  7 3 6  3 . 2 0  2 1  . 1 9 4 7 2 0 0.
+23. Davies J, Cadwallader S, Black L, Hickman Dunne J & Panayiotou M. The rep-
+resentation of adolescent social media use in UK newspapers. Open Science 
+Framework. 2024.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 7 6 0  5 /  O S F . I O / Q X D Y P
+24. Department for Digital, C., Media & Sport. Online Harms White Paper. 2019. 
+Retrieved from  h t t p  s : /  / w w w  . g  o v .  u k /  g o v e  r n  m e n  t / c  o n s u  l t  a t i  o n s  / o n l  i n  e - h a r m 
+s - w h i t e - p a p e r
+25. Online Safety Act, 2023.  h t t p  s : /  / w w w  . l  e g i  s l a  t i o n  . g  o v .  u k /  u k p g  a /  2 0 2 3 / 5 0
+26. Department for Environment Food & Rural Affairs. World-leading microbeads 
+ban takes effect. GOV.UK 2018.  h t t p  s : /  / w w w  . g  o v .  u k /  g o v e  r n  m e n  t / n  e w s /  w o  r l 
+d  - l e  a d i n  g -  m i c  r o b  e a d s  - b  a n - t a k e s - e ff   e c t # : ~ : t e x t = E n v i r o n m e n t % 2 0 M i n i s t e r % 2 
+0 T h % C 3 % A 9 r % C 3 % A 8 s e % 2 0 C o ff   e y % 2 0 h a s , s c r u b s % 2 C % 2 0 t o o t h p a s t e s % 2 0 a 
+n d % 2 0 s h o w e r % 2 0 g e l s.
+27. Department for Environment Food & Rural Affairs. Carrier bags: why there's 
+a charge. GOV.UK. 2021  h t t p  s : /  / w w w  . g  o v .  u k /  g o v e  r n  m e n  t / p  u b l i  c a  t i o  n s /  s i n g  l 
+e  - u s  e - p  l a s t  i c  - c a  r r i  e r - b  a g  s - w  h y -  w e r e  - i  n t r  o d u  c i n g  - t  h e -  c h a  r g e /  c a  r r i  e r -  b a g s  - w  h 
+y - t h e r e s - a - 5 p - c h a r g e # : ~ : t e x t = r e t a i l e r s % 2 0 b y % 2 0 8 0 % 2 5 - , 5 . , 9 . 2 % 2 0 m i l l i o n % 2 
+0 t o % 2 0 g o o d % 2 0 c a u s e s.
+28. Department for Environment Food & Rural Affairs. New bans and restrictions 
+on polluting single-use plastics come into force. GOV.UK. 2023  h t t p  s : /  / w w w  . 
+g  o v .  u k /  g o v e  r n  m e n  t / n  e w s /  n e  w - b  a n s  - a n d  - r  e s t  r i c  t i o n  s -  o n -  p o l  l u t i  n g  - s i  n g l  e - u s  
+e -  p l a s t i c s - c o m e - i n t o - f o r c e
+29. Derges J, Bould H, Gooberman-Hill R, Moran P , Linton M-J, Rifkin-Zybutz R, 
+Biddle L. Mental health practitioners’ and young people’s experiences of talk-
+ing about social media during mental health consultations: qualitative focus 
+group and interview study. JMIR formative Res. 2023;7: e43115.  h t t p  s : /  / d o i  . o  r 
+g /  1 0 .  2 1 9 6  / 4  3 1 1 5.
+30. Domaradzki J. The Werther effect, the Papageno effect or no effect? A litera-
+ture review. Int J Environ Res Public Health. 2021;18(5):2396.  h t t p  s : /  / d o i  . o  r g /  1 
+0 .  3 3 9 0  / i  j e r p h 1 8 0 5 2 3 9 6.
+31. Duffy, B., & McGorry, P . (2024). Youth mental health in crisis? Public and gen-
+erational attitudes in the UK and Australia.  h t t p  s : /  / w w w  . k  c l .  a c .  u k / p  o l  i c y  - i n  s t i t  
+u t  e / a  s s e  t s / y  o u  t h -  m e n  t a l -  h e  a l t h - i n - c r i s i s . p d f
+32. Duncan S, Luce A. Using the responsible suicide reporting model to 
+increase adherence to global media reporting guidelines. Journalism. 
+2022;23(5):1132–48.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 7 7  / 1  4 6 4 8 8 4 9 2 0 9 5 2 6 8 5.
+33. Ecker UK, Lewandowsky S, Chang EP , Pillai R. The effects of subtle misinforma-
+tion in news headlines. J Exp Psychol Appl. 2014;20(4):323.  h t t p  s : /  / d o i  . o  r g /  1 0 .  
+1 0 3 7  / x  a p 0 0 0 0 0 2 8.
+34. Entman RM. Framing: toward clarification of a fractured paradigm. J Com-
+mun. 1993;43(4):51–8.
+35. Escobar-Viera CG, Whitfield DL, Wessel CB, Shensa A, Sidani JE, Brown AL, 
+Chandler CJ, Hoffman BL, Marshal MP , Primack BA. For better or for worse? 
+A systematic review of the evidence on social media use and depression 
+among lesbian, gay, and bisexual minorities. JMIR Ment Health. 2018;5(3): 
+e10496.  h t t p  s : /  / d o i  . o  r g /  1 0 .  2 1 9 6  / 1  0 4 9 6.
+36. Ferguson CJ. Blazing angels or resident evil? Can violent video games be a 
+force for good? Rev Gen Psychol. 2010;14(2):68–81.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 3 7  / a  
+0 0 1 8 9 4 1.
+37. Ferguson CJ, Muñoz ME, Garza A, Galindo M. Concurrent and prospective 
+analyses of peer, television and social media influences on body dissatisfac-
+tion, eating disorder symptoms and life satisfaction in adolescent girls. J 
+Youth Adolesc. 2014;43:1–14.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 0 7  / S  1 0 9 6 4 - 0 1 2 - 9 8 9 8 - 9.
+38. Florida Senate. CS/CS/HB 3: Online Protections for Minors.2024.  h t t p  s : /  / w w w  . f  
+l s e  n a t  e . g o  v /  S e s  s i o  n / B i  l l  / 2 0 2 4 / 3
+39. Foulkes L, Andrews JL. Are mental health awareness efforts contributing to 
+the rise in reported mental health problems? A call to test the prevalence 
+inflation hypothesis. New Ideas Psychol. 2023;69: 101010.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 
+0 1 6  / j  . n e  w i d  e a p s  y c  h . 2 0 2 3 . 1 0 1 0 1 0.
+40. Franklin B. The future of newspapers. Journalism Pract. 2008;2(3):306–17.  h t t p  
+s : /  / d o i  . o  r g /  1 0 .  1 0 8 0  / 1  7 5 1 2 7 8 0 8 0 2 2 8 0 9 8 4.
+41. Gabielkov, M., Ramachandran, A., Chaintreau, A., & Legout, A. (2016). Social 
+clicks: What and who gets read on Twitter? Proceedings of the 2016 ACM 
+SIGMETRICS international conference on measurement and modeling of 
+computer science,
+42. Gauntlett, D. Moving experiences: Media effects and beyond (Vol. 13). Indi-
+ana University Press, Bloomington, US; 2005.
+43. Gavin NT. Media definitely do matter: Brexit, immigration, climate change 
+and beyond. The British Journal of Politics and International Relations. 
+2018;20(4):827–45.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 7 7  / 1  3 6 9 1 4 8 1 1 8 7 9 9 2.
+44. Gerbner G. Toward" cultural indicators": The analysis of mass mediated public 
+message systems. AV Commun Rev. 1969.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 0 7  / B  F 0 2 7 6 9 1 0 
+2.
+45. Goldstein EV, Prater LC, Wickizer TM. Preventing adolescent and young adult 
+suicide: do states with greater mental health treatment capacity have lower 
+suicide rates? J Adolesc Health. 2022;70(1):83–90.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . j a  
+d o h  e a l t  h .  2 0 2 1 . 0 6 . 0 2 0.
+46. Goodyear VA, Randhawa A, Adab P , Al-Janabi H, Fenton S, Jones K, Michail 
+M, Morrison B, Patterson P , Quinlan J. School phone policies and their 
+association with mental wellbeing, phone use, and social media use (SMART 
+schools): a cross-sectional observational study. The Lancet Regional Health-
+Europe. 2025.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . l a  n e p  e . 2 0  2 5  . 1 0 1 2 1 1.
+47. Gregory P , Stevenson F, King M, Osborn D, Pitman A. The experiences of 
+people bereaved by suicide regarding the press reporting of the death: 
+qualitative study. BMC Public Health. 2020;20:1–14.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 8 6  / s  
+1 2 8 8 9 - 0 2 0 - 8 2 1 1 - 1.
+48. Hammer M, Scheiter K, Stürmer K. New technology, new role of parents: 
+how parents’ beliefs and behavior affect students’ digital media self-efficacy. 
+Comput Human Behav. 2021;116: 106642.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . c h b . 2 0 2 0 . 
+1 0 6 6 4 2.
+49. Hickman Dunne J, Black L, Nada P , Anderton M, Banwell E, Corke Butters L, 
+Demkowicz O, Davidson BI, Qualter P , Humphrey N, Jay C, & Panayiotou M. 
+(2025). Identifying Relevant Dimensions to the Measurement of Adolescent 
+Social Media Experience via Focus Groups With Young People. Collabra: 
+Psychology. 2025; 11(1), 129669.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 5 2 5  / c  o l l a b r a . 1 2 9 6 6 9
+50. Hsieh H-F, Shannon SE. Three approaches to qualitative content analysis. Qual 
+Health Res. 2005;15(9):1277–88.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 7 7  / 1  0 4 9 7 3 2 3 0 5 2 7 6 6 8 7.
+51. John A, Glendenning AC, Marchant A, Montgomery P , Stewart A, Wood S, 
+Lloyd K, Hawton K. Self-harm, suicidal behaviours, and cyberbullying in chil-
+dren and young people: Systematic review. J Med Internet Res. 2018;20(4): 
+e9044.  h t t p  s : /  / d o i  . o  r g /  1 0 .  2 1 9 6  / j  m i r . 9 0 4 4.
+52. John A, Hawton K, Gunnell D, Lloyd K, Scourfield J, Jones PA, Luce A, March-
+ant A, Platt S, Price S. Newspaper reporting on a cluster of suicides in the UK. 
+Crisis. 2016.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 2 7  / 0  2 2 7 - 5 9 1 0 / a 0 0 0 4 1 0.
+53. Johnson E, & Garcia A. 'I cut phone screen time in half and life changed' . BBC 
+News. 2024.  h t t p  s : /  / w w w  . b  b c .  c o .  u k / n  e w  s / a  r t i  c l e s  / c  6 p 2 e g l n 0 z e o
+54. Ju A, Jeong SH, Chyi HI. Will social media save newspapers? Examining the 
+effectiveness of Facebook and Twitter as news platforms. Journalism Pract. 
+2014;8(1):1–17.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 8 0  / 1  7 5 1  2 7 8  6 . 2 0  1 3  . 7 9 4 0 2 2.
+55. Kaplan RL. Yellow journalism. The international encyclopedia of communica-
+tion. 2008;11:5360–71.
+56. Kelly Y, Zilanawala A, Booker C, Sacker A. Social media use and adolescent 
+mental health: findings from the UK millennium cohort study. EClinicalMedi-
+cine. 2018;6:59–68.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . e c  l i n  m . 2 0  1 8  . 1 2 . 0 0 5.
+57. Koch-Baumgarten S, & Voltmer K. Public policy and the mass media: The 
+interplay of mass communication and political decision making. (Vol. 66). 
+Routledge, London, UK; 2010.
+58. Kovacic, M. (2024, 28/11/2024). Online Safety Amendment (Social Media Mini-
+mum Age) Bill 2024 Second Reading.  h t t p  s : /  / p a r  l i  n f o  . a p  h . g o  v .  a u /  p a r  l I n f  o /  g e n  p 
+d f  / c h a  m b  e r /  h a n  s a r d  s /  2 8 0  7 7 /  0 0 3 5  / h  a n s a r d _ f r a g . p d f ; fi   l e T y p e = a p p l i c a t i o n % 2 
+F p d f
+59. Labour Party. Change: Labour Party Manifesto. 2024.  h t t p  s : /  / l a b  o u  r . o  r g .  u k / w  p 
+-  c o n  t e n  t / u p  l o  a d s  / 2 0  2 4 / 0  6 /  L a b  o u r  - P a r  t y  - m a n i f e s t o - 2 0 2 4 . p d f
+60. Labuhn M, LaBore K, Ahmed T, Ahmed R. Trends and instigators among 
+young adolescent suicide in the United States. Public Health. 2021;199:51–6.  
+h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . p u h e . 2 0 2 1 . 0 8 . 0 0 4.
+61. Landis JR, Koch GG. The measurement of observer agreement for categorical 
+data. Biometrics. 1977.  h t t p  s : /  / d o i  . o  r g /  1 0 .  2 3 0 7  / 2  5 2 9 3 1 0.
+62. Lee AY, Hancock JT. Social media mindsets: a new approach to understanding 
+social media use and psychological well-being. J Comput-Mediat Commun. 
+2024;29(1): zmad048.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 9 3  / j  c m c / z m a d 0 4 8.
+63. Li C, Wang P , Martin-Moratinos M, Bella-Fernández M, Blasco-Fontecilla H. 
+Traditional bullying and cyberbullying in the digital age and its associated 
+mental health problems in children and adolescents: a meta-analysis. Eur 
+Child Adolesc Psychiatry. 2024;33(9):2895–909.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 0 7  / s  0 0 7 8 
+7 - 0 2 2 - 0 2 1 2 8 - x.
+64. Lijadi AA, Van Schalkwyk GJ. Place identity construction of third culture 
+kids: eliciting voices of children with high mobility lifestyle. Geoforum. 
+2017;81:120–8.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . g e  o f o  r u m .  2 0  1 7 . 0 2 . 0 1 5.
+65. Liu RT, Walsh RF, Sheehan AE, Cheek SM, Sanzari CM. Prevalence and cor-
+relates of suicide and nonsuicidal self-injury in children: a systematic review 
+Page 17 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+and meta-analysis. JAMA Psychiatr. 2022;79(7):718–26.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 0 
+1  / j  a m a  p s y  c h i a  t r  y . 2 0 2 2 . 1 2 5 6.
+66. Livingstone S. Audiences in an age of datafication: critical questions for 
+media research. Telev New Media. 2019;20(2):170–83.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 7 7  
+/ 1  5 2 7 4 7 6 4 1 8 8 1 1 1 1 8.
+67. Livingstone S, Smith PK. Annual research review: harms experienced by 
+child users of online and mobile technologies: the nature, prevalence and 
+management of sexual and aggressive risks in the digital age. J Child Psychol 
+Psychiatry. 2014;55(6):635–54.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 1 1  / j  c p p . 1 2 1 9 7.
+68. Livingstone S, Stoilova M & Nandagiri R. Children's data and privacy online: 
+growing up in a digital age: an evidence review. 2019.  h t t p  s : /  / e p r  i n  t s .  l s e  . a c .  u k  
+/ 1 0 1 2 8 3 /. Accessed 25 Feb 2025. 
+69. Lumivero . Nvivo (Version 12). 2017. www.lumivero.com. Accessed 12 Sept 
+2024. 
+70. Lyu T, Guo Y, Chen H. Minors’ online privacy disclosure and protection behav-
+iors: a systematic review. Behav Inf Technol. 2024.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 8 0  / 0  1 4 
+4  9 2 9  X . 2 0  2 4  . 2 4 2 3 2 0 4.
+71. Males J, Van Aelst P . Did the blue planet set the agenda for plastic pollution? 
+An explorative study on the influence of a documentary on the public, media 
+and political agendas. Environ Commun. 2021;15(1):40–54.  h t t p  s : /  / d o i  . o  r g /  1 0 .  
+1 0 8 0  / 1  7 5 2  4 0 3  2 . 2 0  2 0  . 1 7 8 0 4 5 8.
+72. Mars B, Heron J, Klonsky ED, Moran P , O’Connor RC, Tilling K, Wilkinson P , Gun-
+nell D. Predictors of future suicide attempt among adolescents with suicidal 
+thoughts or non-suicidal self-harm: a population-based birth cohort study. 
+Lancet Psychiatry. 2019;6(4):327–37.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / S  2 2 1 5 - 0 3 6 6 ( 1 9 ) 3 
+0 0 3 0 - 6.
+73. Marwick AE, boyd d. Networked privacy: how teenagers negotiate context in 
+social media. New Media Soc. 2014;16(7):1051–67.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 7 7  / 1  4 
+6 1 4 4 4 8 1 4 5 4 3 9 9 5.
+74. Marzano L, Fraser L, Scally M, Farley S, Hawton K. News coverage of suicidal 
+behavior in the United Kingdom and the Republic of Ireland. Crisis. 2018.  h t t p  
+s : /  / d o i  . o  r g /  1 0 .  1 0 2 7  / 0  2 2 7 - 5 9 1 0 / a 0 0 0 5 3 3.
+75. McCombs M, Shaw D. The agenda-setting function of mass media. Public 
+Opin Q. 1972;36:176–85.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 8 6  / 2  6 7 9 9 0.
+76. McCombs ME, & Shaw DL. The agenda-setting function of mass media. In The 
+Political Communication Reader (pp. 170–175). Routledge; 2023.
+77. Neal JW, Neal ZP . Nested or networked? Future directions for ecological 
+systems theory. Soc Dev. 2013;22(4):722–37.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 1 1  / s  o d e . 1 2 
+0 1 8.
+78. Niederkrotenthaler T, Laido Z, Gould M, Lake AM, Sinyor M, Kirchner S, Braun 
+M, Chowdhury S, Gonzalez F, Draper J. Associations of suicide-related media 
+reporting characteristics with help-seeking and suicide in Oregon and Wash-
+ington. Aust N Z J Psychiatry. 2023;57(7):1004–15.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 7 7  / 0  0 
+0 4 8 6 7 4 2 2 1 1 4 6 4 7 4.
+79. Niederkrotenthaler T, Reidenberg DJ, Till B, Gould MS. Increasing help-seeking 
+and referrals for individuals at risk for suicide by decreasing stigma: the role of 
+mass media. Am J Prev Med. 2014;47(3):S235–43.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . a 
+m  e p r  e . 2 0  1 4  . 0 6 . 0 1 0.
+80. Niederkrotenthaler T, Till B, Kapusta ND, Voracek M, Dervic K, Sonneck G. 
+Copycat effects after media reports on suicide: a population-based ecologic 
+study. Soc Sci Med. 2009;69(7):1085–90.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . s o  c s c  i m e d  . 2  
+0 0 9 . 0 7 . 0 4 1.
+81. Niederkrotenthaler T, Voracek M, Herberth A, Till B, Strauss M, Etzersdorfer E, 
+Eisenwort B, Sonneck G. Role of media reports in completed and prevented 
+suicide: Werther v. Papageno effects. Br J Psychiatry. 2010;197(3):234–43.  h t t p  
+s : /  / d o i  . o  r g /  1 0 .  1 1 9 2  / b  j p . b p . 1 0 9 . 0 7 4 6 3 3.
+82. Nielsen RK. Local journalism: The decline of newspapers and the rise of digital 
+media. London, UK; 2015.
+83. O’Reilly M. Social media and adolescent mental health: the good, the bad 
+and the ugly. J Ment Health. 2020;29(2):200–6.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 8 0  / 0  9 6 3  8 
+2 3  7 . 2 0  2 0  . 1 7 1 4 0 0 7.
+84. O’Reilly M, Dogra N, Whiteman N, Hughes J, Eruyar S, Reilly P . Is social media 
+bad for mental health and wellbeing? Exploring the perspectives of adoles-
+cents. Clin Child Psychol Psychiatry. 2018;23(4):601–13.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 7 
+7  / 1  3 5 9 1 0 4 5 1 8 7 7 5 1 5 4.
+85. Ofcom. Children and parents: Media use and attitudes report. 2019.  h t t p  s : /  / w 
+w w  . o  f c o  m . o  r g . u  k /  _ _ d  a t a  / a s s  e t  s / p  d f _  fi   l e  / 0  0 2 3  / 1 9  0 6 1 6  / c  h i l  d r e  n - m e  d i  a - u  s e -  a 
+t t i  t u  d e s - 2 0 1 9 - r e p o r t . p d f. Accessed 11 June 2024. 
+86. Ofcom. Children and parents: media use and attitudes report. 2023.  h t t p  s : /  / 
+w w w  . o  f c o  m . o  r g . u  k /  r e s  e a r  c h - a  n d  - d a  t a /  m e d i  a -  l i t  e r a  c y - r  e s  e a r  c h /  c h i l  d r  e n s  / c h  
+i l d r  e n  - a n  d - p  a r e n  t s  - m e  d i a  - u s e  - a  n d - a t t i t u d e s - r e p o r t - 2 0 2 3. Accessed 11 June 
+2024. 
+87. Ofcom. News consumption in the UK: 2024.  h t t p  s : /  / w w w  . o  f c o  m . o  r g . u  k /  s i t  e a 
+s  s e t s  / r  e s o  u r c  e s / d  o c  u m e  n t s  / r e s  e a  r c h  - a n  d - d a  t a  / t v  - r a  d i o -  a n  d - o  n - d  e m a n  d -  r e s  
+e a r  c h / t  v -  r e s  e a r  c h / n  e w  s / n  e w s  - c o n  s u  m p t  i o n  - 2 0 2  4 /  n e w  s - c  o n s u  m p  t i o n - i n - t h 
+e - u k - 2 0 2 4 - r e p o r t . p d f ? v = 3 7 9 6 2 1. Accessed 4 Jan 2025.
+88. Orben A. The sisyphean cycle of technology panics. Perspect Psychol Sci. 
+2020;15(5):1143–57.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 7 7  / 1  7 4 5 6 9 1 6 2 0 9 1 9 3 7 2.
+89. Orben A. Teenagers, screens and social media: a narrative review of reviews 
+and key studies. Soc Psychiatry Psychiatr Epidemiol. 2020;55(4):407–14.  h t t p  s : 
+/  / d o i  . o  r g /  1 0 .  1 0 0 7  / s  0 0 1 2 7 - 0 1 9 - 0 1 8 2 5 - 4.
+90. Orben A, Dienlin T, Przybylski AK. Social media’s enduring effect on adoles-
+cent life satisfaction. Proc Natl Acad Sci U S A. 2019;116(21):10226–8.  h t t p  s : /  / d 
+o i  . o  r g /  1 0 .  1 0 7 3  / p  n a s . 1 9 0 2 0 5 8 1 1 6.
+91. Orben A, Przybylski AK. The association between adolescent well-being and 
+digital technology use. Nat Hum Behav. 2019;3(2):173–82.  h t t p  s : /  / d o i  . o  r g /  1 0 .  
+1 0 3 8  / s  4 1 5 6 2 - 0 1 8 - 0 5 0 6 - 1.
+92. Örnebring H, Jönsson AM. Tabloid journalism and the public sphere: a histori-
+cal perspective on tabloid journalism. Journal Stud. 2004;5(3):283–95.  h t t p  s : /  / 
+d o i  . o  r g /  1 0 .  1 0 8 0  / 1  4 6 1  6 7 0  0 4 2 0  0 0  2 4 6 0 5 2.
+93. Panayiotou M, Black L, Carmichael-Murphy P , Qualter P , Humphrey N. Time 
+spent on social media among the least influential factors in adolescent men-
+tal health: preliminary results from a panel network analysis. Nat Ment Health. 
+2023;1(5):316–26.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 3 8  / s  4 4 2 2 0 - 0 2 3 - 0 0 0 6 3 - 7.
+94. Pang B, Lee L. Opinion mining and sentiment analysis. Foundations and 
+Trends® in information retrieval. 2008;2(1–2):1–135.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 5 6 1  / 1  
+5 0 0 0 0 0 0 1 1.
+95.  Parliament of Australia. Online Safety Amendment (Social Media Minimum 
+Age) Bill 2024, 2024.  h t t p  s : /  / w w w  . a  p h .  g o v  . a u /  P a  r l i  a m e  n t a r  y _  B u s  i n e  s s / B  i l  l s _  L 
+e g  i s l a  t i  o n /  B i l  l s _ S  e a  r c h  _ R e  s u l t  s /  R e s u l t ? b I d = r 7 2 8 4. Accessed 4 Feb 2025. 
+96. Plackett R, Sheringham J, Dykxhoorn J. The longitudinal effect of social media 
+use on adolescent mental health in the UK: findings from the UK longitudinal 
+household study. Lancet. 2022;400:S71.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / S  0 1 4 0 - 6 7 3 6 ( 
+2 2 ) 0 2 2 8 1 - 4.
+97. Polanco-Roman L, DeLapp RC, Dackis MN, Ebrahimi CT, Mafnas KS, Gabbay 
+V, Pimentel SS. Racial/ethnic discrimination and suicide-related risk in a 
+treatment-seeking group of ethnoracially minoritized adolescents. Clin Child 
+Psychol Psychiatry. 2023;28(4):1305–20.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 7 7  / 1  3 5 9 1 0 4 5 2 2 1 
+1 3 2 6 8 2.
+98. Puukko K, Hietajärvi L, Maksniemi E, Alho K, Salmela-Aro K. Social media use 
+and depressive symptoms—a longitudinal study from early to late adoles-
+cence. Int J Environ Res Public Health. 2020;17(16):5921.  h t t p  s : /  / d o i  . o  r g /  1 0 .  3 3 
+9 0  / i  j e r p h 1 7 1 6 5 9 2 1.
+99. Quan-Haase A, Young AL. Uses and gratifications of social media: a compari-
+son of Facebook and instant messaging. Bull Sci Technol Soc. 2010;30(5):350–
+61.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 7 7  / 0  2 7 0 4 6 7 6 1 0 3 8 0 0 0 9.
+100. Rifkin-Zybutz R, Turner N, Derges J, Bould H, Sedgewick F, Gooberman-Hill 
+R, Linton M-J, Moran P , Biddle L. Digital technology use and mental health 
+consultations: survey of the views and experiences of clinicians and young 
+people. JMIR mental health. 2023;10(1): e44064.  h t t p  s : /  / d o i  . o  r g /  1 0 .  2 1 9 6  / 4  4 0 6 
+4.
+101. Samaritans. Media Guidelines for Reporting Suicide. 2020.  h t t p  s : /  / m e d  i a  . s a  m 
+a r  i t a n  s .  o r g  / d o  c u m e  n t  s / M  e d i  a _ G u  i d  e l i n e s _ F I N A L . p d f. Accessed 3 Mar 2025.
+102. Sawyer SM, Azzopardi PS, Wickremarathne D, Patton GC. The age of adoles-
+cence. Lancet Child Adolesc Health. 2018;2(3):223–8.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / 
+S  2 3 5 2 - 4 6 4 2 ( 1 8 ) 3 0 0 2 2 - 1.
+103. Scherr S, Toma CL, Schuster B. Depression as a predictor of Facebook surveil-
+lance and envy. J Media Psychol. 2018.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 2 7  / 1  8 6 4 - 1 1 0 5 / a 0 
+0 0 2 4 7.
+104. Schnurr RE, Alboiu V, Chaudhary M, Corbett RA, Quanz ME, Sankar K, Srain HS, 
+Thavarajah V, Xanthos D, Walker TR. Reducing marine pollution from single-
+use plastics (SUPs): a review. Mar Pollut Bull. 2018;137:157–71.  h t t p  s : /  / d o i  . o  r g /  
+1 0 .  1 0 1 6  / j  . m a  r p o  l b u l  . 2  0 1 8 . 1 0 . 0 0 1.
+105. Schønning V, Hjetland GJ, Aarø LE, Skogen JC. Social media use and mental 
+health and well-being among adolescents – a scoping review. Front Psychol. 
+2020.  h t t p  s : /  / d o i  . o  r g /  1 0 .  3 3 8 9  / f  p s y g . 2 0 2 0 . 0 1 9 4 9.
+106. Sinyor M, Schaffer A, Nishikawa Y, Redelmeier DA, Niederkrotenthaler T, 
+Sareen J, Levitt AJ, Kiss A, Pirkis J. The association between suicide deaths 
+and putatively harmful and protective factors in media reports. CMAJ. 
+2018;190(30):E900–7.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 5 0 3  / c  m a j . 1 7 0 6 9 8.
+107. Stephens M. A history of news. Oxford University Press; 2007.
+108. Stern SR, Burke Odland S. Constructing dysfunction: news coverage of teen-
+agers and social media. Mass Commun Soc. 2017;20(4):505–25.  h t t p  s : /  / d o i  . o  r 
+g /  1 0 .  1 0 8 0  / 1  5 2 0  5 4 3  6 . 2 0  1 6  . 1 2 7 4 7 6 5.
+Page 18 of 18
+Davies et al. BMC Public Health          (2025) 25:3067 
+109. Stockdale LA, Coyne SM. Bored and online: reasons for using social media, 
+problematic social networking site use, and behavioral outcomes across the 
+transition from adolescence to emerging adulthood. J Adolesc. 2020;79:173–
+83.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . a d  o l e  s c e n  c e  . 2 0 2 0 . 0 1 . 0 1 0.
+110. Størup JO, Lieberoth A. What’s the problem with “screen time”? A content 
+analysis of dominant voices and worries in three years of national print 
+media. Convergence. 2023;29(1):201–24.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 7 7  / 1  3 5 4 8 5 6 5 2 1 
+1 0 6 5 2 9 9.
+111. Thorisdottir IE, Sigurvinsdottir R, Asgeirsdottir BB, Allegrante JP , Sigfusdot-
+tir ID. Active and passive social media use and symptoms of anxiety and 
+depressed mood among Icelandic adolescents. Cyberpsychol Behav Soc 
+Netw. 2019;22(8):535–42.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 8 9  / c  y b e r . 2 0 1 9 . 0 0 7 9.
+112. Throuvala MA, Griffiths MD, Rennoldson M, Kuss DJ. Perceived challenges 
+and online harms from social media use on a severity continuum: a qualita-
+tive psychological stakeholder perspective. Int J Environ Res Public Health. 
+2021;18(6):3227.  h t t p  s : /  / d o i  . o  r g /  1 0 .  3 3 9 0  / i  j e r p h 1 8 0 6 3 2 2 7.
+113. Till B, Arendt F, Scherr S, Niederkrotenthaler T. Effect of educative suicide pre-
+vention news articles featuring experts with vs without personal experience 
+of suicidal ideation: a randomized controlled trial of the Papageno effect. J 
+Clin Psychiatry. 2018;80(1): 13780.
+114. Tuisku V, Kiviruusu O, Pelkonen M, Karlsson L, Strandholm T, Marttunen 
+M. Depressed adolescents as young adults–predictors of suicide attempt 
+and non-suicidal self-injury during an 8-year follow-up. J Affect Disord. 
+2014;152:313–9.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . j a d . 2 0 1 3 . 0 9 . 0 3 1.
+115. Twenge JM, Martin GN. Gender differences in associations between digital 
+media use and psychological well-being: evidence from three large datasets. 
+J Adolesc. 2020;79:91–102.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . a d  o l e  s c e n  c e  . 2 0 1 9 . 1 2 . 0 1 
+8.
+116. US Surgeon General. Social Media and Youth Mental Health: The U.S. Surgeon 
+General’s Advisory. 2023.  h t t p  s : /  / w w w  . h  h s .  g o v  / s i t  e s  / d e  f a u  l t / fi    l  e s /  s g -  y o u t  h -  m 
+e n  t a l  - h e a  l t  h - s  o c i  a l - m  e d  i a - a d v i s o r y . p d f. Accessed 7 Feb 2025. 
+117.  Utah State Legislature. S.B. 152 Social Media Regulation Amendments. 2023.  
+h t t p  s : /  / l e .  u t  a h . g o v / ~ 2 0 2 3 / b i l l s / s t a t i c / S B 0 1 5 2 . h t m l. 
+118. Valkenburg PM, Peter J. The differential susceptibility to media effects model. 
+J Commun. 2013;63(2):221–43.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 1 1  / j  c o m . 1 2 0 2 4.
+119. Van Aelst P , & Walgrave S. Political agenda setting by the mass media: Ten 
+years of research, 2005–2015. Handbook of public policy agenda setting. 
+2016; 157–179.  h t t p  s : /  / d o i  . o  r g /  1 0 .  4 3 3 7  / 9  7 8 1  7 8 4  7 1 5 9  2 2  . 0 0 0 1 8
+120. Van Geel M, Vedder P , Tanilon J. Relationship between peer victimization, 
+cyberbullying, and suicide in children and adolescents: a meta-analysis. JAMA 
+Pediatr. 2014;168(5):435–42.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 0 1  / j  a m a  p e d  i a t r  i c  s . 2 0 1 3 . 4 1 4 
+3.
+121. Verduyn P , Ybarra O, Résibois M, Jonides J, Kross E. Do social network sites 
+enhance or undermine subjective well-being? A critical review. Soc Issues 
+Policy Rev. 2017;11(1):274–302.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 1 1  / s  i p r . 1 2 0 3 3.
+122. Vliegenthart R, Walgrave S, Baumgartner FR, Bevan S, Breunig C, Brouard S, 
+Bonafont LC, Grossman E, Jennings W, Mortensen PB. Do the media set the 
+parliamentary agenda? A comparative study in seven countries. Eur J Polit 
+Res. 2016;55(2):283–301.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 1 1  / 1  4 7 5 - 6 7 6 5 . 1 2 1 3 4.
+123. Vossen HG, van den Eijnden RJ, Visser I, & Koning IM. Parenting and problem-
+atic social media use: a systematic review. Current Addiction Reports. 2024; 
+1–17.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 0 7  / s  4 0 4 2 9 - 0 2 4 - 0 0 5 5 9 - x
+124. Vuorre M, Orben A, Przybylski AK. There is no evidence that associations 
+between adolescents’ digital technology engagement and mental health 
+problems have increased. Clin Psychol Sci. 2021;9(5):823–35.  h t t p  s : /  / d o i  . o  r g /  1 
+0 .  1 1 7 7  / 2  1 6 7 7 0 2 6 2 1 9 9 4 5 4 9.
+125. Weinstein E. The social media see-saw: positive and negative influences on 
+adolescents’ affective well-being. New Media Soc. 2018;20(10):3597–623.  h t t p  
+s : /  / d o i  . o  r g /  1 0 .  1 1 7 7  / 1  4 6 1 4 4 4 8 1 8 7 5 5 6 3 4.
+126. West M, Rice S, Vella-Brodrick D. Exploring the “social” in social media: Adoles-
+cent relatedness—thwarted and supported. J Adolesc Res. 2021.  h t t p  s : /  / d o i  . 
+o  r g /  1 0 .  1 1 7 7  / 0  7 4 3 5 5 8 4 2 1 1 0 6 2 1 5 8.
+127. Whiting A, Williams D. Why people use social media: a uses and gratifications 
+approach. Qual Mark Res Int J. 2013;16(4):362–9.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 1 0 8  / Q  M 
+R - 0 6 - 2 0 1 3 - 0 0 4 1.
+128. Wickham H. Ggplot2: elegant graphics for data analysis. New York: Springer-
+Verlag; 2016.
+129. Williams K. Read all about it!: a history of the British newspaper. Routledge, 
+London, UK; 2009.
+130. World Health Organisation. Preventing suicide: a resource for media profes-
+sionals Update 2023. 2023.  h t t p  s : /  / i r i  s .  w h o  . i n  t / b i  t s  t r e  a m /  h a n d  l e  / 1 0  6 6 5  / 3 7 2  6 
+9  1 / 9  7 8 9  2 4 0 0  7 6  8 4 6 - e n g . p d f. Accessed 3 Mar 2025.
+131. Yang Q, Feng Y. Relationships between social networking sites use and 
+subjective well-being–-a meta-analysis and meta-analytic structural equation 
+model. Heliyon. 2024.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 1 6  / j  . h e  l i y  o n . 2  0 2  4 . e 3 2 4 6 3.
+132. Yildiz M, Demirhan E, Gurbuz S. Contextual socioeconomic disadvantage 
+and adolescent suicide attempts: a multilevel investigation. J Youth Adolesc. 
+2019;48:802–14.  h t t p  s : /  / d o i  . o  r g /  1 0 .  1 0 0 7  / s  1 0 9 6 4 - 0 1 8 - 0 9 6 1 - z.
+133. YouGov. Which media outlets do Britons trust in 2023? 2023.  h t t p  s : /  / y o u  g 
+o  v . c  o . u  k / p o  l i  t i c  s / a  r t i c  l e  s / 4  5 7 4  4 - w h  i c  h - m  e d i  a - o u  t l  e t s  - d o  - b r i  t o  n s - t r u s t - 2 0 2 
+3. Accessed 17 June 2024. 
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

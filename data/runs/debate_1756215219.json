@@ -1,0 +1,56 @@
+{
+  "motion": "Universal Basic Income should be implemented",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 1,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe implementation of Universal Basic Income (UBI) requires careful consideration of administrative challenges, including maintaining accurate records of eligible recipients, designing effective payment modalities, and establishing robust oversight mechanisms.",
+      "argument_citations": [
+        "doc_00000#doc_00000_290"
+      ],
+      "rebuttal": "While it is true that implementing Universal Basic Income (UBI) requires careful consideration of administrative challenges, one might caution that overly emphasizing these hurdles could inadvertently undermine the potential benefits of UBI. Moreover, a too-narrow focus on administrative efficiency may overlook the broader social and economic implications of UBI, which could ultimately outweigh any perceived difficulties in implementation.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_2",
+        "doc_00000#doc_00000_290",
+        "doc_00004#doc_00004_3",
+        "doc_00000#doc_00000_4",
+        "doc_00000#doc_00000_282"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 13
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 3,
+          "fairness": 5,
+          "total": 17
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 0,
+    "con_points": 1,
+    "total_turns": 1
+  },
+  "final_winner": "con",
+  "final_justification": "The final winner, con, is justified because their argument successfully countered the pro's factual claim by highlighting the potential pitfalls of emphasizing administrative challenges over other crucial considerations. By pointing out the need for a more nuanced approach, the con effectively demonstrated that the pro's proposal was overly simplistic and failed to account for the complexities involved in implementing UBI."
+}

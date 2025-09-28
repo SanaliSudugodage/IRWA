@@ -1,0 +1,126 @@
+{
+  "motion": "cricket is the favourite sport in India",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 3,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is one concise factual claim using only the provided evidence:\n\nCricket is not mentioned as a favourite sport in India or globally, but sports in general have global significance and are played worldwide.",
+      "argument_citations": [
+        "doc_00006#doc_00006_1"
+      ],
+      "rebuttal": "While it's true that cricket isn't explicitly mentioned as a favorite sport globally, the significance and global reach of sports in general suggest that there may be other popular sports not accounted for in this evidence. Furthermore, the fact that research is being conducted on the relevance of sports in education and life implies that there may be more nuanced understandings of sporting preferences emerging from these studies, which could potentially include cricket as a significant factor.",
+      "rebuttal_citations": [
+        "doc_00006#doc_00006_5",
+        "doc_00005#doc_00005_5",
+        "doc_00000#doc_00000_5",
+        "doc_00006#doc_00006_2",
+        "doc_00005#doc_00005_2"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 3,
+          "fairness": 3,
+          "total": 14
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 15
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nCricket is not mentioned as one of the sports or activities discussed in the passage, which focuses on the global significance and effects of various physical sports.",
+      "argument_citations": [
+        "doc_00006#doc_00006_1"
+      ],
+      "rebuttal": "While it's true that cricket isn't explicitly mentioned in the passage, one could argue that the emphasis on the educational system and early introduction of various sports suggests that cricket, as a popular sport with a strong educational presence, might be implicitly relevant to the discussion. However, this assumption would require further investigation to confirm its significance within the context of the passage's focus on global physical sports.",
+      "rebuttal_citations": [
+        "doc_00006#doc_00006_5",
+        "doc_00005#doc_00005_5",
+        "doc_00000#doc_00000_5",
+        "doc_00006#doc_00006_2",
+        "doc_00005#doc_00005_2"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 5,
+          "total": 16
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        }
+      }
+    },
+    {
+      "turn_index": 3,
+      "side": "pro",
+      "argument_point": "Here is one concise factual claim using only the provided evidence:\n\nCricket is not mentioned as a favourite sport in India or globally, but sports in general have global significance and are played worldwide.",
+      "argument_citations": [
+        "doc_00006#doc_00006_1"
+      ],
+      "rebuttal": "While it's true that cricket isn't explicitly mentioned as a favorite sport globally, the significance and global reach of sports in general suggest that there may be other popular sports not accounted for in this evidence. Moreover, the fact that research is being conducted on the relevance of sports in education and life implies that there may be more nuanced understandings of sports' importance that aren't limited to a single favorite sport.",
+      "rebuttal_citations": [
+        "doc_00006#doc_00006_5",
+        "doc_00005#doc_00005_5",
+        "doc_00000#doc_00000_5",
+        "doc_00006#doc_00006_2",
+        "doc_00005#doc_00005_2"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 15
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 1,
+    "con_points": 2,
+    "total_turns": 3
+  },
+  "final_winner": "con",
+  "final_justification": "The final winner is justified because the con arguments effectively challenged the pro claims by pointing out the lack of explicit evidence supporting cricket as India's favourite sport. Specifically, Turn 2's counterargument highlighted that cricket was not mentioned in the passage, which undermined the pro's assumption about its global significance. This pattern of refuting the pro's factual claims and emphasizing the absence of concrete evidence ultimately led to the con's victory."
+}

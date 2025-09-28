@@ -1,0 +1,91 @@
+{
+  "motion": "india is great compatitor in cricket",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 2,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nIndia, as shown in Figure 4.2b, has a baseline system that delivers larger impacts on extreme poverty reduction than a budget-neutral UBI reform, indicating that the existing social assistance program is more effective in reducing poverty among the extremely poor.",
+      "argument_citations": [
+        "doc_00001#doc_00001_145"
+      ],
+      "rebuttal": "While Figure 4.2b suggests that India's baseline system may be more effective in reducing extreme poverty, it is crucial to acknowledge that a budget-neutral UBI reform could still have a significant impact on poverty reduction if accompanied by complementary policy changes, such as eliminating corporate tax holidays and exemptions, which are not accounted for in this analysis. Moreover, the relatively small differences between the baseline and UBI scenarios may be due to the modest benefit level of Rs 3,500/head of household/year, which could be increased to amplify its poverty-reducing effe\u2026",
+      "rebuttal_citations": [
+        "doc_00001#doc_00001_254",
+        "doc_00001#doc_00001_145",
+        "doc_00001#doc_00001_274",
+        "doc_00001#doc_00001_19",
+        "doc_00001#doc_00001_32"
+      ],
+      "turn_winner": "tie",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 4,
+          "fairness": 3,
+          "total": 15
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 1,
+          "fairness": 4,
+          "total": 15
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe Indian cricket team has not been mentioned in this passage, and there is no relevant data or information about India's performance in cricket.",
+      "argument_citations": [
+        "doc_00001#doc_00001_145"
+      ],
+      "rebuttal": "While the passage does not directly mention India's cricket team or its performance in the sport, it is plausible to infer that the lack of relevant data on India's cricket team may be due to a broader trend of prioritizing economic and social development over sports-related initiatives. This inference is supported by the fact that the passage highlights the challenges of removing subsidies from middle and upper classes, suggesting that resources are being allocated towards more pressing issues.",
+      "rebuttal_citations": [
+        "doc_00001#doc_00001_32",
+        "doc_00001#doc_00001_58",
+        "doc_00001#doc_00001_254",
+        "doc_00001#doc_00001_272",
+        "doc_00001#doc_00001_109"
+      ],
+      "turn_winner": "tie",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 15
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 4,
+          "fairness": 3,
+          "total": 15
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 0,
+    "con_points": 0,
+    "total_turns": 2
+  },
+  "final_winner": "tie",
+  "final_justification": "The final tie is justified because both sides failed to provide sufficient evidence to support their claims. The pro's initial argument relied on a factual claim about India's baseline system, but this was not directly related to India's performance in cricket. Meanwhile, the con's attempt to argue that there is no relevant data on India's cricket team fell short of providing a compelling counterpoint. As a result, neither side was able to convincingly make their case, leading to a tie."
+}
