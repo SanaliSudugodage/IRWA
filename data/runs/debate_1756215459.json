@@ -1,0 +1,56 @@
+{
+  "motion": "Universal Basic Income should be implemented",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 1,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nAccording to research, implementing Universal Basic Income (UBI) requires careful consideration of administrative efficiency, including maintaining accurate records of eligible claimants, designing effective payment modalities, and establishing robust oversight mechanisms.",
+      "argument_citations": [
+        "doc_00000#doc_00000_290"
+      ],
+      "rebuttal": "While acknowledging the importance of careful consideration for administrative efficiency when implementing Universal Basic Income (UBI), it is crucial not to overemphasize the complexity of these logistical challenges, as this may inadvertently undermine the overall feasibility and potential benefits of UBI. In fact, some proponents argue that the simplicity and universality of UBI could actually simplify administrative processes, potentially offsetting any increased costs or complexities.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_2",
+        "doc_00000#doc_00000_290",
+        "doc_00004#doc_00004_3",
+        "doc_00000#doc_00000_4",
+        "doc_00000#doc_00000_282"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 1,
+          "fairness": 3,
+          "total": 12
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 15
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 0,
+    "con_points": 1,
+    "total_turns": 1
+  },
+  "final_winner": "con",
+  "final_justification": "The final winner, con, is justified because their argument effectively countered the pro's initial claim by highlighting the need for a balanced approach. By emphasizing that careful consideration is crucial but not sufficient in itself, the con successfully challenged the pro's assumption that administrative efficiency was the only factor to consider when implementing Universal Basic Income (UBI). This subtle yet effective counterargument ultimately swayed the debate in favor of the con."
+}

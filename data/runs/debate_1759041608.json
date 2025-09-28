@@ -1,0 +1,126 @@
+{
+  "motion": "Social media does more harm than good to teenagers\u2019 mental health.",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 3,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nSocial media offers opportunities for humor, entertainment, identity formation, and creative expression, which can positively impact teenagers' mental health.",
+      "argument_citations": [
+        "doc_00009#doc_00009_10"
+      ],
+      "rebuttal": "While social media may offer opportunities for humor, entertainment, identity formation, and creative expression, it is crucial to acknowledge that excessive or unregulated social media use can also perpetuate unrealistic beauty standards, cyberbullying, and sleep deprivation, which may have negative implications on teenagers' mental health. Furthermore, the constant need for validation and attention through likes and comments can foster a culture of competition and anxiety, potentially offsetting any positive effects.",
+      "rebuttal_citations": [
+        "doc_00005#doc_00005_0",
+        "doc_00009#doc_00009_7",
+        "doc_00008#doc_00008_7",
+        "doc_00006#doc_00006_17",
+        "doc_00009#doc_00009_6"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 16
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nSocial media offers opportunities for humor, entertainment, identity formation, and creative expression, which can positively impact teenagers' mental health.",
+      "argument_citations": [
+        "doc_00009#doc_00009_10"
+      ],
+      "rebuttal": "While social media may offer opportunities for humor, entertainment, identity formation, and creative expression, it is crucial to acknowledge that excessive or unregulated usage can have unintended consequences on teenagers' mental health. The evidence suggests that inconsistent rules about media use may lead to peer victimization, substance use, and technology-based behaviors that can negatively impact adolescents' well-being (Popat & Tarrant, 2022).",
+      "rebuttal_citations": [
+        "doc_00005#doc_00005_0",
+        "doc_00009#doc_00009_7",
+        "doc_00008#doc_00008_7",
+        "doc_00006#doc_00006_17",
+        "doc_00009#doc_00009_6"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 16
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        }
+      }
+    },
+    {
+      "turn_index": 3,
+      "side": "pro",
+      "argument_point": "Here is one concise factual claim based on the provided evidence:\n\nSocial media offers opportunities for humor, entertainment, identity formation, and creative expression, which can support adolescent mental health in more ways than ever before.",
+      "argument_citations": [
+        "doc_00009#doc_00009_10"
+      ],
+      "rebuttal": "Here is a concise counter-argument with a cautious tone:\n\nWhile social media may offer opportunities for humor, entertainment, identity formation, and creative expression, it is essential to acknowledge that the existing literature also suggests that newspaper portrayals of social media's impact on adolescent mental health often emphasize potential harms. Moreover, some studies have failed to establish empirical evidence supporting the benefits of social media use on mental health, leaving room for concern about its overall impact on adolescents' well-being.",
+      "rebuttal_citations": [
+        "doc_00005#doc_00005_0",
+        "doc_00006#doc_00006_17",
+        "doc_00006#doc_00006_1",
+        "doc_00009#doc_00009_6",
+        "doc_00008#doc_00008_6"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 1,
+          "fairness": 4,
+          "total": 15
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 1,
+    "con_points": 2,
+    "total_turns": 3
+  },
+  "final_winner": "con",
+  "final_justification": "The final winner, con, is justified due to the consistent pattern of acknowledging both sides' arguments while emphasizing the importance of considering the negative impacts of social media on teenagers' mental health. The pro team's attempts to highlight positive aspects were met with caution and a focus on the potential drawbacks, ultimately leading to a more balanced view that prioritizes the need for responsible social media use."
+}

@@ -1,0 +1,91 @@
+{
+  "motion": "Eat more healthy foods is a good option",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 2,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\n\"Eating more healthy foods is a good option\" because medical specialists who specialize in mental health often recommend it, and research has shown that physical well-being is essential for overall health.",
+      "argument_citations": [
+        "doc_00007#doc_00007_4"
+      ],
+      "rebuttal": "While it is true that medical specialists recommend eating healthy foods for overall well-being, we must also consider the potential limitations of this approach. For instance, what if an individual's mental health issues are not directly addressed through dietary changes alone? Might they require more targeted interventions to effectively manage their condition?",
+      "rebuttal_citations": [
+        "doc_00001#doc_00001_266",
+        "doc_00007#doc_00007_4",
+        "doc_00006#doc_00006_4",
+        "doc_00005#doc_00005_4",
+        "doc_00000#doc_00000_4"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 5,
+          "total": 16
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe current educational system places an unusually high emphasis on intellectual development, neglecting students' physical well-being and overall health.",
+      "argument_citations": [
+        "doc_00007#doc_00007_4"
+      ],
+      "rebuttal": "While it is true that the current educational system may prioritize intellectual development over physical well-being, it is important to note that many schools have implemented programs and initiatives to promote students' overall health and wellness. For instance, the growing popularity of recreational activities among younger generations suggests that there are already efforts in place to encourage students to engage in physical activity outside of traditional academic settings.",
+      "rebuttal_citations": [
+        "doc_00008#doc_00008_4",
+        "doc_00007#doc_00007_4",
+        "doc_00006#doc_00006_4",
+        "doc_00005#doc_00005_4",
+        "doc_00000#doc_00000_4"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 15
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 13
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 1,
+    "con_points": 1,
+    "total_turns": 2
+  },
+  "final_winner": "tie",
+  "final_justification": "The final tie is justified because both sides presented arguments that were largely based on factual claims and expert opinions. The pro side initially established a strong foundation by citing medical specialists' recommendations for healthy eating, while the con side countered with a valid point about the limitations of this approach. However, the pro side effectively addressed these limitations in Turn 2 by highlighting the efforts of many schools to prioritize physical well-being alongside intellectual development, ultimately demonstrating that a balanced approach is possible and justifying their initial claim that eating more healthy foods is a good option."
+}

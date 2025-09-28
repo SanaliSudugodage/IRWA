@@ -1,0 +1,48 @@
+{
+  "motion": "Low Calorie foods are healthy option for adults in Late 60's",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 4,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "As people age, their nutritional needs change, and low-calorie foods can help older adults maintain a healthy weight and reduce the risk of chronic diseases like diabetes and heart disease.",
+      "argument_citations": [],
+      "rebuttal": "While low-calorie foods may indeed contribute to weight management and disease risk reduction for older adults, it is crucial to consider the potential risks of inadequate caloric intake in this age group. Specifically, a diet that is too restrictive may lead to nutrient deficiencies or compromised immune function, which could have unintended consequences on overall health.",
+      "rebuttal_citations": [],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 1,
+          "clarity": 3,
+          "fairness": 3,
+          "total": 12
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 1,
+          "clarity": 2,
+          "fairness": 5,
+          "total": 13
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 0,
+    "con_points": 1,
+    "total_turns": 1
+  },
+  "final_winner": "con",
+  "final_justification": "Cancelled by user after 1 turn(s)."
+}

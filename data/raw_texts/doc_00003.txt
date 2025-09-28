@@ -1,0 +1,696 @@
+Debate Brief · Universal Basic Income 
+ 
+Resolved: The United States federal government should replace its 
+current federal welfare programs with a universal basic income. 
+ 
+“A hand-up, rather than a hand-out, SEED seeks to empower its recipients financially and to 
+prove to supporters and skeptics alike that poverty results from a lack of cash, not character.” 
+—Website of the Stockton Economic Empowerment Demonstration (SEED) project,  
+the first city-level guaranteed income project in the U.S. 
+ 
+ 
+“It’s an old problem: Should we give poor people an in-kind transfer (say, food) or an amount of 
+money equal to the cost of that transfer? Given the fungibility of money and with subjective 
+autonomy granted to citizens, the recipients of the cash have to be at least as well off as the 
+recipients of the food because the first group can buy the food if that is what is best for them. 
+But they can also buy something else if that is what is better for them.” 
+—Michael Munger, “One and a Half Cheers for a Basic Income”  
+Independent Review, 2015 
+ 
+ 
+“What the public has, the public must pay for. From this there is no escape.” 
+—Calvin Coolidge, Address to the Republican State Convention, Boston, October 4, 1919 
+ 
+ 
+“The state is that great fiction by which everyone tries to live at the expense of everyone else.” 
+—Frederic Bastiat, French Economist, 1848 
+  
+
+ABOUT THE COOLIDGE FOUNDATION 
+The Calvin Coolidge Presidential Foundation is the official foundation dedicated to preserving 
+and promoting the legacy of America’s 30th president, Calvin Coolidge, who served in office 
+from August 1923 to March 1929. These values include civility, bipartisanship, and restraint in 
+government, including wise budgeting. The Foundation was formed in 1960 by a group of 
+Coolidge enthusiasts, including John Coolidge, the president’s son. It maintains offices at the 
+president’s birthplace in Plymouth Notch, Vermont, and in Washington, D.C. The Foundation 
+seeks to increase Americans’ understanding of President Coolidge and the values he promoted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This debate brief written and compiled by: 
+Calvin Coolidge Presidential Foundation 
+P.O. Box 97 
+Plymouth, VT 05056 
+ 
+©2020 Calvin Coolidge Presidential Foundation.  
+Intended for educational use. 
+All rights reserved. 
+BACKGROUND  
+According to the U.S. Census Bureau, about 39.7 million Americans, or about 12.3 percent of 
+the country, live in poverty. Poverty is defined as living below a certain level of household 
+income determined by the government (e.g., $25,100 per year for a family of four, $20,780 per 
+year for a family of three, and so on). To stay current, this threshold is revised periodically.   
+All levels of government—but especially the federal government—spend a great deal of money 
+on social welfare assistance. Various programs provide aid to people based on their household 
+income, with some defining eligibility at 100 percent the federal poverty level, others defining 
+eligibility at 133 percent of the federal poverty, or even 200 percent of the federal poverty 
+level. Almost $500 billion dollars is estimated to be spent on social welfare programs in one 
+form or another in the coming year, and that figure exceeds one trillion dollars if one includes 
+funding for Medicaid (a program that pays for medical care for the poor). Since the start of the 
+War on Poverty in the 1960s, the U.S. has spent over $22 trillion on alleviating poverty, yet 
+despite all of this spending, the problem of poverty does not seem to be going away.1 This leads 
+one to ask, “Are there are more effective ways to spend that money?”   
+In the 1960s, an idea emerged on the policy scene that proposed to alleviate poverty by 
+establishing a “guaranteed annual income,” or what we call today the idea of a Universal Basic 
+Income (UBI).2 In the decades that followed, the U.S. did not implement this streamlined plan, 
+and instead opted for a patchwork of numerous programs, agencies, and initiatives aimed at 
+addressing (housing, food, medical care, wage support, and so on). Today, however, some 
+people are asking whether it is time to switch strategies and embrace the UBI.  
+Under a UBI, the federal government would replace its vast array of social welfare programs 
+aimed at various needs in life (housing, food, transportation, health, etc.) with a single program 
+that provides a universal payment directly to citizens, without conditions, eligibility criteria, or 
+other special limitations. The exact amount each person would receive—whether it would be 
+$600 per month, $800 per month, $1,000 per month, or more—is an implementation detail 
+that would have to be worked out. But even without knowing specific figures and details, we 
+can still contemplate and debate whether a UBI is a good idea. 
+The case for a UBI can be made on many diverse grounds, including social justice, 
+administrative efficiency, and even as a type of social response to the threat to steady, 
+meaningful employment that some people see coming from robotics and automation. The case 
+against UBI is likewise rich and diverse, with concerns raised over not just the practical 
+implementation of the policy but of the philosophic and human risks of inculcating mass 
+dependence. As you develop your cases for both sides of this issue, we hope you will consider 
+all of these perspectives and weigh all the available evidence.  
+ 
+1 “Poverty in America” The Poverty Circle. Accessed October 19, 2019. 
+2 Frances Fox Piven, R. Cloward, “The Weight of the Poor: A Strategy to End Poverty.” The Nation. May 2, 1966. 
+THE COOLIDGE CONNECTION  
+As a man who served as Governor in the 1910s and President in the 1920s, Coolidge rose to 
+prominence long before any modern notion of a universal basic income was formally developed 
+or proposed. We cannot know precisely what Coolidge would have thought about the idea of 
+giving all citizens a government payment as a matter of right, but we can contemplate where 
+his views on topics such as charity, work, and public administration might have steered him.  
+For Coolidge, that assistance which was best was that which respected an individual’s ability to 
+make his own choices and pull himself up. Financial hardship in the view of the time was often a 
+temporary condition that could be remedied in part with assistance but also with initiative and 
+hard work. It would be unwise, Coolidge would likely agree, to introduce any program that 
+would lead to long-term dependence. As he told an audience of philanthropists in 1926:  
+"Nothing is finer than the open hand and the generous heart that's prompt free and 
+unselfish giving. But modern social science knows, also, that ill directed charity is often 
+directly responsible for encouragement of pauperism and mendicancy. The best service 
+we can do for the needy and the unfortunate is to help them in such manner that their 
+self-respect, their ability to help themselves, shall not be injured but augmented. Nobody 
+is necessarily out merely because he is down. But, being down, nobody gets up again 
+without honest effort of his own. The best help that benevolence and philanthropy can 
+give is that which induces everybody to help himself."3 
+Such a sentiment on the one hand might suggest that Coolidge would be quite opposed to a 
+universal basic income—a policy that provides automatic payment without so much as even a 
+work requirement. On the other hand, from the standpoint of sheer administrative efficiency, it 
+is possible that the budgeter and economizer in Coolidge could have liked the idea of the UBI. 
+In the same 1926 speech, he praises the Federation of Jewish Philanthropic Societies of New 
+York City for their operational efficiency, “economical management,” and minimal waste: 
+“Duplication of services, which always means multiplication of expense and division of 
+results, is avoided. The man or woman who gives through this agency, knows that the 
+most good will be done, at the least expense. All administrative costs of the organization 
+have averaged less than four cents on the dollar.”4 
+Drawing from passages such as the one above, one could argue that Coolidge might at least 
+praise the cleverness of the UBI (if not the actual policy) as an attempt to make more efficient 
+“operations that ordinarily are haphazard and wasteful.” How Coolidge would have reacted to a 
+UBI bill is open for debate. You now get to decide which side has the stronger case.    
+ 
+3 Coolidge, Calvin. “Remarks to the Federation of Jewish Philanthropic Societies of New York City .” Oct. 26, 1924. 
+4 Ibid. 
+KEY TERMS 
+Note: In this resolution we use the term “universal basic income” (UBI), but you should be aware 
+that this general idea has been known by several different names over the years, including the 
+“basic income guarantee” (BIG), “guaranteed national income” (GNI), “citizen’s basic income” 
+(CBI), and “basic living stipend” (BLS). These are all essentially synonymous. To avoid confusion, 
+we use UBI in this brief and we recommend that everyone use UBI in their speeches. 
+Tax – A compulsory payment that is demanded by the government, typically levied on 
+individuals’ incomes, business profits, or added to the cost of goods, services, and transactions. 
+Negative Income Tax –  A Negative Income Tax (NIT) is a social policy in which individuals 
+receive payments from the IRS rather than pay taxes to the IRS, based on how far their incomes 
+fell below a certain threshold. An NIT has some similarities to UBI, but it allows for more 
+variation in the payments based on income. Economist Milton Friedman was an early NIT 
+proponent in the 1960s. It has not been enacted, but is still commonly discussed. 
+Transfer payment – A transfer payment is a payment to a person without any good being 
+exchanged or service being performed. It is pure redistribution, as occurs in social welfare 
+programs such as social security, student grants, o unemployment compensation. A subsidy is 
+not a transfer payment because economic activity is involved. 
+Administrative Costs – Expenses incurred from running a program, agency, or organization, 
+aside from the core business function of the entity. In a government program such as a welfare 
+office, administrative costs do not include the money that is given out to poor people, but do 
+include the salaries of the office personnel who have to be hired to run the agency on a daily 
+basis (i.e., write and mail the checks, enroll people, and keep track of the accounting).  
+Means-test – A test of whether someone is eligible for government assistance, based upon 
+whether that person possesses the means to do without that help (usually done by income). 
+Social Safety Net – The collection of various services, programs, and institutions run by the 
+government to help individuals who are facing various forms of financial difficulty, social 
+hardship, or disability. The term encompasses welfare, unemployment benefits, educational 
+assistance, subsidized housing, legal aid, pensions, workers compensation, assistance with 
+utilities, homeless shelters, public transport, and other programs forms of assistance. 
+Fungible – The characteristic of easily being able to replace or be replaced by something else. In 
+economics, money and commodities such as gold and oil are said to be fungibility, since one 
+dollar can be replaced by another dollar, one ounce of gold has the same value as another 
+ounce of gold, and one barrel of oil has the same value as another barrel of oil. 
+Wage Support – A targeted financial incentive to make working a particular job more attractive.  
+AFFIRMATIVE ARGUMENTS 
+1. A universal basic income program is a cheaper and more efficient way to offer social 
+welfare assistance. 
+The federal government operates 122 different 
+social welfare programs, spending roughly $725 
+billion each year to alleviate poverty.5 However, 
+despite the enormous amount of continued 
+spending, poverty rates have hovered between 
+12 percent and 15 percent for over forty years 
+with little improvement. Although government 
+programs have done some good along the way in 
+terms of alleviating suffering, few people would 
+claim that these programs have completely solved the poverty problem. 
+The main idea behind a universal basic income is to simplify the way the federal government 
+tackles the problem of providing social welfare by running one program that provides a 
+universal payment (whether monthly, quarterly, or annually), rather than running dozens of 
+programs, each with its own infrastructure, administrators, processes, and paperwork. 
+Capitalizing on economy of scale among other advantages, this one single program can be run 
+more efficiently than the medley of programs, which have varying levels of efficiency and which 
+in some cases duplicate efforts.  
+A big part of the savings from a UBI comes from lowering administrative costs. Although it is not 
+true, as some partisans claim, that “most” of spending goes towards administrative costs—
+studies suggest less than 10 percent goes to such costs for major programs—it is nevertheless 
+true that every administrative dollar that can be saved can in theory be redirected to the 
+mission of the program.6 Since the programs that would be consolidated under a UBI are so 
+large, every percentage point of administrative savings represents billions of dollars that could 
+go straight to the intended recipients, rather than “to fund very expensive meetings where very 
+smart people sit and worry about what to do about poverty.”7  
+Program consolidation would also be easier and more efficient for recipients to navigate. Under 
+the status quo, recipients waste time and resources visiting program offices, waiting line, and 
+cashing multiple checks.8 Under a UBI, all of this reclaimed time and effort would be pure gain. 
+ 
+ 
+5 ThePolicyCircle.org, “Poverty: History and Key Facts” Accessed October 23, 2019. 
+6 Greenstein, Robert. “Romney's Charge That Most Federal Low-Income Spending Goes for Overhead and 
+Bureaucrats Is False” Center on Budget and Policy Priorities. January 23, 2012 
+7 Munger, Michael. “One and a Half Cheers for a Basic Income” Independent Review. 2015. 
+8 Tanner, Michael. “The Pros and Cons of a Guaranteed National Income.” Cato Institute. May 12, 2015. 
+In Fiscal Year 2020, total US government 
+spending on welfare at all levels (federal, 
+state, and local) is estimated to be 
+approximately $1,097 billion. Of that, about 
+$649 billion goes to Medicaid. The rest goes 
+to other forms of social welfare. 
+Source: USGovernmentSpending.com 
+The following graph shows federal spending on welfare programs over time. Spending as a 
+percentage of GDP was historically very low up until the 1930s, at which point the government 
+drastically increased its spending as a response to the Great Depression. In general, spending 
+has trended upward in the decades since, with roughly decadal peaks followed by decreases. 
+ 
+ 
+U.S. Federal Spending on Welfare, 1900-2020 
+ 
+Source: “A Century of Welfare Spending.” USGovernmentSpending.com. Accessed October 21, 2019.   
+ 
+2. A universal basic income preserves the incentive to work and eliminates the poverty trap.  
+A common pitfall of conventional social welfare programs is that they have eligibility 
+requirements that can create perverse incentives and unintended consequences. For instance, 
+for individuals receiving welfare benefits that are based on income, there is a disincentive to 
+enter re-enter the labor force or to increase the number of hours one works, since earning 
+more can lead to a loss in benefits. At certain income thresholds, working more can mean that 
+people must pay higher taxes.  
+
+Under a UBI, people do not avoid work in order to 
+avoid losing their benefits because everyone 
+receives the benefit, regardless of how much or 
+how little they work. People who work more do 
+not risk losing their program eligibility status. 
+A universal basic income program causes less 
+distortion than a collection of different means-
+tested social welfare programs. In economics, a 
+distortion is said to occur whenever the 
+government intervenes in a person’s decision 
+making process and causes that person to act 
+differently. Usually we wish to eliminate 
+distortions because most distortions are bad—they 
+represent scenarios in which a person chooses a 
+less than optimal action in response to some incentive.  
+Take, for example, a poverty program that intends to help people get the food they need. 
+Imagine that in order to ensure that the program helps those who need it most, the program 
+decides that it will only give out food to people who are unemployed. A potential distortion that 
+could occur under this program design is that a poor person who is trying to lift himself up out 
+of poverty and who manages to get an offer of employment might decide to reject that job 
+opportunity due to the food assistance program’s policy. After all, if he accepts the job, he will 
+no longer be eligible for the food assistance. He might surmise that he is better off without the 
+job—perhaps because even though it represents a chance to earn more in the future, the 
+starting pay is very low. This type of situation is sometimes called a “poverty trap.” 
+A safety net with a UBI as its central feature does not run the risk of creating this type of 
+distortion or trap because under a UBI, income is given to everyone, without elaborate 
+eligibility requirements and program rules. Economists would argue that all else equal, we 
+should prefer policies that minimize distortion. Since it is a straightforward cash-based 
+program, the UBI avoids distortions better than perhaps any other alternative.  
+ 
+  
+“The median or typical worker with earnings 
+below half of the poverty line has a marginal 
+tax rate of 14 percent, according to CBO’s 
+recent analysis of marginal tax rates, 
+meaning that he or she loses 14 cents in 
+higher taxes and/or lower benefits for each 
+additional dollar earned.  Workers with 
+earnings between 50 and 100 percent of the 
+poverty line typically face marginal tax rates 
+of 24 percent.” 
+Source: Shapiro, et al. “It Pays to Work: Work 
+Incentives and the Safety Net.” Center on Budget 
+and Policy Priorities. (2016) 
+3. The universal basic income offers protection against technology-driven unemployment and 
+potential social unrest.  
+As the adoption of robotics and automation 
+begin to accelerate in the U.S., we need to 
+acknowledge that work as we know it could soon 
+cease to exist. According to a report from the 
+global consulting company McKinsey, “in about 
+60 percent of occupations, at least one-third of 
+the constituent activities could be automated, 
+implying substantial workplace transformations 
+and changes for all workers.”9 This could displace 
+tens of millions of Americans from their jobs, 
+creating mass unemployment and a social 
+problem unlike any we have seen before in the 
+post-industrial era. 
+In the long run, occupations can change and 
+adjust to new technological developments. For 
+instance, there are fewer appliance repairmen 
+today than there were 40 years ago, and more 
+software engineers. Those trends changed gradually over the course of a lifetime. However, 
+modern automation has the potential to upend people virtually overnight. People who today 
+have well-paying jobs in paralegal work, accounting, and mortgage origination could find 
+themselves out of a job very suddenly.  
+A UBI is the fairest and most efficient way to provide broad-based assistance to help those who 
+are displaced by technological advancement. Among other reasons, it helps people at all levels 
+of the wealth spectrum—meaning that if a previously well-paid worker loses his job due to 
+automation, he does not need to draw down his savings until he is poor in order to qualify for 
+assistance, the way most programs work. He can start living off the UBI benefit right away. 
+ 
+4. Having one universal basic income program is more financially transparent than a 
+collection of different welfare programs, and it is less susceptible to fraud and abuse. 
+Under the current patchwork approach to providing social welfare, it is difficult to track and 
+measure how much each program costs, where the money goes, and whether it is doing any 
+good for the intended beneficiaries. There are many layers of management involved in 
+administering the programs, and a wide range of costs associated with sourcing and providing 
+ 
+9 Manyika, et al. “Jobs Lost, Jobs Gained: What the future of work will mean for jobs, skills, and wages ” McKinsey & 
+Co., November 2017. 
+“In the next 12 years, 1 out of 3 American 
+workers are at risk of losing their jobs to new 
+technologies—and unlike with previous 
+waves of automation, this time new jobs will 
+not appear quickly enough in large enough 
+numbers to make up for it. To avoid an 
+unprecedented crisis, we’re going to have to 
+find a new solution, unlike anything we’ve 
+done before. It all begins with the Freedom 
+Dividend, a universal basic income for all 
+American adults, no strings attached—a 
+foundation on which a stable, prosperous, 
+and just society can be built.”  
+Source: Official campaign website of 2020 
+Democratic Presidential Candidate Andrew Yang, 
+who advocates for a UBI that he calls the 
+“Freedom Dividend.” 
+goods in-kind (i.e. food, clothing, and other sorts of physical donations, as opposed to money 
+which could be used to buy those things). Moreover, the more complicated these programs are, 
+the greater the risk of waste, fraud, and abuse.   
+A UBI, by contrast, would provide extreme transparency. Because it is less complex, it would be 
+“easier to monitor for fraud, and not susceptible to the free-riding of many in-kind benefits.”10 
+Recipients would not spend time or effort trying to game the system or misrepresent their 
+situation to be worse than it is in order to garner additional benefits. Likewise, elected officials 
+would have less incentive and less ability to pit programs against each other for political 
+reasons, or to manipulate program budgets based on constituencies to “claim credit and buy 
+votes” the way they can with current programs.11  
+ 
+5. Giving people cash and trusting them to make the right choices about how to satisfy their 
+needs treats people with respect.  
+Many social welfare programs give “in-kind” assistance (e.g., food, clothing, shelter), which run 
+the risk of providing items that are of less-than-ideal use to the recipients. Other programs, 
+such as the Supplemental Nutrition Assistance Program (SNAP), give vouchers that recipients 
+can use to buy items in stores. These programs offer greater flexibility but they still often have 
+limitations and restrictions—for instance, SNAP recipients cannot use their card to purchase 
+alcohol, tobacco, pet food, or vitamins. 
+This type of program design treats poor people like they are incapable of making the right 
+choices for themselves and their families. As Matthew Feeney writes in the libertarian-leaning 
+Reason magazine:   
+“[O]ne of the tragedies of the current welfare system is that it strips welfare recipients of 
+their dignity while treating many of them like children, and functions on the underlying 
+assumption that somehow being poor means you are incapable of making good 
+decisions.”12 
+By contrast, the UBI gives people money that they can use however they see fit. This promotes 
+personal responsibility and preserves the dignity of the person receiving the assistance. These 
+are important values that we should uphold. Notable economist Deirdre McCloskey concurs: 
+“Giving money is good because it respects the dignity of the recipients. It treats them like 
+adults, not children. When you treat people like adults, they tend to act like adults.”13 
+ 
+10 Hammond, Samuel. “Universal Basic Income: Real and Ideal.” Niskanen Center. November 7, 2016. 
+11 Munger, Michael. “One and a Half Cheers for a Basic Income” Independent Review. 2015. 
+12 Feeney, Matthew. “Scrap the Welfare State and Give People Free Money” Reason. November 26, 2013. 
+13 McCloskey, Dierdre. “Guaranteed income? Yes: Rethink how to help poor, end subsidies and instill dignity .” 
+Orlando Sentinel. June 28, 2016. 
+6. A universal basic income program would be fairer, less biased, and could better combat 
+racial and gender wealth inequities.  
+Present welfare programs are sometimes criticized as being unfair based on race and/or 
+gender. Because these programs are so intricately designed, there are countless ways in which 
+one city, neighborhood, or family might receive disproportionately more or less of a benefit 
+than another—whether this is the result of intentional bias or not.14 Even if no unfairness is 
+intended, it is hard to put forth a collection of programs that offer in-kind assistance that is 
+perfectly fair to all people at all times since different people have different needs. (For example, 
+urban poverty presents a different set of challenges than addressing rural poverty.)  
+The UBI helps to overcome this, however, because it distributes money, not goods. Money is 
+fungible, liquid, and universally accepted. It can help eliminate bias in program design because 
+everyone receives the same fungible good and can use it to go purchase what is most important 
+to them. Indeed, civil rights leaders from the 1960s were some of the earliest proponents of a 
+UBI. Martin Luther King, Jr., even endorsed and promoted the idea in his later works. And, not 
+only did King view a basic income as a good policy for Black Americans, he knew that two-thirds 
+of poor Americans at the time were White, so he viewed the UBI as an approach toward social 
+welfare reform that could potentially unite the country.15 
+  
+ 
+14 Bhattacharya, Jhumpa. “Exploring Guaranteed Income Through A Racial and Gender Justice Lens.” Roosevelt 
+Institute. June 2019 
+15 Schwartz, Avshalom. “UBI, Racial Justice, and a Re-Imagined Social Contract for the 21st Century” Stanford 
+McCoy Family Center for Ethics in Society. January 22, 2018. 
+“According to an analysis of Yang’s Freedom 
+Dividend by the UBI Center, an open source 
+think tank researching universal basic income 
+policies, there are about 236 million adult 
+citizens in the United States. At $12,000 a 
+piece, the total gross cost of the dividend 
+would be $2.8 trillion each year.” 
+Source: Pomerleau, Kyle. “Does Andrew Yang’s 
+‘Freedom Dividend’ Add Up?” Tax Foundation. July 
+24, 2019. 
+“There are over 300 million Americans today.  
+Suppose UBI provided everyone with $10,000 
+a year. That would cost more than $3 trillion a 
+year—and $30 trillion to $40 trillion over ten 
+years. This single-year figure equals more 
+than three-fourths of the entire yearly federal 
+budget. …It’s also equal to close to 100 
+percent of all tax revenue the federal 
+government collects.” 
+Source: Greenstein, Robert. “Commentary: 
+Universal Basic Income May Sound Attractive But, 
+If It Occurred, Would Likelier Increase Poverty 
+Than Reduce It” Center on Budget and Policy 
+Priorities. June 13, 2019. 
+NEGATIVE ARGUMENTS 
+1. Almost everywhere that the UBI has been tried, it has been found to be too expensive. 
+Uprooting the federal government’s entire 
+system of social welfare assistance and 
+replacing it with a UBI would be a major policy 
+change—and a very risky one too. In practice, 
+the UBI is a new and largely untested idea. It 
+has never been widely rolled out in a major 
+western democracy, and in the few places in 
+which it has been tested, the results have been 
+at best mixed. 
+One place where the UBI has been recently 
+tested is the Canadian province of Ontario. 
+Starting in October 2017, about 4,000 single 
+Canadians began getting monthly stipends of 
+about $1,400 dollars Canadian (about $1,000 U.S.). Married couples received slightly less per 
+person. Although popular among recipients—why wouldn’t it be—the program which had been 
+scheduled to run for three years was ultimately cancelled after just 15 months due to high and 
+unsustainable costs.16 According to Ontario’s minister in charge of social services, the UBI was 
+“clearly not the answer for Ontario families.”17 
+Another place where it has been tested recently 
+is Finland starting in 2017. Kela, the Finnish 
+Social Insurance Institution is giving cash benefit 
+of €560 per month (about $620 U.S.) to 
+approximately 2,000 randomly selected 
+unemployed participants between ages 25 and 
+58.18 Participants in the program reported 
+feeling happier and less stressed, but contrary 
+to hopes that the added financial security would 
+liberate people to be more productive, join the 
+ 
+16 Bergstein, Brian. “Basic income could work—if you do it Canada-style” MIT Technology Review. June 20, 2018 
+17 Winfree, Paul. “Canadian Experiment Quickly Shows Failures of Universal Basic Income” Heritage Foundation. 
+August 8, 2018. 
+18 Meyer, David. “Finland’s Basic Income Experiment Kind of Works, but Not in Employment Terms ” Fortune. 
+February 8, 2019 
+“gig economy,” or exercise entrepreneurial creativity, the UBI did not lead more recipients to 
+finding work, which was one of the goals.19 The experiment ended two years later in late 2018 
+and there are no plans to resurrect it. 
+ 
+2. A universal basic income would rob people of the incentive to work. 
+Although work can be very dignifying and rewarding over and above the monetary payment 
+that one receives in the form of wages or salary, it is nevertheless the case that most people 
+work not because they wish to but because they have to in order to support themselves. In 
+other words, given a choice between working and not working, with no effect on quality of life 
+either way, most people would choose to work far less or not at all. Given this, we should 
+expect that most people if provided with a guaranteed basic income would drastically cut their 
+work hours or cease to work altogether. 
+In studies conducted across six U.S. states in the 1960s, 70s, and 80s, researchers found that 
+instituting the policy of a Negative Income Tax (which is very similar to a UBI) significantly 
+reduced annual work hours among recipients: “For each $1,000 in added benefits, there was an 
+average $660 reduction in earnings, meaning that $3,000 in government benefits was required 
+for a net increase of $1,000 in family income.”20 In response to these experiences, policymakers 
+shifted their focus to more conventional welfare programs with work requirements. 
+By eliminating work requirements from welfare programs, UBI would incentivize poor 
+individuals to work less rahter than more, which only hurts their skills and employability in the 
+future and further increasing their dependence on government. Policy analyst Oren Cass 
+describes the importance of maintaining strong incentives for work:  
+“[A] labor market in which workers can support strong families and communities is the 
+central determinant of long-term prosperity and should be the central focus of public 
+policy. … Work is both a nexus of community and a prerequisite for it. Work relationships 
+represent a crucial source of social capital, establishing a base from which people can 
+engage in the broader community. Communities that lack work, by contrast, suffer 
+maladies that degrade social capital and lead to persistent poverty. Crime and addiction 
+increase, their participants in turn becoming ever less employable; investments in 
+housing and communal assets decline; a downward spiral is set in motion.”21 
+Robbing people of the incentive to work (if employed) or to find work (if unemployed) is an 
+outcome that is neither economically desirable nor socially desirable and should be avoided. 
+ 
+19 Nagesh, Ashitha. “Finland basic income trial left people 'happier but jobless'” BBC News. February 2019. 
+20 Rector, Robert, and Mimi Teixeira. “Universal Basic Income Harms Recipients and Increases Dependence on 
+Government.” Heritage Foundation. February 14, 2018. 
+21 Cass, Oren. “The Working Hypothesis.” National Review. October 15, 2018. 
+3. Providing everyone with a basic income takes away personal dignity and self-esteem, and 
+replaces it with an ethos of dependence. 
+If people are to receive their sustenance 
+automatically, by right, without any 
+requirement and expectation to contribute to 
+society, what then becomes of personal 
+dignity? If the amount of the UBI is generous 
+enough to live on without doing anything in 
+exchange, the implicit message to people is that 
+their effort and their contribution to the world 
+does not matter.  
+This is psychologically very dangerous, since for 
+most people a large part of their self-esteem 
+and self-worth comes from the work that they 
+do, the products they create, or the services 
+that they render. Particularly for individuals 
+displaced by new technologies and automation, a UBI can be looked at as a bribe to remain 
+passive, admit their irrelevance to the economy, and accept the social status of a beggar 
+relieved of the inconvenience of having to beg.  
+Most people find work to be socially and psychologically supportive.22 Researchers who study 
+job loss, retirement, and other such events find negative psychological effects from social 
+withdrawal. In other words, unemployment is bad for mental health—particularly for young 
+and middle-aged people. As economist Tyler Cowen notes, “the unemployed are more likely to 
+have mental health problems, are more likely to commit suicide, and are significantly less 
+happy.”23 Eighteenth century economist and Scottish enlightenment figure Adam Smith 
+illustrates this perhaps most deeply [emphasis added]: 
+“It is not from the benevolence of the butcher, the brewer, or the baker that we expect 
+our dinner, but from their regard to their own interest. We address ourselves, not to 
+their humanity but to their self-love, and never talk to them of our own necessities but of 
+their advantages. Nobody but a beggar chooses to depend chiefly upon the benevolence 
+of his fellow-citizens.”24 
+Although the economic efficiency of the UBI is attractive, replacing conventional programs is 
+not preferable. We should not steer people away from pursuing a meaningful, dignified life.  
+ 
+ 
+22 Foster, Gigi. “Universal basic income: the dangerous idea of 2016” The Conversation. December 26, 2016. 
+23 Cowen, Tyler. “Big Business: A Love Letter to an American Anti-Hero.” (2019). 
+24 Smith, Adam. “An Inquiry Into the Nature and Causes of the Wealth of Nations.” (1776).  
+“McGovern’s grotesque proposal to hand out 
+$1,000 a year to every citizen (then make him 
+pay taxes on it) was a bookkeeper’s 
+nightmare, but it was not so funny 
+ideologically: Its purpose was to place 
+everyone, in principle, on the level of welfare 
+recipients and thus wipe out the difference 
+between an earned income and an unearned 
+one, establishing the government’s 
+ownership of all income.”    
+Source: Rand, Ayn. “McGovern is the first to offer 
+full-fledged statism to the American people.” 
+Saturday Review. 1972. 
+4. Under a UBI, money will go to wealthy people who do not need it. 
+As a general rule, UBI plans are not means-
+tested, which means that they do not set 
+income-based eligibility requirements. Under a 
+UBI scheme, everyone would receive 
+payments—even America’s millionaires and 
+billionaires. Skeptics should rightly ask UBI 
+proponents, why should we give money to 
+people who do not need it?  
+That is not to say that the federal poverty line necessarily should be the threshold for all social 
+welfare assistance. Many current programs serve families who are well above the poverty line 
+in terms of household income. For example, more than half of all infants in the U.S. receive help 
+from the Supplemental Nutrition Program for Women and Children (WIC).25 Extending some 
+programs to families of slightly greater-than-modest means is not unreasonable. But do Bill 
+Gates, Warren Buffet, and Jeff Bezos—or the many comfortable households led by doctors, 
+lawyers, and businesspeople–really need a $1,000 UBI check from the government each 
+month? A UBI would transfer taxpayer money to millions of relatively affluent people, including 
+young professionals without dependents and grown adults who are capable of self-support.26  
+Additionally, not everyone who could benefit from some social welfare assistance needs the full 
+amount of assistance. Some people only need help in one part of their life. It is not the case 
+that all Americans can be categorized as either: a) poor and in need of extensive help, or b) not 
+poor and in need of no help. Approximately 91.3 million people (28.2 percent) in the U.S. live in 
+a household that participates in a major means-tested government assistance program each 
+month. Of those households, very few participate in all programs because peoples’ needs differ 
+by category of need. For instance, there are millions of people who receive assistance from the 
+Supplemental Nutrition Assistance Program (SNAP) who do not need help with housing. There 
+are millions of households who need help with housing, but who do not have children and 
+therefore do not need subsidized school lunches. And so on.   
+Under a UBI, all welfare assistance would be bundled together regardless of whether a person 
+or household needs help in those areas of life. Because it does not allow varying amounts of 
+assistance based on actual need, the UBI is a blunt policy instrument that is wasteful and is 
+destined to be far more expensive than the country can afford. If we are going to have 
+assistance programs, it is better to have multiple assistance programs so that we can offer 
+programs to people just based on what they need. 
+ 
+25 Shaefer, et al. “Spending on Government Anti-Poverty Efforts: Healthcare Expenditures Vastly Outstrip Income 
+Transfers.” Poverty Solutions at University of Michigan. October 18, 2019 
+26 Rector, Robert, and Mimi Teixeira. “Universal Basic Income Harms Recipients and Increases Dependence on 
+Government.” Heritage Foundation. February 14, 2018. 
+A UBI would transfer public funds to millions 
+of already relatively affluent people, including 
+young professionals without dependents.  
+We should aspire to have as few people as 
+possible receiving assistance—not as many 
+people as possible.  
+5. Without conditions, people might use the basic income on things that are bad for them. 
+Since 2012, the federal government has placed limitations on what individuals in the Temporary 
+Assistance to Needy Families (TANF) program can purchase with the cash-like benefit that they 
+receive through the program. Benefits cannot be spent in liquor stores, gaming or gambling 
+establishments, or adult entertainment venues.27 Other programs have similar limitations. 
+Programs intended to provide help with food and groceries typically exclude cigarettes, 
+cosmetics, house supplies, pet food, and vitamins. These are clear, fair limitations that help 
+ensure users of these benefits do not purchase things that are likely to be unhelpful to them. 
+Under a UBI, these guardrails would cease to exist. UBI recipients could use their money to buy 
+anything—including things that could be wasteful or cause harm. Not only is this potentially 
+detrimental to UBI recipients, it is demoralizing to taxpayers whose payments fund the UBI. It is 
+wrong to require them to subsidize the bad (and to some people, immoral) actions of others.  
+ 
+6. There is no widely accepted definition of what a “basic living” is. 
+The UBI is supposed to provide people with money to cover basic living costs, so that they can 
+avoid poverty and attain some level of security. There is no objective way, however, to 
+determine what constitutes a basic standard of living and thus how much the UBI should be. 
+Should it be $500 per month? $2,000 per month? The cost of living varies dramatically across 
+the country. It is expensive to live in New York City, but inexpensive to live in rural Wyoming. 
+Should a New Yorker get a bigger UBI payment than someone who lives in Wyoming just 
+because of where he chooses to live? There is no fair way to answer these questions.  
+Furthermore, as we consider different potential amounts for the UBI, the affordability of the 
+plan starts to change radically. If we were to set a UBI very low, say at $100 per month, then 
+the savings from phasing out the rest of the social welfare programs would likely more than 
+cover the cost of the UBI—but a $100 per month UBI would be a drastic cut for those who 
+currently receive far more than that. If we were to set a UBI very high, say at $1,500 per month, 
+we would quickly run out of money and would need to find additional sources of funds. 
+According to economists, to fund a $1,000 per month UBI while keeping all other spending the 
+same, the federal government would have to raise an additional $539 billion a year, or almost 3 
+percent of its GDP.28 To make this work, the tax structure would have to be changed so that 
+only those earning less than $24,000 per year would actually receive a net gain from the UBI. 
+Anyone earning more than $24,000 per year would be taxed an amount that actually exceeds 
+the benefit that they would get from the UBI.  
+ 
+27 “Restrictions on Use of Public Assistance Electronic Benefit Transfer (EBT) Cards ” National Conference of State 
+Legislatures. May 2015. 
+28 Widerquist, Karl. "The Cost of Basic Income: Back-of-the-Envelope Calculations" Basic Income Studies (2017) 
+APPENDIX A. Spending on Social Welfare as Percentage of GDP, By Country 
+The social expenditures represented below include cash benefits, direct in-kind provision of 
+goods and services, and tax breaks with social purposes. Different countries structure their 
+programs in different ways, and target different populations (e.g., low-income households, the 
+elderly, disabled, unemployed, or other people). Social benefits not provided by government 
+are considered private and are not reflected here. 
+ 
+ 
+Public Social Welfare Spending as a Percentage of GDP 
+ 
+ 
+Source: OECD (2020), “Social Spending (indicator).” doi: 10.1787/7497563b-en 
+(Accessed on 13 January 2020). Data are 2018 or latest year available. 
+  
+
+APPENDIX B. Poverty Distribution Across the United States, By State 
+The U.S. Census Bureau maintains an Official Poverty Measure (OPM), which it updates each 
+year based on various estimates and projections. Poverty is not distributed evenly around the 
+country. Some states have much higher poverty rates than others, and differences at the 
+county and city levels can be even more pronounced.  
+ 
+ 
+ 
+Source: “2018 Poverty Rate in the United States.” U.S. Census Bureau, September 26, 2019 
+ 
+ 
+  
+
+APPENDIX C. Current Federal Spending on Safety Net Programs 
+Spending on safety net programs constitutes approximately 9 percent of all federal spending in 
+2017. Social Security, the military, and health programs such as Medicare and Medicaid 
+constitute the other major portions of the federal budget. 
+ 
+ 
+ 
+ 
+Source: 2017 Figures from the Office of Management and Budget, FY 2019.  
+Illustration by the Center on Budget and Policy Priorities.   
+ 
+  
+
+APPENDIX D. Assistance Program Household Participation by Age  
+The U.S. Census Bureau asked participants to report their poverty status for 2018 and whether 
+they or anyone in their household participated in one of a variety of assistance programs. 
+Below are the data, broken down by age. Numbers are in thousands.    
+ 
+  
+In household 
+that received 
+means-tested  
+ assistance 
+In household 
+that received 
+means-tested  
+ cash assistance 
+In household 
+that received 
+food stamps 
+Lived in public or 
+authorized 
+housing 
+All Races  
+ All income 
+levels 
+Total Number Percent Number Percent Number Percent Number Percent 
+Total 323,847 91,342 28.2 18,658 5.8 34,909 10.8 12,286 3.8 
+Under 18 years 73,284 32,853 44.8 4,276 5.8 12,480 17.0 3,785 5.2 
+18 to 24 years 29,085 8,389 28.8 1,602 5.5 3,145 10.8 1,174 4.0 
+25 to 34 years 45,208 11,693 25.9 2,197 4.9 4,704 10.4 1,627 3.6 
+35 to 44 years 41,027 12,270 29.9 2,112 5.1 4,051 9.9 1,229 3.0 
+45 to 54 years 40,700 9,493 23.3 2,366 5.8 3,298 8.1 1,043 2.6 
+55 to 59 years 21,163 4,351 20.6 1,645 7.8 1,834 8.7 614 2.9 
+60 to 64 years 20,592 4,004 19.4 1,473 7.2 1,717 8.3 646 3.1 
+65 years+ 52,788 8,287 15.7 2,987 5.7 3,680 7.0 2,167 4.1 
+ 
+Source: U.S. Census Bureau, Current Population Survey, 2019 Annual Social and Economic Supplement.

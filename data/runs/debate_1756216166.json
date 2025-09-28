@@ -1,0 +1,91 @@
+{
+  "motion": "Universal Basic Income should be implemented",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 2,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nAccording to research, implementing Universal Basic Income (UBI) requires careful consideration of administrative efficiency, including maintaining accurate records of eligible recipients, designing effective payment modalities, and establishing robust oversight mechanisms.",
+      "argument_citations": [
+        "doc_00000#doc_00000_290"
+      ],
+      "rebuttal": "While it is true that implementing Universal Basic Income (UBI) requires careful consideration of administrative efficiency, one must also acknowledge that the complexity of UBI's administrative framework may inadvertently create new inefficiencies and bureaucratic hurdles, potentially offsetting any potential gains in simplicity or cost-effectiveness. Moreover, the need for robust oversight mechanisms could lead to a significant increase in administrative costs, which may not be justified by the benefits of UBI.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_2",
+        "doc_00000#doc_00000_290",
+        "doc_00004#doc_00004_3",
+        "doc_00000#doc_00000_4",
+        "doc_00000#doc_00000_282"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 1,
+          "fairness": 3,
+          "total": 12
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 1,
+          "fairness": 4,
+          "total": 14
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe implementation of Universal Basic Income (UBI) faces practical bottlenecks, including maintaining an accurate populationwide cadaster of eligible claimants, instituting robust payment modalities, and designing effective oversight mechanisms.",
+      "argument_citations": [
+        "doc_00000#doc_00000_290"
+      ],
+      "rebuttal": "While acknowledging the practical challenges posed by implementing Universal Basic Income (UBI), it is crucial not to overlook the potential for innovative solutions and adaptations that can mitigate these bottlenecks. For instance, leveraging existing administrative infrastructure and technology could streamline processes, such as utilizing digital payment systems or integrating UBI with existing social welfare programs.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_2",
+        "doc_00000#doc_00000_290",
+        "doc_00004#doc_00004_3",
+        "doc_00000#doc_00000_4",
+        "doc_00000#doc_00000_282"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 4,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 15
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 3,
+          "clarity": 1,
+          "fairness": 3,
+          "total": 11
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 1,
+    "con_points": 1,
+    "total_turns": 2
+  },
+  "final_winner": "tie",
+  "final_justification": "Despite the initial tie, the pro side ultimately justifies their position as the winner due to a subtle yet significant pattern. While both sides acknowledged the importance of careful consideration and practical challenges in implementing Universal Basic Income (UBI), the con side's opener failed to provide a convincing counterargument to the pro side's factual claim about administrative efficiency. In contrast, the pro side effectively responded to the con side's rebuttal by highlighting innovative solutions that could overcome these bottlenecks, ultimately shifting the focus towards potential opportunities rather than solely emphasizing challenges."
+}

@@ -1,0 +1,91 @@
+{
+  "motion": "important of doing a sport",
+  "settings": {
+    "mode": "fixed_turns",
+    "max_turns": 2,
+    "target_points": null,
+    "win_by_margin": null,
+    "swap_sides_each_turn": true,
+    "judge_each_turn": true,
+    "judge_final_overall": true
+  },
+  "turns": [
+    {
+      "turn_index": 1,
+      "side": "pro",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\nThe Prospera program in Mexico and similar conditional cash transfer programs worldwide have been shown to lead to substantial improvements in maternal and child health, as well as education indicators.",
+      "argument_citations": [
+        "doc_00004#doc_00004_19"
+      ],
+      "rebuttal": "While the Prospera program and similar conditional cash transfer programs have shown promise in improving maternal and child health, as well as education indicators, it is essential to acknowledge that the effectiveness of these programs may be contingent on factors beyond just the modality of transfers. In fact, the experience of OGRESA's delayed review of beneficiary eligibility highlights the potential for programmatic issues to undermine even the most well-intentioned initiatives.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_119",
+        "doc_00000#doc_00000_45",
+        "doc_00000#doc_00000_91",
+        "doc_00004#doc_00004_19",
+        "doc_00000#doc_00000_124"
+      ],
+      "turn_winner": "con",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 3,
+          "clarity": 2,
+          "fairness": 3,
+          "total": 12
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 4,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 5,
+          "total": 16
+        }
+      }
+    },
+    {
+      "turn_index": 2,
+      "side": "con",
+      "argument_point": "Here is a concise factual claim based on the provided evidence:\n\n\"Conditional cash transfers (CCTs) have been found to lead to mild increases in the use of required services, with 'hard' CCTs displaying the largest effects on enrollment and attendance compared to 'soft' CCTs or unconditional transfers.\"",
+      "argument_citations": [
+        "doc_00000#doc_00000_41"
+      ],
+      "rebuttal": "While conditional cash transfers (CCTs) may exhibit larger effects on enrollment and attendance compared to \"soft\" CCTs or unconditional transfers, it is crucial to acknowledge that these findings might not necessarily translate to meaningful long-term outcomes. Moreover, the significant increases in service use observed with CCTs may be largely driven by the novelty of the program, rather than a sustained change in behavior, as evidenced by the relatively modest 3.2 times increase in service use compared to equivalent income growth.",
+      "rebuttal_citations": [
+        "doc_00000#doc_00000_262",
+        "doc_00000#doc_00000_261",
+        "doc_00000#doc_00000_264",
+        "doc_00000#doc_00000_263",
+        "doc_00000#doc_00000_269"
+      ],
+      "turn_winner": "pro",
+      "turn_scores": {
+        "pro": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 5,
+          "clarity": 2,
+          "fairness": 4,
+          "total": 16
+        },
+        "con": {
+          "relevance": 0,
+          "logic": 5,
+          "evidence": 3,
+          "clarity": 1,
+          "fairness": 3,
+          "total": 12
+        }
+      }
+    }
+  ],
+  "scoreboard": {
+    "pro_points": 1,
+    "con_points": 1,
+    "total_turns": 2
+  },
+  "final_winner": "tie",
+  "final_justification": "Despite the initial tie, the pro's argument ultimately prevails due to a subtle yet crucial pattern in the evidence presented. The con's Turn 1 rebuttal attempted to undermine the importance of doing a sport by highlighting alternative programs with similar benefits, but this was effectively countered by the pro's Turn 2 argument showcasing the unique advantages of conditional cash transfers (CCTs) over unconditional transfers. This subtle shift in focus from \"soft\" CCTs to the more impactful effects of traditional CCTs on enrollment and attendance ultimately justifies the pro's claim that doing a sport is important, as it highlights the distinct benefits that sports can provide beyond other programs or initiatives."
+}
