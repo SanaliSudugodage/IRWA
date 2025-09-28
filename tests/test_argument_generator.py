@@ -39,7 +39,7 @@ def test_generate_argument_works_without_stance():
     assert resp.status_code == 200, resp.text
     data = resp.json()
     assert "Position on" in data["thesis"]
-################################################
+
 
 
 
